@@ -8,6 +8,16 @@
   "format": "Live Stream Interaktif — TikTok / Facebook / Instagram / YouTube",
   "durasi": 3600,
   "ringkasan": "Skrip lengkap live 1 jam, 9 segmen. Setiap asas dibedah dari sudut emas, psikologi wang dan prinsip kejayaan.",
+  "buku": {
+    "housel": {
+      "label": "PoM",
+      "nama": "The Psychology of Money — Morgan Housel"
+    },
+    "canfield": {
+      "label": "TSP",
+      "nama": "The Success Principles — Jack Canfield"
+    }
+  },
   "rujukanTeras": [
     {
       "tajuk": "7 Asas Simpanan Emas",

@@ -39,7 +39,12 @@
       d.segmen.forEach(function (s) {
         var badan = s.skrip.map(plain).join(' ');
         var cues = (s.cues || []).join(' ');
-        var rujuk = (s.rujukan || []).map(function (r) { return r.poin; }).join(' ');
+        // Nama penuh buku dimasukkan supaya carian "atomic habits" atau
+        // "same as ever" menemui segmen, bukan hanya kod pendek lencana.
+        var rujuk = (s.rujukan || []).map(function (r) {
+          var b = (d.buku || {})[r.buku] || {};
+          return r.poin + ' ' + (b.nama || '') + ' ' + (b.label || '');
+        }).join(' ');
         hits.push({
           id: d.id,
           ver: d.ver,

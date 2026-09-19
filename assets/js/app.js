@@ -85,8 +85,41 @@
     return html;
   }
 
+  var PALET = ['var(--ref-1)', 'var(--ref-2)', 'var(--ref-3)',
+               'var(--ref-4)', 'var(--ref-5)', 'var(--ref-6)'];
+  var buku = {};   // kod -> { label, nama, warna }
+
+  // Warna lencana cuma perlu dibezakan sesama sendiri dalam satu skrip,
+  // jadi ia diberi ikut turutan kemunculan dan bukan dikunci pada nama
+  // buku. Maksudnya skrip baharu tak pernah perlu sentuh CSS.
+  function siapkanBuku() {
+    buku = {};
+    var meta = data.buku || {};
+    var i = 0;
+    Object.keys(meta).forEach(function (kod) {
+      var m = meta[kod] || {};
+      buku[kod] = {
+        label: m.label || kod.slice(0, 3).toUpperCase(),
+        nama: m.nama || '',
+        warna: m.warna || PALET[i % PALET.length]
+      };
+      i++;
+    });
+  }
+
+  function lencana(r) {
+    var b = buku[r.buku] || {
+      label: String(r.buku || '?').slice(0, 3).toUpperCase(),
+      nama: '', warna: 'var(--text-mute)'
+    };
+    return '<span class="ref" style="--b:' + b.warna + '"' +
+           (b.nama ? ' title="' + esc(b.nama) + '"' : '') + '>' +
+           '<b>' + esc(b.label) + '</b>' + esc(r.poin) + '</span>';
+  }
+
   /* ---------- render ---------- */
   function render() {
+    siapkanBuku();
     document.title = data.tajuk + ' — Skrip Live';
 
     $('#judul').textContent = data.tajuk;
@@ -137,9 +170,7 @@
              '</ul></div>';
       }
       if (s.rujukan && s.rujukan.length) {
-        h += '<div class="refs">' + s.rujukan.map(function (r) {
-          return '<span class="ref ' + esc(r.buku) + '">' + esc(r.poin) + '</span>';
-        }).join('') + '</div>';
+        h += '<div class="refs">' + s.rujukan.map(lencana).join('') + '</div>';
       }
 
       h += '<div class="skrip">' + renderSkrip(s.skrip) + '</div>';

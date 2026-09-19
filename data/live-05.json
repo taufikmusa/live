@@ -1,0 +1,367 @@
+{
+  "id": "live-05",
+  "ver": "ver-05",
+  "tajuk": "7 Asas Simpanan Emas",
+  "subtajuk": "x Trivia Sejarah & Eksperimen Sains Tingkah Laku",
+  "hos": "Taufik Bin Musa",
+  "dealer": "Authorized Dealer Public Gold PG00359605 · G100 Network",
+  "format": "Skrip Percakapan Lisan — Penuh Rasa Ingin Tahu, 3 Pengajaran Tajam & Pivot Emas Fizikal",
+  "durasi": 3600,
+  "ringkasan": "Batch 5. Setiap asas dibuka dengan satu fakta trivia sejarah atau eksperimen sains tingkah laku — kutu dalam balang, minyak ular, marshmallow Stanford, katak direbus, serbuk roti NASA, kod QR, merpati Cher Ami — lalu dipangsi kepada emas dengan tiga pengajaran tajam.",
+  "buku": {
+    "trivia": { "label": "TRV", "nama": "Fakta Trivia Sejarah Objek Harian" },
+    "eksperimen": { "label": "EKS", "nama": "Eksperimen Sains Tingkah Laku" }
+  },
+  "rujukanTeras": [
+    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
+    { "tajuk": "Taufik Trivia Copywriting", "penulis": "Koleksi trivia sejarah", "nota": "" },
+    { "tajuk": "Taufik Eksperimen Copywriting", "penulis": "Koleksi eksperimen sains tingkah laku", "nota": "" }
+  ],
+  "props": [
+    "Gold bar / dinar Public Gold 999.9 untuk close-up",
+    "Balang kaca kecil (demo eksperimen kutu)",
+    "Buku nota kecil + pen",
+    "Kad dealer Public Gold PG00359605",
+    "Link pendaftaran GAP dah standby di bio",
+    "Air minum",
+    "Telefon backup + charger"
+  ],
+  "segmen": [
+    {
+      "no": 1,
+      "tajuk": "Pembukaan & Eksperimen Flea Jar (Kutu Dalam Balang)",
+      "chip": "Buka · Flea Jar",
+      "asas": null,
+      "mula": 0,
+      "tamat": 300,
+      "objektif": "Membongkar perangkap minda yang terhad melalui eksperimen kutu dan membina rasa ingin tahu.",
+      "alat": "Balang kaca kecil untuk gambarkan ketinggian penutup.",
+      "cues": [
+        "Mulakan dengan hook rasa ingin tahu yang kuat mengenai potensi diri yang terhad.",
+        "Demonstrasikan tangan menunjukkan ketinggian balang kaca.",
+        "Ajak penonton berfikir: adakah kita yang tak mampu simpan emas, atau kita cuma terbiasa terhantuk penutup balang?"
+      ],
+      "rujukan": [
+        { "buku": "eksperimen", "poin": "Flea Jar — Conditioned Limitation" }
+      ],
+      "skrip": [
+        "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
+        "Sebelum kita bermula, tolong komen dulu di bawah: audio saya dengar jelas tak? Gambar terang? Anda bersiaran dari mana malam ni? Dari Gombak, Rawang, Kuantan, Johor Bahru, Kota Kinabalu, Miri? Tolong taip nama lokasi dan tap-tap skrin dulu laju-laju. Terima kasih Bro Khairil, Kak Zaiton, Tuan Syafiq... alhamdulillah semua mantap.",
+        "Malam ni, saya nak buka sesi kita dengan satu eksperimen sains tingkah laku yang sangat terkenal: ==Eksperimen Flea Jar — Kutu Dalam Balang Kaca.==",
+        "Ceritanya bermula... sekumpulan saintis biologi mengkaji sifat kutu. Anda tahu tak, seekor kutu yang saiznya cuma beberapa milimeter, mempunyai keupayaan **melompat setinggi 30 sentimeter** — iaitu hampir 150 kali ganda ketinggian tubuh badannya sendiri! Kalau manusia ada kehebatan macam tu, kita boleh lompat melepasi bumbung bangunan 30 tingkat dengan sekali lompatan!",
+        "Tapi saintis buat satu ujian pelik: mereka masukkan kutu-kutu ni ke dalam sebuah balang kaca, kemudian mereka tutup balang tu dengan penutup kaca.",
+        "Bila kutu-kutu tu melompat... *Pappp!* Kepala terhantuk penutup kaca. Lompat lagi... *Pappp!* Terhantuk lagi.",
+        "Selepas 3 hari terhantuk penutup kaca berulang kali, saintis buka penutup balang kaca tu. Cuba anda teka apa jadi lepas tu? Adakah kutu-kutu tu melompat keluar bebas dari balang?",
+        "==TIDAK!== Sikit pun tiada kutu yang lompat keluar! Kutu-kutu tu terus melompat hanya setakat paras penutup balang **yang dah tiada tu!**",
+        "Dalam sains psikologi, ini dipanggil **Conditioned Limitation (Sempadan Had Terbiasa).**",
+        "Kisah kutu ni sangat menampar muka kita dalam hal kewangan hari ini: ramai orang gaji bulanan dia RM3,000, RM5,000, malah RM10,000. Tapi bila sebut pasal simpan emas, otak dia automatik kata: *'Aku tak mampulah. Emas ni untuk orang kaya je. Gaji aku cukup-cukup makan je.'*",
+        "==Penutup balang kaca tu sebenarnya dah lama tak ada!== Tapi kita sendiri yang membataskan lompatan simpanan kita sebab terbiasa hidup cukup-cukup makan!",
+        "Malam ini, berpandukan **7 Perkara Asas Simpanan Emas** oleh guru saya Tuan Mohd Zulkifli Shafie, saya nak bawa anda pecahkan penutup kaca mental itu melalui himpunan **Fakta Trivia Sejarah Objek Harian** dan **Eksperimen Sains Tingkah Laku.** Buka minda, sediakan nota, kita masuk asas pertama sekarang!"
+      ]
+    },
+    {
+      "no": 2,
+      "tajuk": "Emas Tiada Pendapatan (Dividen Bulanan)",
+      "chip": "#1 Minyak Ular",
+      "asas": "Asas #1",
+      "mula": 300,
+      "tamat": 720,
+      "objektif": "Mendedahkan sejarah Minyak Ular dan Decoy Effect bagi menolak skim dividen emas.",
+      "alat": "",
+      "cues": [
+        "Tanya soalan trivia: 'Tahu tak dari mana datangnya istilah Snake Oil Salesman?'",
+        "Kaitkan minyak ular dengan skim cepat kaya bertopengkan dividen emas bulanan.",
+        "Senaraikan 3 pengajaran pedas dengan format: Pertama, Kedua, Ketiga."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Asal usul istilah Snake Oil, Chicago 1893" },
+        { "buku": "eksperimen", "poin": "The Decoy Effect — Dan Ariely" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat betul-betul:",
+        "> SIMPANAN EMAS TIADA PENDAPATAN BULANAN ATAU TAHUNAN MACAM DIVIDEN ASB ATAU TABUNG HAJI. Yang ada cuma: beli harga rendah dan jual harga tinggi untuk dapat keuntungan jangka panjang. Kalau ada yang offer beli emas boleh dapat income bulan-bulan, itu petanda jelas ianya SKIM CEPAT KAYA BERTOPENGKAN EMAS!",
+        "Tahu tak dari mana sebenarnya lahir istilah bahasa Inggeris yang sangat popular: ==Snake Oil Salesman — Penjual Minyak Ular?==",
+        "Tahun **1893 di Chicago, Amerika Syarikat.** Seorang lelaki bernama Clark Stanley buat pertunjukan di Pameran Dunia Chicago. Depan ratusan penonton, dia ambil seekor ular orok-orok, potong kepalanya, rendam dalam air panas, perah minyaknya, dan campur dengan herba. Dia dakwa minyak ular tu adalah **ubat magis ajaib** yang boleh sembuhkan semua penyakit — dari sakit sendi, lumpuh, sampai kencing manis!",
+        "Beribu-ribu botol laku keras! Clark Stanley jadi kaya-raya.",
+        "Tapi 23 tahun kemudian pada tahun **1916**, pihak berkuasa makanan dan ubat-ubatan rampas botol minyak ular tu dan buat ujian kimia makmal. Cuba anda teka apa isi sebenar dalam botol tu?",
+        "==Sikit habuk pun tak ada minyak ular!== Dalam botol tu 99% cuma minyak mineral murah, lemak lembu, lada merah, dan kapur barus! Satu penipuan komersial terbesar abad itu!",
+        "Dan pakar ekonomi tingkah laku Dan Ariely membuktikan melalui kajian **The Decoy Effect**: manusia bila nampak perkataan 'Percuma' atau 'Dividen Tetap Tanpa Risiko', **bahagian rasional otak terus terpadam!**",
+        "Skim dividen emas hari ini tak ubah macam botol minyak ular Clark Stanley! Datang syarikat kata: *'Beli emas dengan kami, duduk diam-diam setiap bulan kami bagi dividen emas 5%.'* Emas tu cuma dijadikan **'ular hiasan' di depan pentas!** Duit dividen tu sebenarnya diambil daripada duit mangsa seterusnya yang join di bawah. Bila tiada mangsa baru, pemilik skim lari bawa duit berjuta ringgit!",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, tolak tawaran ubat magis** — kalau sesuatu pelaburan itu bunyinya terlalu indah untuk jadi kenyataan, ia pasti satu penipuan beracun.",
+        "- **Kedua, fahami fitrah asas aset** — emas adalah logam penyimpan nilai. Emas bukan mesin pencetak dividen tunai.",
+        "- **Ketiga, jaga modal pokok** — jangan sesekali korbankan modal pokok puluhan ribu ringgit semata-mata kerana tergiur dividen 5% yang tak kekal lama."
+      ]
+    },
+    {
+      "no": 3,
+      "tajuk": "Emas Fizikal (Beli Emas Mesti Dapat Emas)",
+      "chip": "#2 Tingkap Pecah",
+      "asas": "Asas #2",
+      "mula": 720,
+      "tamat": 1140,
+      "objektif": "Mengkaji fungsi butang Backspace/Delete dan Broken Windows Theory dalam pemilikan emas fizikal.",
+      "alat": "Kepingan emas fizikal Public Gold 1g atau 1 dinar.",
+      "cues": [
+        "Pegang kepingan emas fizikal Public Gold 1g / 1 dinar di hadapan lensa kamera.",
+        "Kongsikan fakta trivia tentang mesin taip Sholes dan kenapa butang Backspace/Delete wujud.",
+        "Pautkan dengan Broken Windows Theory: jika satu syarat ketelusan pecah, seluruh aset anda akan musnah."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Butang Backspace & Delete — mesin taip Sholes 1868" },
+        { "buku": "eksperimen", "poin": "Broken Windows Theory — Philip Zimbardo 1969" }
+      ],
+      "skrip": [
+        "Kita teruskan dengan **Perkara Asas Nombor Dua**:",
+        "> BELI EMAS MESTI DAPAT EMAS (FIZIKAL), SAMA MACAM BELI EMAS DI KEDAI-KEDAI EMAS. Emas tu kita boleh simpan sendiri. Kalau penjual emas syaratkan kena tunggu 'tempoh matang' untuk keluarkan emas fizikal, itu pun petanda jelas ianya skim cepat kaya bertopengkan emas! Beli emas, mesti dapat emas. Titik!",
+        "Tahu tak dua butang paling banyak berjasa dekat papan kekunci komputer kita hari ini sebenarnya lahir daripada **kesilapan mekanikal lebih 150 tahun dahulu?**",
+        "Tahun **1868 di Milwaukee, Amerika Syarikat.** Christopher Latham Sholes mempatenkan mesin taip komersial pertama. Waktu tu susunan huruf asal A-Z selalu tersangkut bila ditaip laju, lalu dia cipta susunan QWERTY untuk melambatkan taipan. Tapi manusia tetap buat salah eja. Kalau salah taip satu huruf, **jurutaip kena koyak keseluruhan kertas dan taip semula dari mula!**",
+        "Bila teknologi masuk ke era komputer, jurutera cipta dua 'penyelamat ego manusia': butang **Backspace** untuk memadam kesilapan kecil ke belakang, dan butang **Delete** untuk buang terus fail rosak ke hadapan!",
+        "Dalam dunia kewangan, emas fizikal yang saya pegang ni *(tunjukkan gold bar ke kamera)* bertindak sebagai ==BUTANG 'SAVE' DAN 'BACKSPACE' PERLINDUNGAN KEKAYAAN ANDA!== Bila anda buat kesilapan dalam ekonomi atau nilai duit kertas jatuh, simpanan emas fizikal memadamkan kerugian itu kerana nilainya kekal.",
+        "Tapi kenapa kena emas fizikal di tangan? Kenapa tak boleh biar syarikat simpan dengan alasan 'tempoh matang'?",
+        "Tahun **1969**, pakar psikologi Universiti Stanford Philip Zimbardo menjalankan eksperimen lagenda: ==Broken Windows Theory — Teori Tingkap Pecah.==",
+        "Zimbardo letak sebuah kereta tanpa nombor plat di kawasan kejiranan Bronx. Kereta tu dibiarkan elok. Berhari-hari tiada siapa usik. Tapi bila Zimbardo ambil tukul dan pecahkan **SATU sahaja** cermin tingkap kecil kereta tu... dalam masa beberapa jam sahaja, orang ramai datang pecahkan semua cermin lain, curi tayar, curi bateri, dan bakar keseluruhan kereta tu sampai tinggal rangka!",
+        "Pengajaran broken windows ni sangat tajam: bila penjual emas mula pecahkan SATU tingkap disiplin — iaitu kata: *'Beli emas tapi tak boleh ambik fizikal sekarang, kena tunggu tempoh matang 6 bulan atau setahun'* — **itu petanda tingkap integriti dah pecah!** Bila satu tingkap dah pecah, tak lama lepas tu keseluruhan modal anda akan dijarah dan dihanguskan!",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, kawal hak milik fizikal** — jangan serahkan kuasa kawalan aset anda kepada pihak ketiga.",
+        "- **Kedua, awasi tingkap pertama yang retak** — sekali syarikat beri alasan pelik untuk tangguhkan serahan emas, angkat kaki dan lari segera.",
+        "- **Ketiga, jadikan emas fizikal butang Save anda** — emas di tangan anda adalah hak mutlak anda yang tiada siapa boleh bekukan."
+      ]
+    },
+    {
+      "no": 4,
+      "tajuk": "Jangka Masa 2 Tahun Ke Atas",
+      "chip": "#3 Marshmallow",
+      "asas": "Asas #3",
+      "mula": 1140,
+      "tamat": 1560,
+      "objektif": "Mengaitkan disiplin simpanan jangka panjang dengan eksperimen Marshmallow Stanford dan Delayed Gratification.",
+      "alat": "",
+      "cues": [
+        "Gambarkan eksperimen marshmallow dengan visual kanak-kanak menatap gula-gula di atas meja.",
+        "Terangkan konsep kepuasan tertangguh dalam simpanan emas 2 tahun ke atas.",
+        "Minta penonton taip di komen: 'Sabar 2 Tahun Untuk Hasil Berganda!'"
+      ],
+      "rujukan": [
+        { "buku": "eksperimen", "poin": "The Stanford Marshmallow Test — Walter Mischel 1972" }
+      ],
+      "skrip": [
+        "Kita beralih kepada **Perkara Asas Nombor Tiga.** Dengar betul-betul pesanan guru saya Tuan Zul:",
+        "> EMAS SESUAI UNTUK SIMPANAN JANGKA PANJANG, SEKURANG-KURANGNYA 2 TAHUN KE ATAS. Emas tak sesuai dibeli dengan duit yang nak digunakan pada waktu terdekat. Kalau nak pakai duit tu dalam tempoh lagi setahun ataupun kurang, simpan duit dalam ASB atau Tabung Haji lebih baik. Jangan beli emas!",
+        "Dia cuma tenung sebiji gula-gula marshmallow di atas meja. Tapi 20 tahun kemudian, dia bergelar jutawan dan pemimpin ternama. Ini kisah ==Eksperimen Marshmallow Stanford== yang lagenda!",
+        "Ceritanya bermula tahun **1972 di Universiti Stanford.** Profesor Walter Mischel mengumpulkan kanak-kanak berumur 4 hingga 6 tahun dalam sebuah bilik kosong. Atas meja, diletakkan sebiji marshmallow yang gebu dan manis.",
+        "Pengkaji beritahu kanak-kanak tu:",
+        "> Pak cik nak keluar bilik selama 15 minit. Kalau kamu nak makan marshmallow ni sekarang, boleh makan. Tapi kalau kamu boleh sabar tunggu sampai pak cik balik dan jangan makan... pak cik akan bagi SEBIJI LAGI MARSHMALLOW, jadi kamu dapat DUA biji!",
+        "Cuba anda bayangkan seksanya budak umur 4 tahun menatap marshmallow tu! Ada budak yang tutup mata, ada yang pusing badan, ada yang jilat sikit meja, ada yang lepas 30 saat terus ngap telan habis marshmallow tu! **Hanya segelintir kecil yang mampu sabar** menahan nafsu selama 15 minit demi mendapatkan marshmallow kedua.",
+        "Apa hasil mengejutkan lepas tu? Mischel menjejaki kanak-kanak ini selama berpuluh tahun sehingga mereka dewasa. Keputusannya sangat dramatik:",
+        "Kanak-kanak yang mampu sabar 15 minit tadi mempunyai **skor peperiksaan lebih tinggi, kadar obesiti lebih rendah, kerjaya cemerlang, dan kedudukan kewangan yang jauh lebih kaya dan stabil** berbanding kanak-kanak yang gopoh makan sebiji marshmallow tadi!",
+        "Dalam sains psikologi, ini dipanggil ==Delayed Gratification (Kepuasan Tertangguh).==",
+        "Sahabat sekalian, **simpanan emas adalah 'Marshmallow Kedua' anda!** Kalau anda beli emas hari ni, tapi mentaliti anda nak untung esok pagi atau bulan depan nak cairkan balik, anda persis budak 4 tahun yang tak sabar telan marshmallow pertama!",
+        "Emas memerlukan tempoh matang minimum 2 tahun ke atas. **Biarkan emas tu duduk diam.** Tahan nafsu daripada mengusik emas tu.",
+        "Tiga pengajaran pedas untuk poket kita:",
+        "- **Pertama, latih otot kepuasan tertangguh** — jangan korbankan apa yang paling anda inginkan dalam hidup (kebebasan kewangan) semata-mata untuk apa yang anda inginkan sekarang.",
+        "- **Kedua, bezakan tabung kecemasan dan tabung emas** — duit bawah setahun simpan dalam ASB/Tabung Haji. Emas untuk pelan 2 tahun ke atas.",
+        "- **Ketiga, ganjaran sabar sentiasa berganda** — mereka yang sabar menyimpan gram demi gram selama 2 hingga 5 tahun akan tersenyum puas bila melihat nilai portfolio mereka melonjak tinggi."
+      ]
+    },
+    {
+      "no": 5,
+      "tajuk": "Harga Naik Purata 10% Setahun",
+      "chip": "#4 Katak Direbus",
+      "asas": "Asas #4",
+      "mula": 1560,
+      "tamat": 1980,
+      "objektif": "Menjelaskan kenaikan nilai emas melalui Thermal Expansion Menara Eiffel dan eksperimen Katak Direbus.",
+      "alat": "",
+      "cues": [
+        "Kongsikan fakta trivia unik: Menara Eiffel bertambah tinggi 15cm setiap musim panas.",
+        "Ceritakan eksperimen Katak Direbus dengan gambaran suhu air yang naik perlahan-lahan.",
+        "Tekankan perkataan: 'Lompatlah keluar sebelum air mendidih merebus simpanan anda!'"
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Pengembangan Terma Menara Eiffel, 1889" },
+        { "buku": "eksperimen", "poin": "The Boiling Frog Experiment" }
+      ],
+      "skrip": [
+        "Sekarang kita pergi ke **Perkara Asas Nombor Empat**:",
+        "> HARGA EMAS CONFIRM NAIK DALAM JANGKA PANJANG DISEBABKAN (A) INFLASI DAN (B) KEJATUHAN NILAI RINGGIT. Kuasa beli duit kertas confirm akan merosot dari tahun ke tahun. Sejarah 20 tahun membuktikan harga emas naik secara purata 10% setahun!",
+        "Tahu tak Menara Eiffel yang ikonik di Paris sebenarnya 'tumbuh' dan menjadi ==15 sentimeter lebih tinggi setiap kali tiba musim panas?==",
+        "Tahun **1889**, jurutera Gustave Eiffel membina menara besi gergasi seberat 10,100 tan di Paris. Dalam fizik sains, wujud satu fenomena semula jadi yang dipanggil **Thermal Expansion (Pengembangan Terma).** Apabila matahari musim panas memancar terik sehingga suhu mencecah 40 darjah Celsius, struktur atom besi menyerap haba, mengembang, dan menyebabkan keseluruhan mercu Menara Eiffel bertambah tinggi sehingga 15 sentimeter!",
+        "Tapi ironinya, dalam ekonomi manusia moden, apa yang berlaku kepada duit kertas kita bila 'suhu inflasi' meningkat? **Duit kertas kita TIDAK mengembang!** Sebaliknya, kuasa beli duit kertas kita mengecut dan layu setiap kali inflasi memanas!",
+        "Dan kenapa ramai orang tak sedar duit mereka sedang mengecut? Kerana mereka sedang mengalami apa yang saintis panggil ==The Boiling Frog Experiment — Eksperimen Katak Direbus.==",
+        "Dia mati direbus hidup-hidup. Tapi sikit pun dia tak meronta!",
+        "Kalau anda ambil seekor katak dan campak ke dalam periuk air yang sedang mendidih menggelegak: katak tu akan terkejut dan serta-merta **melompat keluar menyelamatkan diri!**",
+        "Tapi kalau anda letak katak tu dalam periuk air sejuk yang nyaman, lepas tu anda buka api dapur perlahan-lahan... 1 darjah naik, 2 darjah naik... Katak tu rasa selesa, rasa santai berendam macam dalam jakuzi! Dia melaraskan suhu badannya mengikut suhu air. Bila air mula mendidih pada suhu 100 darjah Celsius, **otot katak tu dah kehilangan tenaga untuk melompat.** Akhirnya katak tu mati direbus hidup-hidup tanpa sempat melawan!",
+        "Kisah katak ni menampar realiti rakyat Malaysia hari ini: inflasi 3% ke 4% setahun tu adalah **haba perlahan periuk air!** Tiap-tiap tahun kuasa beli gaji kita dipanaskan perlahan-lahan. Nilai simpanan tunai dalam bank susut senyap-senyap. Bila sampai umur 60 tahun bersara, baru kita terkejut simpanan ratusan ribu tak cukup nak tampung kos sara hidup!",
+        "**Emas fizikal adalah lompatan keluar dari periuk rebusan tersebut!** Sejarah 20 tahun buktikan emas naik purata 10% setahun, mengatasi kadar didihan inflasi.",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, sedar sebelum air mendidih** — jangan tunggu gaji licin baru nak sedar nilai duit makin kecil.",
+        "- **Kedua, tukar simpanan ke aset mengembang** — emas bertindak seperti besi Menara Eiffel: ia mengembang nilainya seiring peningkatan suhu inflasi dunia.",
+        "- **Ketiga, lompat keluar sekarang** — pintu periuk dah terbuka, jangan biarkan diri anda mati lemas dalam zon selesa tunai kertas."
+      ]
+    },
+    {
+      "no": 6,
+      "tajuk": "Beli Emas Duit Tak Habis (Kalis Bocor)",
+      "chip": "#5 Serbuk Roti NASA",
+      "asas": "Asas #5",
+      "mula": 1980,
+      "tamat": 2460,
+      "objektif": "Mendedahkan bahaya serbuk roti misi Apollo NASA dan cara emas membendung ketirisan wang.",
+      "alat": "",
+      "cues": [
+        "Kongsikan kisah trivia misi angkasa lepas NASA: kenapa roti biasa dilarang sama sekali dalam kapal angkasa.",
+        "Bandingkan serbuk roti terapung dengan belanja kecil harian yang membakar bajet keluarga.",
+        "Tunjukkan sekeping emas sebagai pembeku tunai: 'Beli emas duit tak habis!'"
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Serbuk roti misi Gemini 3 NASA, 1965" },
+        { "buku": "eksperimen", "poin": "Geseran psikologi sebagai pembeku tunai" }
+      ],
+      "skrip": [
+        "Poin nombor lima ini adalah fakta paling mengejutkan ramai orang. **Perkara Asas #5**:",
+        "> SIMPAN EMAS BERMAKSUD SIMPAN DUIT — DALAM BENTUK YANG LEBIH KUKUH. Siapa ada emas, tentu dia ada duit. BELI EMAS DUIT TAK HABIS! Kalau tak beli emas, selalunya duit tunai tu cepat habis bocor dan boros. Bila nak pakai duit mendesak, boleh jual atau pajak sahaja di Ar-Rahnu pada bila-bila masa.",
+        "Tahu tak **sebutir serbuk roti biasa** pernah menggemparkan agensi angkasa lepas NASA dan hampir memusnahkan kapal angkasa bernilai bilion dolar?",
+        "Tahun **1965, misi Gemini 3 NASA.** Angkasawan John Young seludup sekeping sandwich daging ke dalam poket sut angkasanya tanpa pengetahuan pegawai kawalan misi. Bila berada di orbit dalam graviti sifar, dia keluarkan sandwich tu dan gigit sikit.",
+        "Tiba-tiba, serbuk-serbuk roti mula hancur dan **terapung liar di seluruh kokpit kapal angkasa!**",
+        "Pengarah misi NASA panik gila! Kenapa? Kerana serbuk roti sekecil zarah bila terapung dalam graviti sifar, ia boleh masuk ke celah panel suis elektrik berkuasa tinggi, mencetuskan litar pintas, dan **membakar keseluruhan kapal angkasa serta membunuh semua angkasawan di dalamnya!**",
+        "Sejak peristiwa itu, NASA mengharamkan terus roti biasa dan mencipta biskut khas serta tortilla yang langsung tidak menghasilkan serbuk.",
+        "Sahabat sekalian, apa kaitan serbuk roti NASA ni dengan poket gaji kita hari ini? Pernah tak anda perasan: duit simpanan gaji kita jarang sekali habis sebab kita beli rumah atau beli tanah besar. Tapi duit kita habis sebab ==SERBUK-SERBUK ROTI KEWANGAN!==",
+        "- Serbuk kopi latte RM15 sehari...",
+        "- Serbuk jajan boba RM20...",
+        "- Serbuk barang diskaun RM30 di Shopee dan TikTok Shop...",
+        "Serbuk-serbuk kecil ni terapung liar dalam akaun bank kita setiap hari. Kita rasa macam sikit, tapi **serbuk-serbuk kecil inilah yang mencetuskan litar pintas dan membakar keseluruhan bajet gaji bulanan** kita sampai hujung bulan poket kita hangus rentung!",
+        "Bila anda ambil keputusan menukar tunai kepada emas fizikal: **anda sedang mematikan serbuk roti tu!** Duit anda dibekukan menjadi satu ketulan logam padat yang mustahil menghasilkan serbuk bocor.",
+        "Anda nak belanja emas beli kopi latte? Tak boleh! Emas ada sifat **geseran psikologi.**",
+        "Beli emas, duit anda tidak habis. Nilai duit anda selamat membeku dalam gram emas. Bila nak pakai duit kecemasan, bawa ke Ar-Rahnu, dapat tunai tanpa hilang pemilikan emas tersebut.",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, awasi kebocoran mikro** — kebocoran sekecil serbuk roti boleh membakar kapal angkasa bernilai bilion ringgit.",
+        "- **Kedua, bekukan tunai cair** — alihkan tunai yang mudah dibelanjakan ke dalam gram emas yang liat dibelanjakan.",
+        "- **Ketiga, emas adalah tunai kukuh** — memiliki emas bermaksud anda memiliki tunai dalam bentuk yang kalis inflasi dan kalis nafsu boros."
+      ]
+    },
+    {
+      "no": 7,
+      "tajuk": "Waktu Terbaik Beli Emas: Ada Duit, Simpan!",
+      "chip": "#6 Kod QR",
+      "asas": "Asas #6",
+      "mula": 2460,
+      "tamat": 2880,
+      "objektif": "Menghancurkan kelumpuhan analisa melalui kotak penjuru kod QR dan eksperimen Paradox of Choice.",
+      "alat": "",
+      "cues": [
+        "Tanya soalan trivia: 'Pernah terfikir kenapa kod QR ada 3 kotak segi empat tepat dekat sudut bucunya?'",
+        "Kaitkan dengan kelumpuhan membuat keputusan (Paradox of Choice / The Jam Experiment).",
+        "Tunjukkan betapa mudahnya bermula serendah RM100 di akaun GAP tanpa pening kepala teka harga."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Kotak 3 penjuru Kod QR — Denso Wave / Toyota 1994" },
+        { "buku": "eksperimen", "poin": "The Jam Experiment — Sheena Iyengar, Paradox of Choice" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Enam.** Soalan keramat sepanjang zaman:",
+        "> WAKTU TERBAIK BELI EMAS IALAH BILA KITA ADA DUIT UNTUK SIMPANAN JANGKA PANJANG (2 TAHUN KE ATAS). BUKAN TUNGGU HARGA RENDAH! Harga emas yang dianggap mahal hari ini akan dianggap murah beberapa tahun akan datang. Kalau nak menabung emas, mulakan dulu dengan bajet kecil sebagai benchmark.",
+        "Pernah tak anda terfikir, kenapa setiap Kod QR yang kita imbas setiap hari mesti ada **3 kotak segi empat tepat** dekat bucu atas kiri, atas kanan, dan bawah kiri?",
+        "Tahun **1994 di Aichi, Jepun.** Seorang jurutera syarikat Denso Wave (anak syarikat Toyota) bernama Masahiro Hara pening kepala. Barcode lama bergaris lurus cuma boleh simpan 20 aksara, dan kamera kilang selalu gagal imbas kalau kedudukan barang senget atau terbalik. Kilang tergendala, pelabur bising.",
+        "Satu hari waktu main catur Go semasa rehat tengah hari, Hara dapat ilham cipta kod matrik 2D. Dan dia letak **3 kotak penanda posisi di bucu.**",
+        "Fungsi 3 kotak tu apa? Supaya pengimbas kamera boleh kesan dan baca data kod QR ==dari mana-mana arah 360 darjah secara sepantas kilat== — tak kira senget, condong, atau terbalik!",
+        "Sebaliknya, apa yang jadi pada kebanyakan orang bila nak beli emas? **Dia bertindak macam pengimbas barcode rosak!** Dia nak tunggu posisi harga emas betul-betul tegak, betul-betul paling murah lantai baru nak mula!",
+        "Tahun **2000**, pakar psikologi Universiti Columbia Sheena Iyengar menjalankan eksperimen terkenal: ==The Jam Experiment (Paradox of Choice).==",
+        "Di sebuah pasar raya mewah di California, pengkaji letak satu gerai sampel jem buah:",
+        "- **Ujian A:** mereka hidang **24 balang jenis jem** berbeza. Ramai orang singgah tengok (60%), tapi bila tiba masa nak beli... hanya **3% sahaja yang beli!** Otak jadi lumpuh sebab terlampau banyak pilihan!",
+        "- **Ujian B:** pengkaji kurangkan sampel kepada hanya **6 balang jem.** Orang yang singgah sikit (40%), tapi jualan melonjak **30% — naik 10 kali ganda!**",
+        "Bila orang baru nak simpan emas terlalu banyak kaji chart graf, dengar ramalan sepuluh pakar ekonomi berbeza: **otak dia jadi macam gerai 24 balang jem tadi! Lumpuh tak bertindak!**",
+        "Simpanan emas tak perlukan posisi rumit. **Ia semudah mengimbas Kod QR 3 bucu!** Ada bajet RM100 hari ini? Terus imbas masuk akaun GAP Public Gold! Jadikan RM100 itu tanda aras pertama anda.",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, mudahkan keputusan** — terlalu banyak menganalisa harga pasaran akan melumpuhkan tindakan.",
+        "- **Kedua, cipta tanda aras segera** — beli gram pertama serendah RM100 untuk faham dinamik pasaran.",
+        "- **Ketiga, konsistensi mengalahkan kesempurnaan** — mereka yang menyimpan konsisten setiap bulan jauh lebih kaya daripada mereka yang asyik menunggu harga lantai yang tak kunjung tiba."
+      ]
+    },
+    {
+      "no": 8,
+      "tajuk": "Waktu Terbaik Jual Emas: 3 Alasan Sahaja",
+      "chip": "#7 Cher Ami",
+      "asas": "Asas #7",
+      "mula": 2880,
+      "tamat": 3240,
+      "objektif": "Menghayati pengorbanan burung merpati Cher Ami dan disiplin melepaskan emas penyelamat.",
+      "alat": "",
+      "cues": [
+        "Ceritakan kisah wira burung merpati Cher Ami yang menyelamatkan 194 tentera dengan penuh penghayatan emosi.",
+        "Tegaskan bahawa emas adalah 'burung merpati pos terakhir' keluarga.",
+        "Ulang 3 sebab sahaja nak jual emas: aset cashflow, target impian tercapai, atau kecemasan hidup."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Burung merpati Cher Ami, Hutan Argonne 1918" },
+        { "buku": "eksperimen", "poin": "Disiplin pelepasan aset penyelamat maruah" }
+      ],
+      "skrip": [
+        "Bila dah tahu bila nak beli, persoalan paling besar: **bila pula waktu terbaik kita nak jual emas kita?**",
+        "Tolong ingat 3 syarat keramat yang ditulis oleh guru saya Tuan Mohd Zulkifli Shafie dalam **Perkara Asas Nombor Tujuh** — waktu terbaik jual emas cuma ada tiga keadaan sahaja:",
+        "- **(a) Bila ada peluang untuk tukar kepada aset yang boleh menjana aliran tunai (cashflow)** — contohnya beli rumah sewa di bawah harga pasaran atau rolling bisnes yang terbukti untung.",
+        "- **(b) Bila sudah capai target simpanan** — contohnya cukup belanja naik haji, dana pendidikan anak masuk universiti, atau deposit rumah pertama.",
+        "- **(c) Bila ada hal kecemasan hidup yang mendesak.**",
+        "Selain daripada tiga alasan ini, ==TAK PERLU JUAL PUN EMAS TU WALAUPUN HARGA DAH TINGGI!==",
+        "Tahu tak seekor burung merpati pos betina pernah dianugerahkan pingat keberanian ketenteraan tertinggi kerana **menyelamatkan 194 nyawa tentera yang terkepung?**",
+        "Bulan **Oktober tahun 1918, Hutan Argonne, Perancis** semasa Perang Dunia Pertama. Pasukan Batalion Hilang seramai 550 tentera Amerika pimpinan Mejar Charles Whittlesey terkepung di belakang garisan musuh Jerman. Mereka kehabisan makanan, kehabisan peluru, dan tragedinya: **pasukan meriam sekutu mereka sendiri tersalah koordinat dan membedil mereka tanpa henti dari belakang!**",
+        "Whittlesey melepaskan burung merpati pertama... ditembak jatuh oleh penembak tepat Jerman. Burung kedua dilepaskan... ditembak mati lagi. Tinggal burung merpati terakhir bernama ==Cher Ami.==",
+        "Whittlesey ikat nota kecil di kaki Cher Ami:",
+        "> Kami berada di koordinat 276.4. Meriam kita sendiri sedang membedil kami. Demi tuhan, tolong hentikan!",
+        "Bila Cher Ami terbang ke udara, tentera Jerman melepaskan tembakan bertubi-tubi! Sebutir peluru menembusi dada Cher Ami, sebelah matanya buta, dan satu kakinya hampir putus.",
+        "Tapi dengan sisa nyawa dan kepak berdarah, Cher Ami terbang sejauh **25 batu selama 25 minit** untuk menyampaikan kapsul mesej tu ke markas utama! Bedilan dihentikan serta-merta, dan **194 nyawa tentera berjaya diselamatkan!**",
+        "Sahabat sekalian, simpanan emas fizikal adalah ==BURUNG MERPATI CHER AMI DALAM KELUARGA ANDA!==",
+        "Emas fizikal adalah utusan kecemasan terakhir yang anda simpan di tempat paling selamat. Anda jangan sesekali lepaskan 'burung penyelamat' ini semata-mata sebab nak beli telefon baru, nak tukar sport rim, atau nak enjoy percutian mewah!",
+        "Emas hanya dilepaskan apabila berlaku kecemasan sebenar untuk menyelamatkan maruah keluarga, atau bila anda nak tukar kepada aset yang membina legasi berpanjangan seperti pendidikan anak atau hartanah aliran tunai.",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, simpan perisai terakhir** — setiap keluarga wajib ada benteng simpanan emas yang tidak diusik walau apa pun berlaku.",
+        "- **Kedua, disiplin dalam pelepasan** — jual emas hanya apabila memenuhi salah satu daripada 3 syarat utama Tuan Zul.",
+        "- **Ketiga, selamatkan maruah warisan** — emas disimpan bukan untuk kemegahan hari ini, tetapi penyelamat keturunan kita di masa hadapan."
+      ]
+    },
+    {
+      "no": 9,
+      "tajuk": "Rumusan, Eksperimen Bystander Effect & Call to Action",
+      "chip": "Tutup · Bystander",
+      "asas": null,
+      "mula": 3240,
+      "tamat": 3600,
+      "objektif": "Menolak sindrom penonton (Bystander Effect), membuat mic drop dan memandu pendaftaran GAP percuma.",
+      "alat": "Kad dealer Public Gold PG00359605.",
+      "cues": [
+        "Ceritakan eksperimen Bystander Effect: jangan tunggu orang lain selamatkan kewangan anda.",
+        "Lontarkan Mic Drop: 'Bocor sekecil jarum pun lama-lama menenggelamkan kapal yang besar.'",
+        "Berikan arahan Call to Action yang jelas dan rendah geseran."
+      ],
+      "rujukan": [
+        { "buku": "eksperimen", "poin": "The Bystander Effect — Darley & Latané 1968" }
+      ],
+      "skrip": [
+        "Alhamdulillah sahabat sekalian. Cukup 60 minit kita bersama malam ni merungkai 7 Asas Simpanan Emas melalui kanta fakta sejarah trivia dan sains tingkah laku. Mari kita imbas kembali 7 asas utama ini:",
+        "- **1.** Emas tiada dividen bulanan — tolak tepi minyak ular skim cepat kaya.",
+        "- **2.** Beli emas mesti dapat emas fizikal — jangan biar tingkap integriti pecah.",
+        "- **3.** Jangka masa simpanan 2 tahun ke atas — nikmati kemanisan marshmallow kedua.",
+        "- **4.** Harga emas naik purata 10% setahun — kembang macam Menara Eiffel, elak mati direbus macam katak.",
+        "- **5.** Beli emas duit tak habis — sekat serbuk roti kebocoran tunai harian.",
+        "- **6.** Waktu terbaik beli ialah bila ada duit — pantas dan ringkas macam kod QR 3 bucu.",
+        "- **7.** Waktu terbaik jual cuma 3 sebab — pelihara burung merpati penyelamat Cher Ami keluarga anda.",
+        "Sebagai penutup siaran langsung malam ini, saya nak tinggalkan satu eksperimen psikologi sosial yang sangat terkenal: ==The Bystander Effect (Kesan Penonton Tidak Peduli)== oleh John Darley dan Bibb Latané, 1968.",
+        "Bila berlaku kecemasan di tempat awam di mana ada 38 orang saksi memerhati: **sikit pun tiada siapa yang datang menolong!** Kenapa? Kerana setiap orang menganggap: *'Alah, orang lain mesti dah call polis. Orang lain mesti akan tolong.'* Akhirnya mangsa mati tanpa pembelaan!",
+        "Sahabat sekalian, tolong dengar betul-betul kata-kata akhir saya ni: **jangan jadi 'Bystander' dalam hal kewangan dan masa depan keluarga anda sendiri!**",
+        "- Jangan harap kerajaan akan selamatkan poket anda.",
+        "- Jangan harap majikan akan tampung hidup persaraan anda.",
+        "- Jangan harap saudara-mara akan bayarkan yuran universiti anak anda.",
+        "==ANDA MESTI MENGAMBIL TANGGUNGJAWAB 100% UNTUK MELINDUNGI KEWANGAN KELUARGA ANDA SENDIRI!==",
+        "> Bocor sekecil jarum pun, lama-lama boleh menenggelamkan kapal yang besar. Baiki kebocoran poket anda malam ini juga!",
+        "Bagi anda yang belum ada akaun simpanan emas Public Gold, malam ini adalah malam terbaik untuk anda memulakan langkah pertama. Melalui akaun **Gold Accumulation Program (GAP)** patuh syariah, anda boleh menabung emas serendah **RM100 sahaja.** Pendaftaran adalah 100% percuma, tiada caj tersembunyi, dan anda boleh kumpul gram demi gram dengan selamat.",
+        "Cara nak mula sangat mudah:",
+        "- **1.** Klik link dekat bio profil saya sekarang, atau",
+        "- **2.** Tinggalkan komen ==BANTU SAYA MULA== di ruangan komen di bawah.",
+        "Saya sendiri, **Taufik Musa, Dealer Sah Public Gold Kod PG00359605**, akan bimbing anda langkah demi langkah secara peribadi sehingga anda berjaya membina benteng emas fizikal pertama anda.",
+        "Terima kasih kepada semua yang hadir dan setia mendengar sepanjang 1 jam ini. Semoga perkongsian ini menjadi asbab kejayaan dan keberkatan harta kita semua.",
+        "Semoga perkongsian ini bermanfaat. **Taufik, Dealer Public Gold (PG00359605) · simpanemasfizikal.com**",
+        "**Wabillahi taufiq wal hidayah, wassalamualaikum warahmatullahi wabarakatuh. Jumpa anda di puncak kejayaan!**"
+      ]
+    }
+  ]
+}

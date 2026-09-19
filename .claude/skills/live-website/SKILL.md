@@ -94,19 +94,33 @@ penapis per-versi muncul automatik bila dah ada lebih daripada satu skrip.
 }
 ```
 
-`buku` ialah kod pendek untuk lencana rujukan. Yang sedia ada:
+### Peta buku
 
-| Kod | Buku | Lencana | Warna |
-|---|---|---|---|
-| `housel` | The Psychology of Money | **PoM** | biru |
-| `canfield` | The Success Principles | **TSP** | ungu |
-| `tracy` | Eat That Frog! | **ETF** | jingga |
-| `helmstetter` | What to Say When You Talk to Your Self | **WTS** | sian |
+Setiap skrip mengisytiharkan sendiri buku rujukannya di peringkat atas:
 
-Kod yang tak dikenali akan render tanpa lencana. Bila skrip baharu guna buku
-lain, tambah token warna (`--book-*`) untuk tema gelap **dan** terang dalam
-`style.css`, kemudian satu pasangan `.ref.<kod>` / `.ref.<kod>::before`.
-Ambil singkatan tiga huruf supaya lebar lencana konsisten.
+```jsonc
+"buku": {
+  "clear": { "label": "ATH", "nama": "Atomic Habits — James Clear" },
+  "king":  { "label": "RPB", "nama": "Read People Like a Book — Patrick King" }
+}
+```
+
+`label` ialah tiga huruf pada lencana, `nama` muncul sebagai tooltip dan
+masuk indeks carian — sebab itu mencari "atomic habits" di hub menemui
+ver-07. Medan `warna` boleh ditambah untuk memaksa satu warna, tetapi jarang
+diperlukan.
+
+**Jangan tambah CSS untuk buku baharu.** Warna diberi automatik daripada
+palet `--ref-1` hingga `--ref-6` mengikut turutan kemunculan dalam peta.
+Ini disengajakan: warna lencana hanya perlu berbeza *sesama sendiri dalam
+satu halaman*, kerana satu halaman hanya memaparkan buku skripnya sendiri.
+Identiti buku dibawa oleh label tiga huruf, bukan oleh warna. Reka bentuk
+asal mengunci setiap buku pada kelas CSS tersendiri, dan itu bermakna
+setiap skrip baharu memaksa sentuhan pada `style.css` — tanda reka bentuk
+yang salah, jadi ia sudah dibuang.
+
+Kod yang tak diisytihar dalam peta akan render lencana tanpa nama.
+`semak-data.py` menangkap keadaan itu.
 
 `chip` kena pendek — ia muncul dalam baris chip mendatar yang perlu dibaca
 sekali pandang masa on-air. Gaya sedia ada: `Buka · E+R=O`, `#1 Tiada
@@ -210,6 +224,19 @@ Satu lagi perlindungan: `dt` dihadkan kepada 0.25s supaya tab yang tertidur
 tak melompatkan skrin jauh bila kembali aktif.
 
 ## 8. Rutin kerja
+
+**Semak data dahulu.** Satu arahan menyemak semua siri:
+
+```bash
+python3 .claude/skills/live-website/scripts/semak-data.py
+```
+
+Ia menangkap perkara yang senyap dalam browser tetapi merosakkan sesi live:
+jurang atau pertindihan garis masa (jam baki segmen jadi tipu), kod buku
+yang tak diisytihar, markup `**` atau `==` yang tak berpasangan (bocor ke
+skrin sebagai simbol mentah), `LIVE_ID` yang tak sepadan dengan folder, dan
+fail skrip yang terlepas daripada manifest. Keluar dengan kod 1 bila gagal,
+jadi boleh dipasang dalam hook atau CI.
 
 **Uji sebelum push. Sentiasa.** `fetch()` tak jalan atas `file://`:
 

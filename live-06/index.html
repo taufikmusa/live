@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ms" data-theme="dark" data-mode="penuh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Skrip Live — 7 Asas Simpanan Emas</title>
+<meta name="description" content="Skrip lengkap live stream 1 jam: 7 Asas Simpanan Emas x Psikologi Wang &amp; Prinsip Kejayaan. Teleprompter dengan jam segmen, cue card dan mod ringkas.">
+<meta name="theme-color" content="#0b0d10">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🎙️</text></svg>">
+</head>
+<body>
+
+<!-- ============ TOPBAR ============ -->
+<header class="topbar no-print">
+  <div class="topbar-in">
+    <div class="clock" id="clock">
+      <small>Jumlah</small>
+      <span id="clock-val">0:00</span>
+    </div>
+
+    <div class="seg-now">
+      <span id="now-label">Segmen 1</span>
+      <b id="now-title">Memuatkan…</b>
+    </div>
+
+    <button class="btn icon" id="theme" title="Tukar tema" aria-label="Tukar tema">☾</button>
+    <button class="btn icon" id="gear" title="Tetapan (?)" aria-label="Tetapan">⚙</button>
+    <button class="btn icon primary" id="play" title="Mula / jeda (Space)" aria-label="Mula">▶</button>
+  </div>
+  <div class="progress" id="bar"><i></i></div>
+  <div class="chips" id="chips"></div>
+</header>
+
+<!-- ============ KANDUNGAN ============ -->
+<div class="wrap">
+
+  <section class="prep no-print">
+    <div class="seg-kicker" style="margin-bottom:6px">
+      <span class="tag gold" id="meta-durasi">—</span>
+      <span id="meta-format">—</span>
+    </div>
+    <h1 style="font-family:var(--font-head);font-size:clamp(26px,6.4vw,40px);line-height:1.12;margin:0 0 6px;letter-spacing:-.02em">
+      <span id="judul">—</span>
+    </h1>
+    <p style="color:var(--gold-400);font-weight:600;margin:0 0 4px" id="subjudul">—</p>
+    <p style="color:var(--text-mute);font-size:13.5px;margin:0 0 4px" id="meta-hos">—</p>
+
+    <div class="prep-grid" style="margin-top:22px">
+      <div class="box">
+        <h3>Checklist sebelum go-live</h3>
+        <ul class="checklist" id="props"></ul>
+      </div>
+      <div class="box">
+        <h3>Rujukan teras</h3>
+        <ul class="rujukan-list" id="rujukan-teras"></ul>
+        <div style="margin-top:16px;display:flex;gap:8px;flex-wrap:wrap">
+          <button class="btn" data-mode-btn="penuh">Penuh</button>
+          <button class="btn" data-mode-btn="skrip">Skrip saja</button>
+          <button class="btn" data-mode-btn="ringkas">Ringkas</button>
+          <button class="btn" onclick="window.print()">Cetak / PDF</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <div id="loading" style="padding:40px 0;color:var(--text-mute)">Memuatkan skrip…</div>
+    <div id="segmen"></div>
+  </main>
+
+  <footer class="foot no-print">
+    <p style="margin:0 0 6px"><a href="../">← Semua skrip live</a></p>
+    <p style="margin:0">Taufik Musa · Authorized Dealer Public Gold PG00359605 · <code>live.taufik.fyi</code></p>
+  </footer>
+</div>
+
+<!-- ============ BAR BAWAH ============ -->
+<div class="bottombar no-print">
+ <div class="bottombar-in">
+  <button class="btn" id="prev" title="Segmen sebelum (←)">←</button>
+  <button class="btn" id="next" title="Segmen seterusnya (→)">→</button>
+  <div class="segtime" id="segtime">
+    <small>Baki segmen</small>
+    <span id="segtime-val">0:00</span>
+  </div>
+  <div class="spacer"></div>
+  <button class="btn" id="scroll" title="Auto-scroll (S)">Auto-scroll</button>
+  <button class="btn" id="reset" title="Reset jam (R)">Reset</button>
+ </div>
+</div>
+
+<!-- ============ TETAPAN ============ -->
+<div class="sheet" id="sheet" role="dialog" aria-label="Tetapan">
+  <div class="sheet-in">
+    <h3>Tetapan</h3>
+
+    <div class="row">
+      <span class="lbl">Saiz teks skrip</span>
+      <input type="range" id="rng-size" min="15" max="46" step="1">
+      <span id="val-size" style="font-size:13px;color:var(--text-mute);min-width:52px;text-align:right">22px</span>
+    </div>
+
+    <div class="row">
+      <span class="lbl">Laju auto-scroll</span>
+      <input type="range" id="rng-speed" min="4" max="120" step="2">
+      <span id="val-speed" style="font-size:13px;color:var(--text-mute);min-width:62px;text-align:right">28 px/s</span>
+    </div>
+
+    <div class="row">
+      <span class="lbl">Paparan</span>
+      <div class="seg-btns">
+        <button class="btn" data-mode-btn="penuh">Penuh</button>
+        <button class="btn" data-mode-btn="skrip">Skrip</button>
+        <button class="btn" data-mode-btn="ringkas">Ringkas</button>
+      </div>
+    </div>
+
+    <div class="kbd-help">
+      <kbd>Space</kbd> mula/jeda &nbsp; <kbd>←</kbd><kbd>→</kbd> segmen &nbsp; <kbd>1</kbd>–<kbd>9</kbd> lompat<br>
+      <kbd>+</kbd><kbd>−</kbd> saiz teks &nbsp; <kbd>S</kbd> auto-scroll &nbsp; <kbd>F</kbd> skrin penuh &nbsp; <kbd>R</kbd> reset
+    </div>
+
+    <div style="margin-top:18px;text-align:right">
+      <button class="btn primary" data-close>Tutup</button>
+    </div>
+  </div>
+</div>
+
+<script>window.LIVE_ID = 'live-06';</script>
+<script src="../assets/js/app.js"></script>
+</body>
+</html>

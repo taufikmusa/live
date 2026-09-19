@@ -24,10 +24,12 @@
   --cue-bg: rgba(95, 208, 168, .10);
   --warn:   #ff6b6b;
   --warn-bg: rgba(255, 107, 107, .12);
-  --book-h: #7fb2ff;
-  --book-c: #c58cff;
-  --book-t: #ff9b7a;
-  --book-s: #5ecbe8;
+  --ref-1: #7fb2ff;
+  --ref-2: #c58cff;
+  --ref-3: #ff9b7a;
+  --ref-4: #5ecbe8;
+  --ref-5: #9ede6f;
+  --ref-6: #ffa8cd;
 
   --radius: 14px;
   --radius-sm: 9px;
@@ -58,10 +60,12 @@
   --gold-soft: rgba(181, 131, 27, .13);
   --cue: #0f8a63;
   --cue-bg: rgba(15, 138, 99, .09);
-  --book-h: #1f5fc4;
-  --book-c: #7a35c9;
-  --book-t: #c2410c;
-  --book-s: #0e7490;
+  --ref-1: #1f5fc4;
+  --ref-2: #7a35c9;
+  --ref-3: #c2410c;
+  --ref-4: #0e7490;
+  --ref-5: #3f7a12;
+  --ref-6: #b83280;
 }
 
 * { box-sizing: border-box; }
@@ -262,15 +266,11 @@ main { padding: 22px 0 40vh; }
   font-size: 12px; font-weight: 600; padding: 5px 10px; border-radius: var(--radius-sm);
   border: 1px solid var(--line); color: var(--text-dim); background: var(--ink-800);
 }
-.ref::before { font-weight: 800; margin-right: 6px; }
-.ref.housel { border-color: color-mix(in srgb, var(--book-h) 40%, transparent); }
-.ref.housel::before { content: "PoM"; color: var(--book-h); }
-.ref.canfield { border-color: color-mix(in srgb, var(--book-c) 40%, transparent); }
-.ref.canfield::before { content: "TSP"; color: var(--book-c); }
-.ref.tracy { border-color: color-mix(in srgb, var(--book-t) 40%, transparent); }
-.ref.tracy::before { content: "ETF"; color: var(--book-t); }
-.ref.helmstetter { border-color: color-mix(in srgb, var(--book-s) 40%, transparent); }
-.ref.helmstetter::before { content: "WTS"; color: var(--book-s); }
+/* Label lencana datang daripada data (buku.label), bukan daripada CSS.
+   Warna dihantar sebagai --b pada elemen, jadi menambah buku baharu
+   tidak pernah memerlukan peraturan CSS baharu. */
+.ref { border-color: color-mix(in srgb, var(--b, var(--line)) 40%, transparent); }
+.ref b { font-weight: 800; margin-right: 6px; color: var(--b, var(--text-mute)); }
 
 /* teks skrip — bahagian yang dibaca */
 .skrip { margin-top: 22px; }

@@ -8,8 +8,22 @@
   "format": "Live Stream Interaktif — TikTok / Facebook / Instagram / YouTube",
   "durasi": 3600,
   "ringkasan": "Satu ayat tentang isi live ni.",
+  "buku": {
+    "bukuA": {
+      "label": "AAA",
+      "nama": "Tajuk Penuh Buku A — Penulis"
+    },
+    "bukuB": {
+      "label": "BBB",
+      "nama": "Tajuk Penuh Buku B — Penulis"
+    }
+  },
   "rujukanTeras": [
-    { "tajuk": "Nama buku atau artikel", "penulis": "Penulis", "nota": "" }
+    {
+      "tajuk": "Nama buku atau artikel",
+      "penulis": "Penulis",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar 1 gram fizikal atas meja",
@@ -34,7 +48,10 @@
         "Soalan untuk dilempar ke ruang komen."
       ],
       "rujukan": [
-        { "buku": "canfield", "poin": "Prinsip 1 — Take 100% Responsibility" }
+        {
+          "buku": "bukuA",
+          "poin": "Bab / prinsip yang dirujuk"
+        }
       ],
       "skrip": [
         "Perenggan biasa. **Tebal** untuk ayat yang kena tekan suara.",

@@ -1,0 +1,339 @@
+{
+  "id": "live-07",
+  "ver": "ver-07",
+  "tajuk": "7 Asas Simpanan Emas",
+  "subtajuk": "x Atomic Habits & Read People Like a Book",
+  "hos": "Taufik Bin Musa",
+  "dealer": "Authorized Dealer Public Gold PG00359605 · G100 Network",
+  "format": "Skrip Percakapan Lisan — Membedah Psikologi Ego & Membina Sistem Tabiat Simpanan Kekal",
+  "durasi": 3600,
+  "ringkasan": "Batch 7. Tujuh asas dibina semula sebagai sistem tabiat — identiti, kiub ais 32°F, matematik 1% harian, Environment Design, Peraturan Dua Minit dan Never Miss Twice, disilang dengan psikologi ego Patrick King.",
+  "buku": {
+    "clear": { "label": "ATH", "nama": "Atomic Habits — James Clear" },
+    "king": { "label": "RPB", "nama": "Read People Like a Book — Patrick King" }
+  },
+  "rujukanTeras": [
+    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
+    { "tajuk": "Atomic Habits", "penulis": "James Clear", "nota": "" },
+    { "tajuk": "Read People Like a Book", "penulis": "Patrick King", "nota": "" }
+  ],
+  "props": [
+    "Gold bar Public Gold 999.9 seberat 1 gram",
+    "Papan putih kecil (tulis 1.01^365 = 37.78)",
+    "Buku nota kecil + pen",
+    "Kad dealer Public Gold PG00359605",
+    "Link pendaftaran GAP dah standby di bio",
+    "Air minum",
+    "Telefon backup + charger"
+  ],
+  "segmen": [
+    {
+      "no": 1,
+      "tajuk": "Pembukaan, Ujian Audio & Perubahan Identiti",
+      "chip": "Buka · Identiti",
+      "asas": null,
+      "mula": 0,
+      "tamat": 300,
+      "objektif": "Menyelami prinsip Pleasure vs Pain dan membina Identity-Based Habits.",
+      "alat": "",
+      "cues": [
+        "Mulakan dengan nada yakin, mesra, dan penuh empati; semak kualiti audio dan visual.",
+        "Lontarkan soalan refleksi: 'Kenapa azam simpan duit kita setiap tahun selalu kecundang pada bulan Mac?'",
+        "Ajak audiens mengubah identiti diri daripada sekadar 'nak simpan duit' kepada 'menjadi pelindung kekayaan keluarga'."
+      ],
+      "rujukan": [
+        { "buku": "king", "poin": "The Pleasure vs. Pain Principle — pain 2x lebih kuat" },
+        { "buku": "clear", "poin": "Identity-Based Habits — 3 lapisan perubahan" }
+      ],
+      "skrip": [
+        "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
+        "Sebelum kita melangkah jauh, tolong sahkan dulu di ruangan komen: suara saya cukup jelas tak? Dari mana anda bersama saya malam ni? Dari Rawang, Shah Alam, Sungai Petani, Melaka, Kota Kinabalu, Miri? Tolong taip nama lokasi anda dan tap-tap skrin dulu laju-laju. Terima kasih Tuan Amran, Puan Linda, Cikgu Azhar... alhamdulillah suara mantap, visual terang.",
+        "Malam ni, saya nak mulakan dengan satu soalan psikologi yang sangat mendalam: pernah tak anda perasan, kenapa azam kewangan kita setiap kali masuk tahun baru — kononnya nak simpan RM500 sebulan, nak bebas hutang — ==biasanya akan layu dan mati menjelang bulan Mac?==",
+        "Patrick King, dalam buku psikologi tingkah laku *Read People Like a Book*, membongkar satu rahsia fitrah manusia yang dipanggil **The Pleasure vs. Pain Principle**:",
+        "> Manusia sentiasa didorong oleh dua kuasa: mengejar keseronokan atau mengelak kesakitan. Tetapi kuasa mengelak kesakitan adalah DUA KALI GANDA LEBIH KUAT daripada dorongan mencari keseronokan! Emosi sentiasa menewaskan logik!",
+        "Kenapa kita liat nak menyimpan duit? Sebab kita belum merasai 'kesakitan' sebenar akibat kebocoran wang. Kita rasa gaji kita akan ada sampai bila-bila. Kita kejar keseronokan membeli barang hari ini, tapi **kita buta terhadap kesakitan masa depan anak-anak kita** bila simpanan keluarga kosong waktu krisis melanda!",
+        "Dan pakar sains tabiat James Clear, dalam buku terlaris dunia *Atomic Habits*, menegaskan bahawa kesilapan nombor satu manusia adalah menumpukan perubahan pada peringkat **hasil**, bukan pada peringkat **identiti**:",
+        "- Orang yang gagal berkata: *'Matlamat saya tahun ni nak simpan 10 gram emas.'* Itu cuma hasil luaran!",
+        "- Tetapi orang yang berjaya mengubah dirinya daripada dalam, dia berkata: ==SAYA ADALAH SEORANG YANG CELIK KEWANGAN. SAYA ADALAH PELINDUNG KEKAYAAN KELUARGA SAYA!==",
+        "Setiap gram emas yang anda simpan, setiap RM100 yang anda masukkan ke akaun simpanan malam ini, bukanlah sekadar kepingan logam. Tetapi ia adalah **SATU UNDI (A VOTE)** untuk membina identiti baharu diri anda sebagai seorang yang berdisiplin dan bertanggungjawab!",
+        "Malam ini, berpandukan **7 Perkara Asas Simpanan Emas** oleh guru saya Tuan Mohd Zulkifli Shafie, kita akan gabungkan sains tingkah laku James Clear dan psikologi manusia Patrick King agar anda bukan sahaja faham emas, tetapi **mampu membina sistem tabiat simpanan yang kekal seumur hidup.** Jom kita masuk asas pertama!"
+      ]
+    },
+    {
+      "no": 2,
+      "tajuk": "Emas Tiada Pendapatan (Dividen Bulanan)",
+      "chip": "#1 Beban Kognitif",
+      "asas": "Asas #1",
+      "mula": 300,
+      "tamat": 720,
+      "objektif": "Membongkar beban kognitif penipuan, helah bela diri ego dan Inversi Hukum ke-2 tabiat.",
+      "alat": "",
+      "cues": [
+        "Ubah intonasi menjadi tajam: 'Tolak tepi janji dividen emas goyang kaki!'",
+        "Terangkan konsep Cognitive Load: kenapa scammer selalu mereka cerita pelaburan yang rumit dan tak masuk akal.",
+        "Gunakan konsep Make It Unattractive untuk menanam rasa jijik terhadap skim cepat kaya."
+      ],
+      "rujukan": [
+        { "buku": "king", "poin": "Bab 4 — Cognitive Load & Rasionalisasi Ego" },
+        { "buku": "clear", "poin": "Inversi Hukum 2 — Make It Unattractive" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat kemas-kemas:",
+        "> SIMPANAN EMAS TIADA PENDAPATAN BULANAN ATAUPUN TAHUNAN MACAM DIVIDEN ASB ATAU TABUNG HAJI. Yang ada cuma: beli harga rendah dan jual harga tinggi untuk dapat keuntungan dalam jangka panjang. Kalau ada yang tawarkan beli emas boleh dapat 'income' atau 'dividen' tetap bulan-bulan, itu petanda jelas ianya SKIM CEPAT KAYA BERTOPENGKAN EMAS!",
+        "Pernah tak anda terfikir, kenapa orang yang berpelajaran tinggi pun boleh terpedaya dengan skim dividen emas palsu?",
+        "Mari kita bedah melalui sains Patrick King dalam *Read People Like a Book* Bab 4: ==Beban Kognitif dalam Pengesanan Penipuan (Cognitive Load).==",
+        "Sains membuktikan bahawa **bercakap benar menuntut tenaga otak yang sangat rendah** kerana ia berpaksikan fakta. Sebaliknya, **mereka-reka penipuan menuntut tenaga kognitif yang terlampau tinggi!**",
+        "Cuba anda perhatikan penganjur skim dividen emas palsu: mereka akan reka cerita yang terlampau canggih dan rumit — sebut pasal trading emas antarabangsa, algorithm AI emas, pajakan lombong di Afrika, pelaburan luar pesisir — **semuanya direka untuk membebankan otak anda supaya anda keliru dan serahkan duit!**",
+        "Dan kenapa mangsa mudah percaya? Kerana wujud **Mekanisme Pertahanan Ego: Rasionalisasi.** Ego mangsa mahu percaya bahawa ada 'jalan pintas' untuk cepat kaya tanpa perlu berpeluh bekerja. ==Dia menipu dirinya sendiri!==",
+        "Dalam *Atomic Habits*, James Clear mengajar kita cara mematikan tabiat buruk melalui **Inversi Hukum ke-2: Make It Unattractive — jadikan ia menjijikkan dan tidak menarik!**",
+        "Bila ada orang bisik pada anda: *'Beli emas ni, setiap bulan dapat 5% dividen tetap,'* — terus pasang isyarat merah dalam kepala anda:",
+        "> Ini bukan pelaburan. Ini adalah perangkap tikus yang beracun!",
+        "Pesan Tuan Zul: **emas adalah logam kaku penyimpan nilai.** Emas untung bila harga naik jangka panjang, bukan dividen bulan-bulan. Jadikan skim dividen emas sesuatu yang hodoh di mata anda, dan lindungi modal simpanan keluarga anda daripada lebur!"
+      ]
+    },
+    {
+      "no": 3,
+      "tajuk": "Emas Fizikal (Beli Emas Mesti Dapat Emas)",
+      "chip": "#2 4 Temperamen",
+      "asas": "Asas #2",
+      "mula": 720,
+      "tamat": 1140,
+      "objektif": "Membedah 4 Temperamen Keirsey dan Hukum ke-4 tabiat: Make It Satisfying.",
+      "alat": "Gold bar Public Gold 999.9 seberat 1 gram.",
+      "cues": [
+        "Tunjukkan sekeping emas fizikal Public Gold ke lensa kamera.",
+        "Huraikan kenapa 4 jenis personaliti Keirsey memerlukan emas fizikal (Guardian = kestabilan, Artisan = fleksibiliti, Idealist = ketenangan, Rational = data).",
+        "Terangkan konsep Make It Satisfying: memegang emas memberi kepuasan deria yang nyata."
+      ],
+      "rujukan": [
+        { "buku": "king", "poin": "Bab 3 — 4 Temperamen Keirsey" },
+        { "buku": "clear", "poin": "Hukum 4 — Make It Satisfying & ganjaran dopamin" }
+      ],
+      "skrip": [
+        "Kita beralih kepada **Perkara Asas Nombor Dua**:",
+        "> BELI EMAS MESTI DAPAT EMAS (FIZIKAL), SAMA MACAM BELI EMAS DI KEDAI-KEDAI EMAS. Emas tu kita boleh simpan sendiri. Kalau penjual syaratkan kena tunggu 'tempoh matang' baru boleh keluarkan emas fizikal, itu pun petanda jelas ianya skim cepat kaya bertopengkan emas! Beli emas mesti dapat emas. Titik!",
+        "Tengok apa yang saya pegang ni *(tunjukkan gold bar ke skrin)*. Ini emas fizikal Public Gold 999.9 seberat 1 gram.",
+        "Kenapa pemilikan fizikal ni sangat kritikal dari sudut psikologi manusia? Dalam *Read People Like a Book* Bab 3, Patrick King membahagikan personaliti manusia kepada ==4 Temperamen Keirsey==:",
+        "- **1. Golongan Guardian (40-45% masyarakat):** anda mahukan keselamatan, kestabilan, dan perlindungan keluarga. Emas fizikal adalah **'perisai konkrit'** yang memberi ketenangan bahawa aset keluarga tidak akan hilang bila bank bermasalah.",
+        "- **2. Golongan Artisan (35-40%):** anda sukakan fleksibiliti dan impak segera. Emas fizikal memberi anda **kebebasan untuk pegang, bawa ke mana-mana, atau pajak di Ar-Rahnu** bila-bila masa.",
+        "- **3. Golongan Idealist (15-20%):** anda mencari makna hidup dan membina legasi. Emas fizikal adalah **hadiah kasih sayang paling bernilai** untuk masa depan anak-anak.",
+        "- **4. Golongan Rational (5-10%):** anda perlukan fakta dan logik. Emas fizikal mempunyai **rekod sejarah sifar risiko pihak ketiga** sejak ribuan tahun!",
+        "Dan James Clear dalam *Atomic Habits* menggariskan **Hukum ke-4 Perubahan Tingkah Laku: Make It Satisfying.**",
+        "Bila anda simpan nombor digital di skrin telefon, otak anda sukar merasai kepuasan pemilikan. Tapi saat kepingan emas fizikal ini diletakkan di atas tapak tangan anda — deria sentuhan rasa sejuk dan beratnya logam bernilai tinggi — ==otak merembeskan hormon kepuasan yang nyata!==",
+        "Kepuasan fizikal inilah yang **mengunci tabiat anda untuk terus menambah gram setiap bulan.** Beli emas mesti dapat emas fizikal di tangan!"
+      ]
+    },
+    {
+      "no": 4,
+      "tajuk": "Jangka Masa 2 Tahun Ke Atas",
+      "chip": "#3 Kiub Ais 32°F",
+      "asas": "Asas #3",
+      "mula": 1140,
+      "tamat": 1560,
+      "objektif": "Menghadapi Lembah Kekecewaan (Valley of Disappointment) dan menenteramkan otak limbik.",
+      "alat": "",
+      "cues": [
+        "Gunakan analogi Kiub Ais James Clear: dipanaskan dari 25°F ke 31°F nampak tiada perubahan, tapi pada 32°F ais mencair.",
+        "Terangkan kenapa penyimpan baru panik pada tahun pertama kerana spread harga.",
+        "Tunjukkan bagaimana emosi panik membuatkan otak limbik gelisah (Pacifying Behaviors)."
+      ],
+      "rujukan": [
+        { "buku": "clear", "poin": "Bab 1 — Plateau of Latent Potential & kuasa kiub ais" },
+        { "buku": "king", "poin": "Bab 2 — Bahasa tubuh limbik & Pacifying Behaviors" }
+      ],
+      "skrip": [
+        "Masuk **Perkara Asas Nombor Tiga.** Dengar baik-baik nasihat guru saya Tuan Zul:",
+        "> EMAS SESUAI UNTUK SIMPANAN JANGKA PANJANG, SEKURANG-KURANGNYA 2 TAHUN KE ATAS. Emas tak sesuai dibeli dengan duit yang nak digunakan pada waktu terdekat. Kalau nak pakai duit tu dalam tempoh lagi setahun ataupun kurang, simpan dalam ASB atau Tabung Haji lebih baik. Jangan beli emas!",
+        "Kenapa ramai orang baru simpan emas cepat rasa kecewa pada bulan-bulan terawal?",
+        "James Clear dalam Bab 1 *Atomic Habits* ada melukis satu graf yang sangat terkenal: ==The Plateau of Latent Potential dan Lembah Kekecewaan (Valley of Disappointment).==",
+        "Bayangkan anda ada seketul kiub ais di atas meja pada suhu bilik sejuk beku **25 darjah Fahrenheit.**",
+        "- Anda panaskan bilik ke suhu 26 darjah... ais tak cair.",
+        "- Panaskan ke 28 darjah... ais masih beku.",
+        "- Panaskan ke 31 darjah... kiub ais tu tetap tak berubah rupa!",
+        "Orang yang tiada ilmu akan kata: *'Penat je aku panaskan bilik ni, sikit pun tak ada hasil!'*",
+        "Tapi bila suhu naik lagi satu darjah ke ==32 darjah Fahrenheit==: tiba-tiba **kiub ais tu mula mencair dengan pantas!**",
+        "Kenaikan suhu dari 25 ke 31 darjah tadi tidak pernah sia-sia; ia adalah **haba yang disimpan (stored potential)!**",
+        "Sama dalam simpanan emas sahabat sekalian! Bila anda mula simpan gram pertama dan kedua pada tahun pertama, anda berada dalam 'Lembah Kekecewaan'. Ada spread harga beli dan jual. Nilai nampak mendatar.",
+        "Patrick King dalam *Read People Like a Book* Bab 2 mendedahkan bagaimana otak limbik manusia bertindak bila panik: kita mula buat **Pacifying Behaviors** — pegang tengkuk, gosok dahi, resah buka aplikasi tengok chart harga setiap 5 minit!",
+        "**Tenangkan otak limbik anda!** Fahami bahawa tahun pertama adalah fasa mengumpul potensi terpendam. Selepas melepasi ambang 2 tahun, 3 tahun, 5 tahun ke atas, barulah kuasa kenaikan nilai emas melepasi spread dan graf kekayaan anda mula mencairkan keuntungan yang lumayan!",
+        "Kalau duit tu nak guna bawah setahun, simpan dalam Tabung Haji atau ASB. Emas adalah pelan jangka panjang 2 tahun ke atas."
+      ]
+    },
+    {
+      "no": 5,
+      "tajuk": "Harga Naik Purata 10% Setahun",
+      "chip": "#4 1% Harian",
+      "asas": "Asas #4",
+      "mula": 1560,
+      "tamat": 1980,
+      "objektif": "Menyelami kuasa matematik 1% compounding harian dan mengatasi bias hakisan inflasi.",
+      "alat": "Papan putih kecil — tulis 1.01^365 = 37.78.",
+      "cues": [
+        "Tulis formula matematik 1% di papan putih atau sebut dengan jelas: 1.01 kuasa 365 = 37.78 kali ganda.",
+        "Terangkan kenapa kenaikan emas purata 10% setahun adalah kuasa gandaan kekayaan sebenar.",
+        "Bongkar hakikat kejatuhan nilai ringgit yang berlaku secara perlahan tapi mematikan."
+      ],
+      "rujukan": [
+        { "buku": "clear", "poin": "Formula 1% Better Every Day — 37x ganda" },
+        { "buku": "king", "poin": "Perceptual Blindspot — kesakitan inflasi tersembunyi" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Empat**:",
+        "> HARGA EMAS CONFIRM NAIK DALAM JANGKA PANJANG DISEBABKAN (A) INFLASI DAN (B) KEJATUHAN NILAI RINGGIT. Kuasa beli duit kertas confirm akan merosot dari tahun ke tahun. Sejarah 20 tahun membuktikan harga emas naik secara purata 10% setahun!",
+        "Dengar formula matematik paling berkuasa dalam *Atomic Habits* oleh James Clear:",
+        "Jika anda menjadi **1% lebih baik setiap hari** selama 365 hari setahun: ==1.01 dikuasakan dengan 365 bersamaan dengan 37.78 KALI GANDA LEBIH HEBAT!==",
+        "Sebaliknya, jika anda merosot 1% setiap hari: **0.99 dikuasakan dengan 365 bersamaan dengan 0.03** — iaitu hampir lenyap jadi sifar!",
+        "Tabiat adalah **faedah berganda dalam kehidupan manusia.** Dan perkara yang sama berlaku pada mata wang kertas kita:",
+        "Patrick King dalam *Read People Like a Book* mengingatkan kita tentang **Kelemahan Persepsi Manusia (Perceptual Blindspot)**: otak manusia sukar mengesan kemerosotan yang berlaku sedikit demi sedikit.",
+        "Inflasi 3% ke 4% setahun nampak kecil di mata kita. Nilai ringgit jatuh beberapa sen sehari nampak remeh. Tapi bila dikompaunkan selama 10 tahun, 20 tahun: ==duit kertas kita sebenarnya sedang merosot ke arah sifar persis formula 0.99 tadi!==",
+        "Sebaliknya, sejarah 20 tahun membuktikan harga emas fizikal naik secara purata **10% setahun!** Kenaikan 10% setahun ini bukan spekulasi judi. Ia adalah **pengumpulan nilai sebenar** yang memelihara kuasa beli titik peluh anda.",
+        "Bila anda simpan emas, anda sedang meletakkan simpanan keluarga anda di landasan **1% compounding positif** James Clear. Setiap tahun, aset anda bertambah kuat, manakala mereka yang menyimpan 100% dalam wang tunai melihat kuasa beli mereka semakin dimamah inflasi!"
+      ]
+    },
+    {
+      "no": 6,
+      "tajuk": "Beli Emas Duit Tak Habis (Kalis Bocor)",
+      "chip": "#5 Environment Design",
+      "asas": "Asas #5",
+      "mula": 1980,
+      "tamat": 2460,
+      "objektif": "Menyekat ketirisan tunai melalui Environment Design dan membongkar helah ego 'Self-Reward'.",
+      "alat": "Telefon pintar sebagai prop.",
+      "cues": [
+        "Gunakan telefon pintar sebagai prop: tunjukkan betapa mudahnya duit mengalir keluar melalui aplikasi perbankan online.",
+        "Terangkan Environment Design James Clear: jadikan belanja boros susah, jadikan simpanan emas automatik.",
+        "Bongkar helah ego 'Self-Reward' yang sebenarnya perangkap menjustifikasi pembaziran."
+      ],
+      "rujukan": [
+        { "buku": "clear", "poin": "Bab 6 — Environment Design & Habit Loop" },
+        { "buku": "king", "poin": "Helah bela diri ego — rasionalisasi 'Self-Reward'" }
+      ],
+      "skrip": [
+        "Poin nombor lima ini adalah ubat paling mujarab untuk siapa yang ada penyakit gaji bocor. **Perkara Asas #5**:",
+        "> SIMPAN EMAS BERMAKSUD SIMPAN DUIT — DALAM BENTUK YANG LEBIH KUKUH. Siapa ada emas, tentu dia ada duit. BELI EMAS DUIT TAK HABIS! Kalau tak beli emas, selalunya duit tunai tu cepat habis, bocor dan boros. Bila nak pakai duit mendesak, boleh jual atau pajak sahaja di Ar-Rahnu pada bila-bila masa.",
+        "Jujur saya tanya anda semua: kenapa duit dalam akaun bank kita cepat sangat habis?",
+        "James Clear dalam Bab 6 *Atomic Habits* menegaskan:",
+        "> Motivasi sering dinilai terlalu tinggi; Persekitaran jauh lebih berkuasa! Manusia sentiasa mengambil laluan yang paling rendah geseran.",
+        "Cuba tengok persekitaran hidup kita hari ini: duit gaji kita duduk dalam akaun bank. Kad debit ada dalam poket. Aplikasi DuitNow dan ShopeePay ada dalam telefon. ==Geseran untuk berbelanja adalah SIFAR!== Satu imbasan kod QR, satu klik, RM100 terbang keluar tanpa rasa sakit!",
+        "Dan bila kita dah berbelanja bukan-bukan, apa yang otak kita buat? Patrick King dalam *Read People Like a Book* membongkar helah ego: **Rasionalisasi 'Self-Reward'!**",
+        "Otak kita berbisik: *'Takpelah beli kasut baru ni, sebulan penat kerja kut, reward diri sikit.'* **Ego kita mencipta alasan suci untuk menutupi hakikat bahawa kita sebenarnya gagal mengawal nafsu berbelanja!**",
+        "Bagaimana nak atasi masalah ni? Gunakan ==Environment Design (Reka Bentuk Persekitaran)== James Clear:",
+        "> Tambah geseran pada perbelanjaan boros, dan kurangkan geseran pada tabiat menyimpan!",
+        "Hari pertama gaji masuk, **jangan biarkan tunai melimpah dalam akaun bank.** Terus tukarkan lebihan tunai menjadi gram emas melalui akaun GAP Public Gold!",
+        "Bila duit dah jadi emas fizikal: geseran berbelanja automatik jadi tinggi! Anda tak boleh bawa kepingan emas pergi bayar kedai kopi. Kalau nak belanja, kena pergi cawangan atau Ar-Rahnu. **Geseran sihat itulah yang menyelamatkan duit simpanan anda daripada hangus!**",
+        "Beli emas, duit anda tidak habis. Nilai duit anda selamat membeku dalam gram emas fizikal."
+      ]
+    },
+    {
+      "no": 7,
+      "tajuk": "Waktu Terbaik Beli Emas: Ada Duit, Simpan!",
+      "chip": "#6 Peraturan 2 Minit",
+      "asas": "Asas #6",
+      "mula": 2460,
+      "tamat": 2880,
+      "objektif": "Menghancurkan alasan 'nanti dulu' dengan The Two-Minute Rule dan Gateway Habits RM100 GAP.",
+      "alat": "",
+      "cues": [
+        "Gunakan prinsip James Clear: 'Standardize before you optimize'.",
+        "Demonstrasikan betapa mudahnya bermula dalam masa 2 minit serendah RM100 di akaun GAP.",
+        "Minta penonton komen: 'Mula 2 Minit Sekarang!'"
+      ],
+      "rujukan": [
+        { "buku": "clear", "poin": "Bab 13 — The Two-Minute Rule & Gateway Habits" },
+        { "buku": "king", "poin": "Mematahkan rasionalisasi ego prospek" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Enam.** Soalan paling popular yang saya terima setiap hari:",
+        "> WAKTU TERBAIK BELI EMAS IALAH BILA KITA ADA DUIT UNTUK SIMPANAN JANGKA PANJANG (2 TAHUN KE ATAS). BUKAN TUNGGU HARGA RENDAH! Harga emas yang dianggap mahal hari ini akan dianggap murah beberapa tahun akan datang. Kalau nak menabung emas, mulakan dulu dengan bajet kecil sebagai tanda aras.",
+        "Ramai orang tersekat dengan helah ego Patrick King: dia kata *'Taufik, saya nak kumpul duit sampai ada RM5,000 baru saya nak beli seketul jongkong emas besar.'* Akhirnya setahun berlalu, ==RM5,000 tak pernah terkumpul, emas pun satu gram tak terbeli!==",
+        "James Clear dalam Bab 13 *Atomic Habits* mengajar satu peraturan emas: **THE TWO-MINUTE RULE & GATEWAY HABITS.**",
+        "> Apabila anda memulakan satu tabiat baharu, pastikan ia mengambil masa KURANG DARI DUA MINIT untuk dilakukan! Standardize before you optimize.",
+        "- Kalau anda nak bina tabiat membaca buku, jangan paksa baca satu bab; paksa diri baca **satu muka surat** selama 2 minit.",
+        "- Kalau anda nak bina tabiat lari maraton, jangan terus lari 10km; paksa diri **sarung kasut sukan dan keluar pintu rumah** dalam 2 minit!",
+        "Dalam simpanan emas, ==Akaun Emas GAP Public Gold adalah 'Gateway Habit' Dua Minit anda!==",
+        "Anda tak perlu ada RM5,000. Anda cuma perlukan **RM100 sahaja!** Proses buka akaun dan simpan RM100 mengambil masa kurang 2 minit secara dalam talian.",
+        "Bila anda simpan RM100 pertama malam ini: **anda telah mengaktifkan tabiat atomik pertama anda!** Anda dah rasmi menjadi seorang penyimpan emas. Bulan depan anda ulang lagi RM100. Bila gaji naik, anda tambah 1 gram. Sedar-sedar dalam masa beberapa tahun, tabiat kecil dua minit ini telah membina aset berpuluh ribu ringgit untuk keluarga anda!",
+        "Waktu terbaik beli emas adalah sekarang dengan apa yang ada di tangan. Taip di komen: ==Mula 2 Minit Sekarang!=="
+      ]
+    },
+    {
+      "no": 8,
+      "tajuk": "Waktu Terbaik Jual Emas: 3 Alasan Sahaja",
+      "chip": "#7 Systems > Goals",
+      "asas": "Asas #7",
+      "mula": 2880,
+      "tamat": 3240,
+      "objektif": "Menyelaraskan pelepasan emas mengikut Piramid Maslow dan prinsip Systems > Goals.",
+      "alat": "",
+      "cues": [
+        "Ulang 3 syarat jualan emas Tuan Zul: (1) Aset Cashflow, (2) Matlamat Impian Tercapai, (3) Kecemasan Hidup.",
+        "Kaitkan dengan Piramid Maslow: emas melindungi tapak keselamatan dan maruah keluarga.",
+        "Tegaskan prinsip Systems > Goals: mempunyai emas tanpa sistem pelepasan yang betul akan menyebabkan aset bocor kembali."
+      ],
+      "rujukan": [
+        { "buku": "king", "poin": "Piramid Keperluan Maslow — Safety & Self-Actualization" },
+        { "buku": "clear", "poin": "Systems > Goals — sistem kawalan pelepasan aset" }
+      ],
+      "skrip": [
+        "Bila dah tahu bila nak beli, soalan yang paling penting: **bila pula waktu terbaik kita nak jual emas kita?**",
+        "Tolong ingat 3 syarat keramat yang digariskan oleh guru saya Tuan Mohd Zulkifli Shafie dalam **Perkara Asas Nombor Tujuh** — waktu terbaik jual emas cuma ada tiga keadaan sahaja:",
+        "- **(a) Bila ada peluang untuk tukar kepada aset yang boleh menjana aliran tunai (cashflow)** — contohnya beli rumah sewa di bawah harga pasaran atau rolling bisnes yang terbukti untung.",
+        "- **(b) Bila sudah capai target simpanan** — contohnya cukup belanja naik haji, dana pendidikan anak masuk universiti, atau deposit rumah pertama.",
+        "- **(c) Bila ada hal kecemasan hidup yang mendesak.**",
+        "Selain daripada tiga alasan ini, ==TAK PERLU JUAL PUN EMAS TU WALAUPUN HARGA DAH TINGGI!==",
+        "Mari kita bedah melalui **Piramid Keperluan Maslow** dalam *Read People Like a Book*:",
+        "Tingkat kedua Maslow adalah **Safety & Security (Keselamatan & Kestabilan).** Emas fizikal adalah benteng keselamatan tapak piramid anda. Bila anda ada emas, maruah keluarga anda terlindung. ==Anda tidak perlu merendahkan martabat meminjam duit orang lain bila dilanda krisis.==",
+        "Dan bila anda capai matlamat hidup — tunaikan haji, hantar anak ke universiti tanpa hutang PTPTN — anda sedang melangkah ke tingkat tertinggi Maslow: **Self-Actualization (Pencapaian Makna Hidup Sebenar)!**",
+        "James Clear mengingatkan kita dalam *Atomic Habits*:",
+        "> You do not rise to the level of your goals. You fall to the level of your systems.",
+        "Anda tidak naik ke tahap matlamat anda; **anda jatuh ke tahap sistem anda!**",
+        "Ramai orang ada matlamat nak simpan emas, tapi bila nampak harga emas naik tinggi sikit, tangan dah gatal nak jual untuk beli telefon baru atau tukar sport rim kereta! **Itu tanda anda tiada sistem pelepasan aset yang berdisiplin.**",
+        "Pegang 3 syarat Tuan Zul tadi sebagai ==SISTEM PERTAHANAN KEKAYAAN ANDA!== Jangan sesekali jual emas melainkan untuk menaik taraf hidup keluarga atau melindungi maruah ketika ribut kecemasan melanda."
+      ]
+    },
+    {
+      "no": 9,
+      "tajuk": "Rumusan, Formula Never Miss Twice & Call to Action",
+      "chip": "Tutup · Never Miss Twice",
+      "asas": null,
+      "mula": 3240,
+      "tamat": 3600,
+      "objektif": "Menegaskan disiplin Never Miss Twice, soalan tidak langsung Patrick King dan CTA GAP RM100.",
+      "alat": "Kad dealer Public Gold PG00359605.",
+      "cues": [
+        "Kongsikan hukum James Clear: 'Never Miss Twice' — terlepas sekali kemalangan, terlepas dua kali permulaan tabiat buruk.",
+        "Lontarkan soalan tidak langsung Patrick King yang menyentuh hati penonton.",
+        "Berikan arahan Call to Action yang jelas, rendah geseran, dan mesra bimbingan."
+      ],
+      "rujukan": [
+        { "buku": "clear", "poin": "Hukum Never Miss Twice & Voting for Identity" },
+        { "buku": "king", "poin": "10 Soalan Tidak Langsung mencungkil nilai" }
+      ],
+      "skrip": [
+        "Alhamdulillah sahabat sekalian, tepat 60 minit kita bersama membongkar 7 Asas Simpanan Emas melalui kanta sains tabiat dan psikologi manusia. Mari kita imbas kembali 7 asas ini:",
+        "- **1.** Emas tiada pendapatan bulanan — tolak skim cepat kaya dividen emas.",
+        "- **2.** Beli emas mesti dapat emas fizikal — kepuasan pemilikan 4 temperamen Keirsey.",
+        "- **3.** Jangka masa simpanan 2 tahun ke atas — lepasi Plateau of Latent Potential kiub ais.",
+        "- **4.** Harga naik purata 10% setahun — manfaatkan kuasa 1% compounding harian.",
+        "- **5.** Beli emas duit tak habis — Environment Design yang menyekat kebocoran wang.",
+        "- **6.** Waktu terbaik beli ialah bila ada duit — Gateway Habit 2 minit serendah RM100.",
+        "- **7.** Waktu terbaik jual cuma 3 sebab — sistem kawalan aset untuk memelihara maruah.",
+        "Sebelum saya tutup siaran langsung malam ini, saya nak hadiahkan dua perkara penting kepada anda.",
+        "**Pertama**, formula disiplin daripada James Clear: ==NEVER MISS TWICE — JANGAN TERLEPAS DUA KALI!==",
+        "Kalau bulan lepas anda terlepas simpan emas kerana komitmen mendesak, **itu kemalangan yang dimaafkan.** Tetapi kalau bulan ini anda terlepas lagi... anda sebenarnya sedang memulakan tabiat buruk baharu yang merugikan masa depan anda! Jangan biarkan ia berulang dua kali.",
+        "**Kedua**, satu soalan tidak langsung daripada Patrick King untuk anda bawa ke dalam tidur malam ini:",
+        "> Jika lima tahun dari sekarang, ekonomi dunia dilanda ribut kemelesetan yang paling dahsyat... adakah anda mahu memegang timbunan duit kertas yang nilainya sedang menjunam laju, atau anda mahu memegang seketul emas fizikal yang kukuh memayungi maruah dan keselamatan anak isteri anda?",
+        "**Pilihan ada di tangan anda malam ini.**",
+        "Bagi anda yang mahu memulakan langkah pertama membina identiti baharu sebagai penyimpan emas berdisiplin, mulakan langkah 'Dua Minit' anda sekarang melalui akaun **Gold Accumulation Program (GAP) Public Gold** serendah **RM100 sahaja.**",
+        "Pendaftaran adalah 100% percuma, patuh syariah sepenuhnya, dan anda akan dibimbing secara peribadi dalam komuniti G100 Network bimbingan Tuan Mohd Zulkifli Shafie.",
+        "Bagaimana nak mula?",
+        "- **1.** Klik link di bio profil saya sekarang, atau",
+        "- **2.** Tinggalkan komen ==SAYA NAK MULA== di ruangan komen di bawah.",
+        "Saya sendiri, **Taufik Musa, Authorized Dealer Public Gold Kod PG00359605**, akan hubungi dan bantu bimbing anda langkah demi langkah secara percuma sehingga anda berjaya memegang emas fizikal pertama anda.",
+        "Terima kasih atas segala sokongan, komen, dan tap-tap skrin anda semua sepanjang 1 jam ini. Semoga perkongsian ini menjadi asbab keselamatan harta dan ketenangan jiwa keluarga kita semua.",
+        "Moga perkongsian ini bermanfaat. **Taufik Musa, Dealer Public Gold (PG00359605), G100 Network.**",
+        "**Wabillahi taufiq wal hidayah, wassalamualaikum warahmatullahi wabarakatuh. Selamat malam dan jumpa anda di puncak kejayaan!**"
+      ]
+    }
+  ]
+}

@@ -8,10 +8,32 @@
   "format": "Skrip Percakapan Lisan — Penuh Interaksi, Menghapuskan Tabiat Bertangguh",
   "durasi": 3600,
   "ringkasan": "Batch 3. Sembilan segmen memprogram semula minda bawah sedar dan membunuh tabiat bertangguh, dari dinding 148,000 'No's' sampai sesi afirmasi Level 4 beramai-ramai.",
+  "buku": {
+    "tracy": {
+      "label": "ETF",
+      "nama": "Eat That Frog! — Brian Tracy"
+    },
+    "helmstetter": {
+      "label": "WTS",
+      "nama": "What to Say When You Talk to Your Self — Dr. Shad Helmstetter"
+    }
+  },
   "rujukanTeras": [
-    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
-    { "tajuk": "Eat That Frog!", "penulis": "Brian Tracy", "nota": "" },
-    { "tajuk": "What to Say When You Talk to Your Self", "penulis": "Dr. Shad Helmstetter", "nota": "" }
+    {
+      "tajuk": "7 Perkara Asas Simpanan Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "Artikel rujukan"
+    },
+    {
+      "tajuk": "Eat That Frog!",
+      "penulis": "Brian Tracy",
+      "nota": ""
+    },
+    {
+      "tajuk": "What to Say When You Talk to Your Self",
+      "penulis": "Dr. Shad Helmstetter",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar 1 gram Public Gold 999.9 (ada sijil + nombor siri)",
@@ -39,8 +61,14 @@
         "Sebut angka '148,000 kali' dengan penuh penekanan."
       ],
       "rujukan": [
-        { "buku": "helmstetter", "poin": "148,000 No's & The Self-Management Sequence" },
-        { "buku": "tracy", "poin": "Sense of Urgency & Do It Now!" }
+        {
+          "buku": "helmstetter",
+          "poin": "148,000 No's & The Self-Management Sequence"
+        },
+        {
+          "buku": "tracy",
+          "poin": "Sense of Urgency & Do It Now!"
+        }
       ],
       "skrip": [
         "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam live saya malam ni. **Selamat datang!**",
@@ -79,8 +107,14 @@
         "Minta penonton komen: 'Emas tiada dividen, emas lindung nilai!'"
       ],
       "rujukan": [
-        { "buku": "helmstetter", "poin": "Level 1 & 2 Self-Talk vs Level 3 Decision" },
-        { "buku": "tracy", "poin": "It's Supposed to Be Hard & No Shortcuts" }
+        {
+          "buku": "helmstetter",
+          "poin": "Level 1 & 2 Self-Talk vs Level 3 Decision"
+        },
+        {
+          "buku": "tracy",
+          "poin": "It's Supposed to Be Hard & No Shortcuts"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat betul-betul dalam buku nota anda:",
@@ -112,8 +146,14 @@
         "Tegaskan konsep Single Handling: jangan biar transaksi tergantung atas angin."
       ],
       "rujukan": [
-        { "buku": "helmstetter", "poin": "Bab 10 — The Mental Apartment & Level 4: The Better You" },
-        { "buku": "tracy", "poin": "Single Handling — Selesaikan 100%" }
+        {
+          "buku": "helmstetter",
+          "poin": "Bab 10 — The Mental Apartment & Level 4: The Better You"
+        },
+        {
+          "buku": "tracy",
+          "poin": "Single Handling — Selesaikan 100%"
+        }
       ],
       "skrip": [
         "Sekarang kita pergi ke **Perkara Asas Nombor Dua**:",
@@ -144,8 +184,14 @@
         "Gunakan teknik Monitor, Edit, Listen untuk tenangkan emosi bila tengok harga emas turun naik harian."
       ],
       "rujukan": [
-        { "buku": "tracy", "poin": "Kaedah ABCDE" },
-        { "buku": "helmstetter", "poin": "Bab 23 — PGS (Personal Growth Stasis) & Monitor-Edit-Listen" }
+        {
+          "buku": "tracy",
+          "poin": "Kaedah ABCDE"
+        },
+        {
+          "buku": "helmstetter",
+          "poin": "Bab 23 — PGS (Personal Growth Stasis) & Monitor-Edit-Listen"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Tiga.** Dengar baik-baik pesanan guru saya Tuan Zul:",
@@ -179,8 +225,14 @@
         "Ajak penonton menukar ayat rungutan kos sara hidup kepada azam menambah simpanan gram emas."
       ],
       "rujukan": [
-        { "buku": "tracy", "poin": "Law of Forced Efficiency & Sense of Urgency" },
-        { "buku": "helmstetter", "poin": "Situational Self-Talk — Ubah Persepsi 5 Saat" }
+        {
+          "buku": "tracy",
+          "poin": "Law of Forced Efficiency & Sense of Urgency"
+        },
+        {
+          "buku": "helmstetter",
+          "poin": "Situational Self-Talk — Ubah Persepsi 5 Saat"
+        }
       ],
       "skrip": [
         "Kita beralih kepada **Perkara Asas Nombor Empat**:",
@@ -214,8 +266,14 @@
         "Minta penonton taip di ruangan komen: 'Telan Katak Simpanan Hari Gaji!'"
       ],
       "rujukan": [
-        { "buku": "tracy", "poin": "Eat The Ugliest Frog First! & Creative Procrastination" },
-        { "buku": "helmstetter", "poin": "Level 4 Self-Talk — Disiplin & Pengaturcaraan Semula" }
+        {
+          "buku": "tracy",
+          "poin": "Eat The Ugliest Frog First! & Creative Procrastination"
+        },
+        {
+          "buku": "helmstetter",
+          "poin": "Level 4 Self-Talk — Disiplin & Pengaturcaraan Semula"
+        }
       ],
       "skrip": [
         "Poin nombor lima ni adalah rahsia terbesar penyimpan emas tegar. Tolong dengar baik-baik. **Perkara Asas #5**:",
@@ -250,8 +308,14 @@
         "Jelaskan bagaimana akaun GAP menghiris belian emas jadi mudah seperti keju Swiss."
       ],
       "rujukan": [
-        { "buku": "tracy", "poin": "One Oil Barrel at a Time & Salami Slice / Swiss Cheese" },
-        { "buku": "helmstetter", "poin": "Menukar Level 2 Self-Talk kepada Level 4" }
+        {
+          "buku": "tracy",
+          "poin": "One Oil Barrel at a Time & Salami Slice / Swiss Cheese"
+        },
+        {
+          "buku": "helmstetter",
+          "poin": "Menukar Level 2 Self-Talk kepada Level 4"
+        }
       ],
       "skrip": [
         "Sekarang kita masuk **Perkara Asas Nombor Enam.** Ini soalan paling kerap ditanya:",
@@ -288,8 +352,14 @@
         "Rendahkan tempo suara, buat nada mendalam tentang maruah anak dan isteri."
       ],
       "rujukan": [
-        { "buku": "tracy", "poin": "Bab 3 — The Law of Three & Single Handling" },
-        { "buku": "helmstetter", "poin": "Level 4 Self-Talk — Memelihara Benteng Maruah" }
+        {
+          "buku": "tracy",
+          "poin": "Bab 3 — The Law of Three & Single Handling"
+        },
+        {
+          "buku": "helmstetter",
+          "poin": "Level 4 Self-Talk — Memelihara Benteng Maruah"
+        }
       ],
       "skrip": [
         "Bila dah tahu bila nak beli, soalan yang paling penting: **bila waktu terbaik kita nak jual emas kita?**",
@@ -321,8 +391,14 @@
         "Berikan arahan Call to Action yang sangat jelas, ringkas, tanpa geseran."
       ],
       "rujukan": [
-        { "buku": "helmstetter", "poin": "Level 4 Group Affirmation Script" },
-        { "buku": "tracy", "poin": "Bias for Action & Do It Now!" }
+        {
+          "buku": "helmstetter",
+          "poin": "Level 4 Group Affirmation Script"
+        },
+        {
+          "buku": "tracy",
+          "poin": "Bias for Action & Do It Now!"
+        }
       ],
       "skrip": [
         "Alhamdulillah sahabat semua. Tepat hampir 60 minit kita bersama membongkar ilmu kewangan dan psikologi tindakan malam ni. Mari kita imbas kembali **7 Asas Simpanan Emas** yang wajib terpahat dalam ingatan:",
