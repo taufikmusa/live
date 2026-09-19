@@ -158,19 +158,35 @@
 
   /* ---------- jam ---------- */
   var last = 0;
+  var bakiPx = 0;     // baki pecahan piksel yang belum cukup 1px
+  var saatLepas = -1; // supaya save() sekali sesaat, bukan setiap frame
 
   function tick(ts) {
     if (state.running) {
       if (last) {
-        var dt = (ts - last) / 1000;
+        var dt = Math.min((ts - last) / 1000, 0.25);  // lompat masa (tab tidur) jangan campak skrin
         state.elapsed += dt;
-        if (state.autoscroll) window.scrollBy(0, state.speed * dt);
+
+        if (state.autoscroll) {
+          // Telefon buang nilai scroll pecahan. Pada 28 px/s satu frame
+          // cuma 0.46px, jadi setiap panggilan jadi sifar dan skrin nampak
+          // beku. Kumpul baki dulu, hantar bila dah cukup piksel penuh.
+          bakiPx += state.speed * dt;
+          var px = Math.floor(bakiPx);
+          if (px > 0) {
+            bakiPx -= px;
+            window.scrollBy(0, px);
+          }
+        }
       }
       last = ts;
       paint();
-      if (Math.floor(state.elapsed) % 5 === 0) save();
+
+      var saat = Math.floor(state.elapsed);
+      if (saat !== saatLepas && saat % 5 === 0) { saatLepas = saat; save(); }
     } else {
       last = 0;
+      bakiPx = 0;
     }
     requestAnimationFrame(tick);
   }
@@ -272,6 +288,9 @@
   function toggleScroll() {
     state.autoscroll = !state.autoscroll;
     $('#scroll').classList.toggle('on', state.autoscroll);
+    // CSS scroll-behavior:smooth jadikan setiap scrollBy satu animasi.
+    // 60 animasi sesaat bergaduh sesama sendiri dan langsung tak gerak.
+    document.documentElement.classList.toggle('autoscroll', state.autoscroll);
     if (state.autoscroll && !state.running) toggleRun();
   }
 

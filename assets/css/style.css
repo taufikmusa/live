@@ -517,3 +517,8 @@ main { padding: 22px 0 40vh; }
   background: var(--ink-600); border: 1px solid var(--line); border-bottom-width: 2px;
   border-radius: 5px; padding: 1px 6px; font-family: ui-monospace, monospace; font-size: 11.5px;
 }
+
+/* Masa auto-scroll jalan, matikan smooth-scroll CSS. Kalau tidak setiap
+   window.scrollBy jadi animasi tersendiri dan 60 animasi sesaat akan
+   batal-membatal — paling ketara atas telefon, skrin nampak beku. */
+html.autoscroll { scroll-behavior: auto; }
