@@ -62,6 +62,9 @@
 
 * { box-sizing: border-box; }
 
+/* `hidden` mesti menang atas display:grid/flex pada elemen yang sama */
+[hidden] { display: none !important; }
+
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 
 body {
@@ -382,4 +385,135 @@ main { padding: 22px 0 40vh; }
 
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+
+/* ============================================================
+   HUB — kotak carian, hasil, senarai segmen
+   ============================================================ */
+
+.searchbox {
+  position: relative; display: flex; align-items: center;
+  margin: 28px 0 0; max-width: 620px;
+  background: var(--ink-800); border: 1px solid var(--line);
+  border-radius: 999px; padding: 4px 6px 4px 16px;
+  transition: border-color .18s, box-shadow .18s;
+}
+.searchbox:focus-within {
+  border-color: var(--gold-500);
+  box-shadow: 0 0 0 4px var(--gold-soft);
+}
+.searchbox svg {
+  width: 19px; height: 19px; flex: 0 0 auto;
+  fill: none; stroke: var(--text-mute); stroke-width: 2; stroke-linecap: round;
+}
+.searchbox input {
+  flex: 1; min-width: 0;
+  background: none; border: 0; outline: 0;
+  color: var(--text); font: inherit; font-size: 16px;
+  padding: 13px 12px;
+}
+.searchbox input::placeholder { color: var(--text-mute); }
+.searchbox input::-webkit-search-cancel-button { display: none; }
+.searchbox input:disabled { opacity: .6; }
+#clearq {
+  appearance: none; border: 0; background: var(--ink-600); color: var(--text-dim);
+  width: 28px; height: 28px; border-radius: 50%; cursor: pointer;
+  font-size: 12px; line-height: 1; flex: 0 0 auto;
+}
+#clearq:hover { background: var(--ink-500); color: var(--text); }
+.searchbox .slash {
+  flex: 0 0 auto; margin: 0 10px 0 8px;
+  background: var(--ink-600); border: 1px solid var(--line); border-bottom-width: 2px;
+  border-radius: 5px; padding: 2px 8px; font-size: 11.5px; color: var(--text-mute);
+  font-family: ui-monospace, monospace;
+}
+@media (max-width: 560px) { .searchbox .slash { display: none; } }
+
+.searchmeta { min-height: 20px; margin-top: 10px; font-size: 13px; color: var(--text-mute); }
+
+.hero .chips { padding: 6px 0 0; margin: 0; max-width: none; }
+
+/* hasil carian */
+.hasil { display: grid; gap: 10px; padding: 26px 0 8px; }
+
+.hit {
+  display: block; padding: 15px 17px; color: inherit;
+  background: var(--ink-800); border: 1px solid var(--line);
+  border-radius: var(--radius); border-left: 3px solid var(--ink-500);
+  transition: border-color .15s, background .15s;
+}
+.hit:hover { text-decoration: none; background: var(--ink-700); border-left-color: var(--gold-500); }
+.hit-top {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  font-size: 11.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--text-mute); margin-bottom: 8px;
+}
+.hit-top .ver {
+  background: var(--gold-soft); color: var(--gold-400);
+  padding: 3px 8px; border-radius: 999px; letter-spacing: .1em;
+}
+.hit-masa { margin-left: auto; font-variant-numeric: tabular-nums; }
+.hit b {
+  display: block; font-family: var(--font-head); font-size: 17px;
+  letter-spacing: -.01em; margin-bottom: 6px;
+}
+.hit p { margin: 0; font-size: 14px; line-height: 1.65; color: var(--text-dim); }
+.hit mark {
+  background: var(--gold-soft); color: var(--gold-400);
+  padding: 0 3px; border-radius: 4px; font-weight: 650;
+}
+
+.kosong {
+  padding: 40px 20px; text-align: center;
+  border: 1px dashed var(--line); border-radius: var(--radius); color: var(--text-dim);
+}
+.kosong b { display: block; color: var(--text); font-size: 17px; margin-bottom: 8px; }
+.kosong p { margin: 0 auto; max-width: 46ch; font-size: 14px; }
+
+/* kad siri + senarai segmen boleh buka */
+.kad { padding: 0; overflow: hidden; }
+.kad-top { display: block; padding: 20px 20px 16px; color: inherit; }
+.kad-top:hover { text-decoration: none; }
+.kad:hover { border-color: var(--gold-600); }
+
+.kad-toggle {
+  appearance: none; width: 100%; text-align: left;
+  background: none; border: 0; border-top: 1px solid var(--line);
+  color: var(--text-dim); font: inherit; font-size: 13px; font-weight: 600;
+  padding: 12px 20px; cursor: pointer;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.kad-toggle:hover { color: var(--gold-400); background: var(--ink-700); }
+.kad-toggle i { font-style: normal; transition: transform .2s; }
+.kad-toggle.open i { transform: rotate(180deg); }
+
+.seglist { margin: 0; padding: 4px 0 10px; list-style: none; border-top: 1px solid var(--line); }
+.seglist a {
+  display: flex; align-items: center; gap: 12px;
+  padding: 9px 20px; color: var(--text-dim); font-size: 14px;
+}
+.seglist a:hover { text-decoration: none; background: var(--ink-700); color: var(--text); }
+.sl-no {
+  flex: 0 0 auto; width: 22px; height: 22px; border-radius: 6px;
+  background: var(--ink-600); color: var(--text-mute);
+  font-size: 11.5px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+.seglist a:hover .sl-no { background: var(--gold-soft); color: var(--gold-400); }
+.sl-tajuk { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sl-masa { flex: 0 0 auto; font-size: 12px; color: var(--text-mute); font-variant-numeric: tabular-nums; }
+
+/* skeleton masa memuat */
+.skeleton { display: grid; gap: 16px; padding: 32px 0 8px; }
+@media (min-width: 720px) { .skeleton { grid-template-columns: repeat(2, 1fr); } }
+.sk-card {
+  height: 168px; border-radius: var(--radius);
+  border: 1px solid var(--line); background: var(--ink-800);
+  animation: pulse 1.4s ease-in-out infinite;
+}
+@keyframes pulse { 0%, 100% { opacity: 1 } 50% { opacity: .45 } }
+
+.foot kbd {
+  background: var(--ink-600); border: 1px solid var(--line); border-bottom-width: 2px;
+  border-radius: 5px; padding: 1px 6px; font-family: ui-monospace, monospace; font-size: 11.5px;
 }

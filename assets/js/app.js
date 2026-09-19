@@ -116,7 +116,7 @@
 
     // segmen
     $('#segmen').innerHTML = data.segmen.map(function (s, i) {
-      var h = '<section class="seg" id="seg-' + i + '" data-i="' + i + '">';
+      var h = '<section class="seg" id="s' + s.no + '" data-i="' + i + '">';
       h += '<div class="seg-head">';
       h += '<div class="seg-kicker">';
       h += '<span class="tag">Segmen ' + s.no + '</span>';
@@ -348,6 +348,17 @@
     });
   }
 
+  // #s3 daripada hub / pautan dikongsi -> buka terus segmen itu
+  function dariHash() {
+    var m = /^#s(\d+)$/.exec(location.hash || '');
+    if (!m) return false;
+    var no = +m[1];
+    for (var i = 0; i < data.segmen.length; i++) {
+      if (data.segmen[i].no === no) { setActive(i, true); return true; }
+    }
+    return false;
+  }
+
   function toggleFull() {
     if (!document.fullscreenElement) {
       (document.documentElement.requestFullscreen || function () {}).call(document.documentElement);
@@ -369,8 +380,9 @@
       setMode(state.mode);
       setSize(state.size);
       setSpeed(state.speed);
-      setActive(0, false);
       bind();
+      if (!dariHash()) setActive(0, false);
+      window.addEventListener('hashchange', dariHash);
       paint();
       requestAnimationFrame(tick);
       $('#loading').remove();

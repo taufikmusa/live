@@ -7,11 +7,13 @@ Satu GitHub Pages, banyak skrip. Tiada build step, tiada dependency — HTML + C
 
 ```
 /
-├── index.html            Hub — senarai semua skrip live
+├── index.html            Hub — carian + senarai semua skrip
 ├── live-01/index.html    Shell teleprompter (set window.LIVE_ID)
+├── data/index.json       Manifest — senarai id skrip, itu je
 ├── data/live-01.json     KANDUNGAN skrip — di sini je yang perlu diedit
 ├── assets/css/style.css  Tema Ink + Gold, dark-first
-├── assets/js/app.js      Enjin: jam, chips, auto-scroll, mod paparan
+├── assets/js/app.js      Enjin teleprompter: jam, chips, auto-scroll, mod
+├── assets/js/hub.js      Enjin hub: carian merentas semua skrip
 ├── CNAME                 live.taufik.fyi
 └── .nojekyll             Halang Jekyll proses folder
 ```
@@ -19,14 +21,52 @@ Satu GitHub Pages, banyak skrip. Tiada build step, tiada dependency — HTML + C
 Prinsipnya: **kandungan dipisah daripada paparan.** Nak tambah skrip baru tak perlu sentuh
 HTML/CSS/JS langsung.
 
+Manifest `data/index.json` sengaja simpan **id sahaja** — tajuk, durasi dan bilangan segmen
+dibaca terus daripada fail skrip. Jadi tak ada maklumat yang berulang di dua tempat, dan
+tak ada risiko kad hub jadi tak sama dengan kandungan sebenar.
+
+## Hub & carian
+
+Hub ada satu kotak carian yang masuk sampai ke dalam **teks skrip**, bukan setakat tajuk.
+Taip `Kaizen`, `roti canai`, atau `margin of safety` — dia keluarkan segmen yang betul,
+dengan petikan ayat sekeliling padanan, dan pautan terus ke segmen itu.
+
+Cara ia beri markah:
+
+| Padanan di | Markah |
+|---|---|
+| Tajuk siri, tajuk segmen, nama asas, rujukan buku | 10 |
+| Objektif dan cue kamera | 4 |
+| Badan skrip | 1 |
+| Bonus bila perkataan bersebelahan (padanan frasa) | +12 hingga +40 |
+
+Semua perkataan yang kau taip mesti ada (logik DAN), jadi carian makin tajam bila kau
+tambah perkataan. Tekan <kbd>/</kbd> di mana-mana untuk terus fokus ke kotak carian,
+<kbd>Esc</kbd> untuk kosongkan.
+
+Setiap kad juga ada butang **Lompat terus ke segmen** — senarai penuh 9 segmen dengan
+masa mula, klik terus masuk.
+
+## Pautan dalam (deep link)
+
+Setiap segmen ada anchor ikut nombornya:
+
+```
+live.taufik.fyi/live-01/#s6     → buka terus Segmen 6, jam dan chip terus selaras
+```
+
+Boleh kongsi pautan ni dalam WhatsApp kalau nak rujuk satu segmen tertentu.
+
 ## Tambah skrip baru (ver-02, ver-03, …)
 
 1. Salin `data/live-01.json` → `data/live-02.json`, isi kandungan baru.
 2. Salin folder `live-01/` → `live-02/`, tukar satu baris:
    `<script>window.LIVE_ID = 'live-02';</script>`
-3. Tambah satu `<a class="card">` dalam `index.html`.
+3. Tambah `"live-02"` dalam array `siri` di `data/index.json`.
 
-Siap. Push, Pages auto-deploy.
+Siap. Kad keluar sendiri di hub, kandungan terus masuk indeks carian, dan chip
+penapis per-versi muncul automatik bila dah ada lebih daripada satu skrip.
+Push, Pages auto-deploy.
 
 ## Format JSON
 
@@ -39,6 +79,7 @@ Siap. Push, Pages auto-deploy.
   "segmen": [{
     "no": 1,
     "tajuk": "...",
+    "chip": "#1 Tiada Pendapatan",   // label pendek untuk chip navigasi
     "asas": "Asas #1",                      // null kalau bukan asas
     "mula": 0, "tamat": 300,                // saat
     "objektif": "...",

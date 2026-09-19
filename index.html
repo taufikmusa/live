@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Bilik Skrip Live — Taufik Musa</title>
-<meta name="description" content="Koleksi skrip live stream Taufik Musa, Authorized Dealer Public Gold PG00359605. Teleprompter dengan jam segmen dan cue card.">
+<meta name="description" content="Koleksi skrip live stream Taufik Musa. Cari terus ke mana-mana segmen dalam mana-mana skrip.">
 <meta name="theme-color" content="#0b0d10">
 <meta name="robots" content="noindex">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,39 +18,41 @@
 <header class="hero">
   <div class="wrap">
     <div class="brand">Bilik Skrip Live</div>
-    <h1>Skrip live, siap jam &amp; cue card.</h1>
-    <p>Semua skrip live stream disusun jadi teleprompter — jam per segmen, arahan kamera, dan mod ringkas untuk glance masa on-air. Buka dari telefon atau skrin kedua.</p>
+    <h1>Semua skrip. Satu kotak carian.</h1>
+    <p>Taip apa-apa — tajuk, prinsip, contoh, atau ayat yang kau separuh ingat.
+       Carian masuk sampai ke dalam teks skrip dan lompat terus ke segmen yang betul.</p>
+
+    <div class="searchbox">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Memuatkan skrip…" disabled
+             aria-label="Cari dalam semua skrip live">
+      <button id="clearq" hidden aria-label="Kosongkan carian">✕</button>
+      <kbd class="slash">/</kbd>
+    </div>
+    <div class="searchmeta"><span id="kira"></span></div>
+
+    <div class="chips" id="vchips" hidden></div>
   </div>
 </header>
 
 <div class="wrap">
-  <div class="grid">
 
-    <a class="card" href="live-01/">
-      <span class="ver">ver-01</span>
-      <h2>7 Asas Simpanan Emas</h2>
-      <p>x Psikologi Wang (Morgan Housel) &amp; Prinsip Kejayaan (Jack Canfield). Sembilan segmen, dari hook E+R=O sampai CTA GAP RM100.</p>
-      <div class="meta">
-        <span>60 minit</span>
-        <span>9 segmen</span>
-        <span>TikTok · FB · IG · YouTube</span>
-      </div>
-    </a>
-
-    <div class="card soon">
-      <span class="ver">ver-02</span>
-      <h2>Slot seterusnya</h2>
-      <p>Tambah folder baru + satu fail JSON, terus keluar dekat sini.</p>
-      <div class="meta"><span>Belum ada</span></div>
-    </div>
-
+  <div id="skeleton" class="skeleton">
+    <div class="sk-card"></div><div class="sk-card"></div>
   </div>
+
+  <div id="hasil" class="hasil" hidden></div>
+
+  <div id="senarai" class="grid"></div>
 
   <footer class="foot">
     <p style="margin:0 0 6px"><b style="color:var(--text)">Taufik Musa</b> — Authorized Dealer Public Gold PG00359605</p>
-    <p style="margin:0">Skrip dalaman untuk sesi live. <code>live.taufik.fyi</code></p>
+    <p style="margin:0">Skrip dalaman untuk sesi live. <code>live.taufik.fyi</code> ·
+       tekan <kbd>/</kbd> untuk terus cari</p>
   </footer>
 </div>
 
+<script src="assets/js/hub.js"></script>
 </body>
 </html>
