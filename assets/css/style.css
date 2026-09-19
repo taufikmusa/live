@@ -26,6 +26,8 @@
   --warn-bg: rgba(255, 107, 107, .12);
   --book-h: #7fb2ff;
   --book-c: #c58cff;
+  --book-t: #ff9b7a;
+  --book-s: #5ecbe8;
 
   --radius: 14px;
   --radius-sm: 9px;
@@ -58,6 +60,8 @@
   --cue-bg: rgba(15, 138, 99, .09);
   --book-h: #1f5fc4;
   --book-c: #7a35c9;
+  --book-t: #c2410c;
+  --book-s: #0e7490;
 }
 
 * { box-sizing: border-box; }
@@ -263,6 +267,10 @@ main { padding: 22px 0 40vh; }
 .ref.housel::before { content: "PoM"; color: var(--book-h); }
 .ref.canfield { border-color: color-mix(in srgb, var(--book-c) 40%, transparent); }
 .ref.canfield::before { content: "TSP"; color: var(--book-c); }
+.ref.tracy { border-color: color-mix(in srgb, var(--book-t) 40%, transparent); }
+.ref.tracy::before { content: "ETF"; color: var(--book-t); }
+.ref.helmstetter { border-color: color-mix(in srgb, var(--book-s) 40%, transparent); }
+.ref.helmstetter::before { content: "WTS"; color: var(--book-s); }
 
 /* teks skrip — bahagian yang dibaca */
 .skrip { margin-top: 22px; }
@@ -291,7 +299,7 @@ main { padding: 22px 0 40vh; }
   border-left: 3px solid var(--gold-500); background: var(--gold-soft);
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
 }
-.skrip blockquote p { margin: 0; font-weight: 600; font-style: italic; }
+.skrip blockquote p { margin: 0; font-weight: 600; }
 
 .seg-foot { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 26px; }
 
@@ -522,3 +530,12 @@ main { padding: 22px 0 40vh; }
    window.scrollBy jadi animasi tersendiri dan 60 animasi sesaat akan
    batal-membatal — paling ketara atas telefon, skrin nampak beku. */
 html.autoscroll { scroll-behavior: auto; }
+
+/* Tajuk siri selalunya sama merentas versi ("7 Asas Simpanan Emas") — yang
+   sebenarnya membezakan satu skrip daripada yang lain ialah sudut/buku yang
+   digabungkan. Jadi subtajuk kena cukup menonjol untuk dibaca sekali imbas. */
+.card p.kad-sudut {
+  color: var(--gold-400);
+  font-weight: 600;
+  font-size: 14px;
+}

@@ -116,7 +116,7 @@
       h += '<a class="kad-top" href="' + d.id + '/">';
       h += '<span class="ver">' + esc(d.ver) + '</span>';
       h += '<h2>' + esc(d.tajuk) + '</h2>';
-      h += '<p>' + esc(d.subtajuk) + '</p>';
+      h += '<p class="kad-sudut">' + esc(d.subtajuk) + '</p>';
       h += '<div class="meta">';
       h += '<span>' + Math.round(d.durasi / 60) + ' minit</span>';
       h += '<span>' + jumSeg + ' segmen</span>';
@@ -134,12 +134,15 @@
       return h;
     }).join('');
 
-    // kad "akan datang"
-    $('#senarai').insertAdjacentHTML('beforeend',
-      '<div class="card soon"><span class="ver">seterusnya</span>' +
-      '<h2>Slot kosong</h2><p>Tambah satu fail JSON dalam <code>data/</code> ' +
-      'dan satu id dalam <code>data/index.json</code> — terus keluar di sini, ' +
-      'terus boleh dicari.</p></div>');
+    // Petunjuk cara tambah siri hanya berguna masa baru ada satu skrip.
+    // Lepas tu ia jadi sampah yang sentiasa mengekori senarai.
+    if (siri.length < 2) {
+      $('#senarai').insertAdjacentHTML('beforeend',
+        '<div class="card soon"><span class="ver">seterusnya</span>' +
+        '<h2>Slot kosong</h2><p>Tambah satu fail JSON dalam <code>data/</code> ' +
+        'dan satu id dalam <code>data/index.json</code> — terus keluar di sini, ' +
+        'terus boleh dicari.</p></div>');
+    }
   }
 
   function renderChips() {

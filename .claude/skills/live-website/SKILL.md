@@ -94,9 +94,19 @@ penapis per-versi muncul automatik bila dah ada lebih daripada satu skrip.
 }
 ```
 
-`buku` hanya terima `housel` (The Psychology of Money, lencana biru **PoM**)
-atau `canfield` (The Success Principles, lencana ungu **TSP**). Nilai lain
-akan render tanpa lencana.
+`buku` ialah kod pendek untuk lencana rujukan. Yang sedia ada:
+
+| Kod | Buku | Lencana | Warna |
+|---|---|---|---|
+| `housel` | The Psychology of Money | **PoM** | biru |
+| `canfield` | The Success Principles | **TSP** | ungu |
+| `tracy` | Eat That Frog! | **ETF** | jingga |
+| `helmstetter` | What to Say When You Talk to Your Self | **WTS** | sian |
+
+Kod yang tak dikenali akan render tanpa lencana. Bila skrip baharu guna buku
+lain, tambah token warna (`--book-*`) untuk tema gelap **dan** terang dalam
+`style.css`, kemudian satu pasangan `.ref.<kod>` / `.ref.<kod>::before`.
+Ambil singkatan tiga huruf supaya lebar lencana konsisten.
 
 `chip` kena pendek — ia muncul dalam baris chip mendatar yang perlu dibaca
 sekali pandang masa on-air. Gaya sedia ada: `Buka · E+R=O`, `#1 Tiada
