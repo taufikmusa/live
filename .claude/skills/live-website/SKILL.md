@@ -27,14 +27,20 @@ dengan ayat yang nak disebut. Laman ini selesaikan tiga benda tu.
 ```
 /
 ├── index.html              Hub — kotak carian + kad setiap skrip
-├── live-01/index.html      Shell teleprompter (set window.LIVE_ID sahaja)
+├── live-NN/index.html      Shell teleprompter (set window.LIVE_ID sahaja)
 ├── data/index.json         Manifest — senarai id, itu je
-├── data/live-01.json       KANDUNGAN skrip — di sini sahaja yang diedit
+├── data/live-NN.json       KANDUNGAN skrip — di sini sahaja yang diedit
 ├── assets/css/style.css    Tema Ink + Gold, dark-first
 ├── assets/js/app.js        Enjin teleprompter
 ├── assets/js/hub.js        Enjin hub + carian
 ├── CNAME                   live.taufik.fyi
 └── .nojekyll               Halang Jekyll proses folder
+
+.claude/skills/live-website/scripts/
+├── ekstrak-docx.py         .docx -> teks + ringkasan segmen & batch
+├── tambah-siri.sh          Rangka siri baharu (3 langkah, automatik)
+├── semak-data.py           Semak semua siri sebelum push
+└── cari-tindih.py          Kesan kisah yang bertindih antara siri
 ```
 
 Prinsip terasnya: **kandungan dipisah daripada paparan.** Shell HTML kosong,
@@ -52,17 +58,39 @@ manifest simpan tajuk juga, satu hari Taufik akan tukar tajuk dalam JSON dan
 terlupa tukar dalam manifest, lalu kad hub tunjuk benda lain daripada
 kandungan sebenar. Jangan perkenalkan semula pendua itu.
 
-## 3. Tambah skrip baru (ver-02, ver-03, …)
+## 3. Tambah skrip baru
 
-Tiga langkah. Jangan tambah langkah keempat.
+Aliran penuh dari `.docx` sampai push. Lima langkah, dan tiga daripadanya
+sudah jadi skrip — jangan buat secara manual.
 
-1. Salin `data/live-01.json` → `data/live-02.json`, isi kandungan baru.
-2. Salin folder `live-01/` → `live-02/`, tukar satu baris dalam `index.html`:
-   `<script>window.LIVE_ID = 'live-02';</script>`
-3. Tambah `"live-02"` dalam array `siri` di `data/index.json`.
+```bash
+# 1. Ekstrak teks + baca nombor batch dan tajuk segmen
+python3 .claude/skills/live-website/scripts/ekstrak-docx.py <fail.docx>
+
+# 2. Rangka siri (folder, LIVE_ID, JSON template, manifest)
+bash .claude/skills/live-website/scripts/tambah-siri.sh live-NN
+
+# 3. Isi data/live-NN.json  <-- satu-satunya langkah manual
+
+# 4. Semak sebelum uji
+python3 .claude/skills/live-website/scripts/semak-data.py
+
+# 5. Uji dalam browser, kemudian push
+python3 -m http.server 8099
+```
+
+`tambah-siri.sh` menyalin shell teleprompter daripada folder sedia ada,
+jadi ia sentiasa ikut versi terkini; menukar `LIVE_ID`; menjana JSON
+daripada template; dan menambah id ke dalam manifest. Ia **berhenti**
+kalau id itu sudah wujud, supaya kerja sedia ada tak ditimpa senyap.
 
 Kad keluar sendiri di hub, kandungan terus masuk indeks carian, dan chip
-penapis per-versi muncul automatik bila dah ada lebih daripada satu skrip.
+penapis per-versi muncul automatik.
+
+Bila menulis `data/live-NN.json`, ambil daripada dokumen asal:
+`batch`, `subtajuk` (sudut yang membezakannya daripada siri lain), peta
+`buku`, dan satu `chip` pendek per segmen. Semua ini menentukan sama ada
+skrip boleh dijumpai semula enam bulan lagi.
 
 ## 4. Skema JSON
 
@@ -75,6 +103,7 @@ penapis per-versi muncul automatik bila dah ada lebih daripada satu skrip.
   "hos": "Taufik Musa",
   "dealer": "Authorized Dealer Public Gold PG00359605",
   "format": "Live Stream Interaktif — TikTok / Facebook / Instagram / YouTube",
+  "batch": 11,                       // nombor batch dokumen asal
   "durasi": 3600,                    // saat
   "ringkasan": "…",
   "rujukanTeras": [{ "tajuk": "", "penulis": "", "nota": "" }],
@@ -93,6 +122,24 @@ penapis per-versi muncul automatik bila dah ada lebih daripada satu skrip.
   }]
 }
 ```
+
+### Medan `batch`
+
+Dokumen `.docx` Taufik bernombor mengikut turutan penulisannya sendiri,
+dan nombor itu **tidak padan** dengan nombor ver di laman:
+
+| ver | batch | ver | batch |
+|---|---|---|---|
+| ver-01 | *(tiada)* | ver-06 | 2 |
+| ver-02 | 3 | ver-07 | 7 |
+| ver-03 | 6 | ver-08 | 11 |
+| ver-04 | 4 | ver-09 | 9 |
+| ver-05 | 5 | ver-10 | 10 |
+
+Tanpa medan ini tiada cara memadankan skrip di laman dengan fail sumber.
+`ekstrak-docx.py` membaca nombor batch terus daripada dokumen, jadi ambil
+dari situ dan jangan teka. Kalau dokumen tiada label batch (seperti
+ver-01), tinggalkan medan itu — paparan menanganinya.
 
 ### Peta buku
 
@@ -225,6 +272,18 @@ tak melompatkan skrin jauh bila kembali aktif.
 
 ## 8. Rutin kerja
 
+**Mula dengan ekstrak.** Jangan tulis semula regex XML setiap kali —
+Word membungkus satu ayat dalam banyak `<w:r>`, jadi teks mesti dikumpul
+per perenggan dan bukan dengan satu grep:
+
+```bash
+python3 .claude/skills/live-website/scripts/ekstrak-docx.py <fail.docx> [lagi.docx ...]
+```
+
+Ia tulis `.txt` di sebelah setiap `.docx` dan cetak tajuk, nombor batch,
+serta senarai 9 tajuk segmen — cukup untuk merancang `chip` dan peta buku
+sebelum membaca teks penuh.
+
 **Semak data dahulu.** Satu arahan menyemak semua siri:
 
 ```bash
@@ -237,6 +296,10 @@ yang tak diisytihar, markup `**` atau `==` yang tak berpasangan (bocor ke
 skrin sebagai simbol mentah), `LIVE_ID` yang tak sepadan dengan folder, dan
 fail skrip yang terlepas daripada manifest. Keluar dengan kod 1 bila gagal,
 jadi boleh dipasang dalam hook atau CI.
+
+Siri yang baru dirangka akan **gagal semakan ini sehingga diisi** — template
+hanya ada satu segmen, jadi garis masa tak sampai `durasi`. Itu bukan
+pepijat; ia peringatan bahawa langkah 3 belum selesai.
 
 **Uji sebelum push. Sentiasa.** `fetch()` tak jalan atas `file://`:
 
@@ -264,7 +327,37 @@ sahaja tidak menyimpan).
 **Selepas deploy**, ingatkan Taufik hard refresh atas telefon. Browser pegang
 JS lama dalam cache dan dia akan sangka fix tak jadi.
 
-## 9. Nota persekitaran
+## 9. Pertindihan kisah antara siri
+
+Skrip ditulis dalam batch berasingan, jadi kisah yang sama kerap muncul
+semula merentas siri. Ini bukan pepijat dan bukan tugas untuk dibetulkan
+— ia keputusan kandungan Taufik.
+
+Tetapi ia ada akibat operasi yang nyata: **kalau dua siri yang berkongsi
+kisah dijadualkan berturut-turut, audien yang sama mendengar anekdot yang
+sama dua kali dan kesannya hilang.**
+
+```bash
+python3 .claude/skills/live-website/scripts/cari-tindih.py
+```
+
+Ia mengumpul nama khas daripada teks setiap siri dan melaporkan yang
+dikongsi, sambil mengabaikan frasa yang muncul dalam lebih 40% siri
+(itu ayat standard — nama guru, kod dealer, tajuk asas). Pasangan dengan
+3 frasa khas atau lebih ditanda **JANGAN JADUAL BERTURUTAN**.
+
+Setakat sepuluh siri, dua pasangan berisiko:
+
+| Pasangan | Kisah dikongsi |
+|---|---|
+| ver-05 + ver-09 | Cher Ami, Kod QR Denso Wave |
+| ver-05 + ver-08 | Marshmallow Stanford, Katak Rebus, Balang Kutu, IKEA Effect |
+
+Bila Taufik bertanya skrip mana untuk live seterusnya, jalankan skrip ini
+dahulu dan sebut pertindihan sebelum mencadangkan. Jangan gabungkan atau
+buang kandungan untuk "membetulkan" pertindihan — itu keputusannya.
+
+## 10. Nota persekitaran
 
 Cloudflare mesti kekal **DNS only** untuk subdomain ini. Kalau proxy oren
 dihidupkan, GitHub tak dapat isukan sijil SSL dan tersekat di "Certificate

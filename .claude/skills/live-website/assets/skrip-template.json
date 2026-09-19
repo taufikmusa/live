@@ -1,6 +1,7 @@
 {
   "id": "live-NN",
   "ver": "ver-NN",
+  "batch": 0,
   "tajuk": "Tajuk utama skrip",
   "subtajuk": "Sub-tajuk atau sudut yang digabungkan",
   "hos": "Taufik Musa",
