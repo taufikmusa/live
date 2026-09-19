@@ -1,6 +1,7 @@
 {
   "id": "live-06",
   "ver": "ver-06",
+  "batch": 2,
   "tajuk": "7 Asas Simpanan Emas",
   "subtajuk": "x Same As Ever & Falsafah Viral Quote Wisdom",
   "hos": "Taufik Bin Musa",
@@ -9,13 +10,31 @@
   "durasi": 3600,
   "ringkasan": "Batch 2. Tujuh asas dibaca melalui prinsip abadi Morgan Housel dalam Same As Ever dan mutiara falsafah jalanan — kaya yang senyap, jalan pintas Donner Party, Red Queen Effect, dan Sell Relief.",
   "buku": {
-    "sae": { "label": "SAE", "nama": "Same As Ever — Morgan Housel (2023)" },
-    "zra": { "label": "ZRA", "nama": "Viral Quote Wisdom — Falsafah Jalanan & Transkrip Hikmah" }
+    "sae": {
+      "label": "SAE",
+      "nama": "Same As Ever — Morgan Housel (2023)"
+    },
+    "zra": {
+      "label": "ZRA",
+      "nama": "Viral Quote Wisdom — Falsafah Jalanan & Transkrip Hikmah"
+    }
   },
   "rujukanTeras": [
-    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
-    { "tajuk": "Same As Ever", "penulis": "Morgan Housel", "nota": "2023" },
-    { "tajuk": "Falsafah Jalanan & Transkrip Hikmah", "penulis": "Viral Quote Wisdom", "nota": "" }
+    {
+      "tajuk": "7 Perkara Asas Simpanan Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "Artikel rujukan"
+    },
+    {
+      "tajuk": "Same As Ever",
+      "penulis": "Morgan Housel",
+      "nota": "2023"
+    },
+    {
+      "tajuk": "Falsafah Jalanan & Transkrip Hikmah",
+      "penulis": "Viral Quote Wisdom",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar 1g / dinar Public Gold untuk close-up",
@@ -42,8 +61,14 @@
         "Sambut penonton awal dengan nama mereka, minta tap screen dan sahkan kualiti audio."
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 1 — Hanging by a Thread" },
-        { "buku": "zra", "poin": "The Inversion Hook & Mirror Framing" }
+        {
+          "buku": "sae",
+          "poin": "Bab 1 — Hanging by a Thread"
+        },
+        {
+          "buku": "zra",
+          "poin": "The Inversion Hook & Mirror Framing"
+        }
       ],
       "skrip": [
         "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam live saya malam ni. **Selamat datang!**",
@@ -73,9 +98,18 @@
         "Gunakan kisah Donner Party yang tersontot kerana cari jalan pintas."
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 9 — Too Much Too Soon" },
-        { "buku": "sae", "poin": "Bab 15 — It's Supposed to Be Hard" },
-        { "buku": "zra", "poin": "Bahaya tamak & harga yang perlu dibayar" }
+        {
+          "buku": "sae",
+          "poin": "Bab 9 — Too Much Too Soon"
+        },
+        {
+          "buku": "sae",
+          "poin": "Bab 15 — It's Supposed to Be Hard"
+        },
+        {
+          "buku": "zra",
+          "poin": "Bahaya tamak & harga yang perlu dibayar"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat betul-betul dalam buku nota anda:",
@@ -108,8 +142,14 @@
         "Tekankan perkataan: 'Beli Emas, Mesti Dapat Emas. Bukan kertas janji manis.'"
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 14 — Casualties of Perfection" },
-        { "buku": "zra", "poin": "Anti-Flexing — reputasi vs aset sebenar" }
+        {
+          "buku": "sae",
+          "poin": "Bab 14 — Casualties of Perfection"
+        },
+        {
+          "buku": "zra",
+          "poin": "Anti-Flexing — reputasi vs aset sebenar"
+        }
       ],
       "skrip": [
         "Kita teruskan dengan **Perkara Asas Nombor Dua**:",
@@ -139,8 +179,14 @@
         "Beri gambaran analogi laut bergelora vs sauh kapal."
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 21 — Time Horizons" },
-        { "buku": "zra", "poin": "Piramid Tabungan: Tunai → Emas → Aset Pasif" }
+        {
+          "buku": "sae",
+          "poin": "Bab 21 — Time Horizons"
+        },
+        {
+          "buku": "zra",
+          "poin": "Piramid Tabungan: Tunai → Emas → Aset Pasif"
+        }
       ],
       "skrip": [
         "Masuk **Perkara Asas Nombor Tiga.** Tolong gariskan dengan pen merah:",
@@ -172,9 +218,18 @@
         "Ubah rentak percakapan jadi staccato laju, bertenaga, membakar semangat."
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 11 — Overnight Tragedies & Long-Term Miracles" },
-        { "buku": "sae", "poin": "Bab 16 — Keep Running / Red Queen Effect" },
-        { "buku": "zra", "poin": "Staccato Cadence — duit kurus vs nilai emas" }
+        {
+          "buku": "sae",
+          "poin": "Bab 11 — Overnight Tragedies & Long-Term Miracles"
+        },
+        {
+          "buku": "sae",
+          "poin": "Bab 16 — Keep Running / Red Queen Effect"
+        },
+        {
+          "buku": "zra",
+          "poin": "Staccato Cadence — duit kurus vs nilai emas"
+        }
       ],
       "skrip": [
         "Kita pergi ke **Perkara Asas Nombor Empat**:",
@@ -207,8 +262,14 @@
         "Terangkan perbezaan psikologi menjual emas vs swipe kad kredit."
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 8 — Calm Plants the Seeds of Crazy" },
-        { "buku": "zra", "poin": "Prinsip Paksa & Lupa — matikan euphoria dopamin" }
+        {
+          "buku": "sae",
+          "poin": "Bab 8 — Calm Plants the Seeds of Crazy"
+        },
+        {
+          "buku": "zra",
+          "poin": "Prinsip Paksa & Lupa — matikan euphoria dopamin"
+        }
       ],
       "skrip": [
         "Poin nombor lima ni saya nak semua orang dengar dengan telinga hati. **Perkara Asas #5**:",
@@ -238,9 +299,18 @@
         "Tekankan tindakan segera: 'Kecilkan analisa, besarkan gram!'"
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 22 — Trying Too Hard" },
-        { "buku": "sae", "poin": "Bab 2 — Risk Is What You Don't See" },
-        { "buku": "zra", "poin": "Tindakan mendahului fikiran" }
+        {
+          "buku": "sae",
+          "poin": "Bab 22 — Trying Too Hard"
+        },
+        {
+          "buku": "sae",
+          "poin": "Bab 2 — Risk Is What You Don't See"
+        },
+        {
+          "buku": "zra",
+          "poin": "Tindakan mendahului fikiran"
+        }
       ],
       "skrip": [
         "Sekarang kita masuk soalan keramat yang saya terima setiap hari. **Perkara Asas Nombor Enam**:",
@@ -273,8 +343,14 @@
         "Ingatkan: 'Emas adalah benteng maruah, bukan cip judi.'"
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 23 — Wounds Heal, Scars Last" },
-        { "buku": "zra", "poin": "Sell Relief — jual ketenangan, bukan objek" }
+        {
+          "buku": "sae",
+          "poin": "Bab 23 — Wounds Heal, Scars Last"
+        },
+        {
+          "buku": "zra",
+          "poin": "Sell Relief — jual ketenangan, bukan objek"
+        }
       ],
       "skrip": [
         "Bila dah tahu bila nak beli, persoalan paling penting: **bila pula kita patut jual emas kita?**",
@@ -305,8 +381,14 @@
         "Gunakan penutup formula 3-Line Sales closing: Situasi Mereka → Bukti Nilai → Tindakan Mudah."
       ],
       "rujukan": [
-        { "buku": "sae", "poin": "Bab 6 — The Best Story Wins" },
-        { "buku": "zra", "poin": "Kecilkan circle & 3-Line Closing Framework" }
+        {
+          "buku": "sae",
+          "poin": "Bab 6 — The Best Story Wins"
+        },
+        {
+          "buku": "zra",
+          "poin": "Kecilkan circle & 3-Line Closing Framework"
+        }
       ],
       "skrip": [
         "Sahabat semua, pejam celik dah hampir 60 minit kita bersama malam ni. Masa berlalu begitu pantas bila kita bercakap tentang ilmu yang bermanfaat.",

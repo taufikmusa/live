@@ -57,7 +57,8 @@
           tamat: s.tamat,
           badan: badan,
           // berat: tajuk & asas paling kuat, badan paling lemah
-          kuat: fold([d.tajuk, s.tajuk, s.asas || '', s.chip || '', rujuk].join(' ')),
+          kuat: fold([d.tajuk, s.tajuk, s.asas || '', s.chip || '', rujuk,
+                      d.subtajuk, d.ver, d.batch ? 'batch ' + d.batch : ''].join(' ')),
           sederhana: fold([s.objektif, cues].join(' ')),
           lemah: fold(badan)
         });
@@ -125,6 +126,7 @@
       h += '<div class="meta">';
       h += '<span>' + Math.round(d.durasi / 60) + ' minit</span>';
       h += '<span>' + jumSeg + ' segmen</span>';
+      if (d.batch) h += '<span>batch ' + d.batch + '</span>';
       h += '</div></a>';
       h += '<button class="kad-toggle" data-buka="' + d.id + '" aria-expanded="false">' +
            'Lompat terus ke segmen <i>▾</i></button>';

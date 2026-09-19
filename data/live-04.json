@@ -1,6 +1,7 @@
 {
   "id": "live-04",
   "ver": "ver-04",
+  "batch": 4,
   "tajuk": "7 Asas Simpanan Emas",
   "subtajuk": "x Falsafah Mentor Tn Zul & Fanatical Prospecting",
   "hos": "Taufik Bin Musa",
@@ -9,13 +10,31 @@
   "durasi": 3600,
   "ringkasan": "Batch 4. Analogi mentor Tn Zul (Titanic, token dobi, pokok durian, karipap Mak Cik Bedah) digabung dengan rangka RBO Turnaround Jeb Blount untuk mematahkan bantahan prospek.",
   "buku": {
-    "zul": { "label": "TZL", "nama": "Falsafah & Analogi Mentor Tn Mohd Zulkifli Shafie" },
-    "blount": { "label": "FPR", "nama": "Fanatical Prospecting — Jeb Blount" }
+    "zul": {
+      "label": "TZL",
+      "nama": "Falsafah & Analogi Mentor Tn Mohd Zulkifli Shafie"
+    },
+    "blount": {
+      "label": "FPR",
+      "nama": "Fanatical Prospecting — Jeb Blount"
+    }
   },
   "rujukanTeras": [
-    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
-    { "tajuk": "Buku & Analogi Guru Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "G100 Network" },
-    { "tajuk": "Fanatical Prospecting", "penulis": "Jeb Blount", "nota": "" }
+    {
+      "tajuk": "7 Perkara Asas Simpanan Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "Artikel rujukan"
+    },
+    {
+      "tajuk": "Buku & Analogi Guru Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "G100 Network"
+    },
+    {
+      "tajuk": "Fanatical Prospecting",
+      "penulis": "Jeb Blount",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar / dinar Public Gold untuk close-up",
@@ -42,8 +61,14 @@
         "Kongsikan analogi Kapal Titanic yang tenggelam perlahan-lahan."
       ],
       "rujukan": [
-        { "buku": "blount", "poin": "The Universal Law of Need — hilangkan bau terdesak" },
-        { "buku": "zul", "poin": "Analogi Kapal Titanic & Sekoci Penyelamat" }
+        {
+          "buku": "blount",
+          "poin": "The Universal Law of Need — hilangkan bau terdesak"
+        },
+        {
+          "buku": "zul",
+          "poin": "Analogi Kapal Titanic & Sekoci Penyelamat"
+        }
       ],
       "skrip": [
         "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
@@ -76,8 +101,14 @@
         "Tekankan WIIFM: menyelamatkan modal pokok daripada hangus 100%."
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "Awas skim cepat kaya bertopeng emas" },
-        { "buku": "blount", "poin": "RBO Turnaround: Anchor, Disrupt, Ask & WIIFM" }
+        {
+          "buku": "zul",
+          "poin": "Awas skim cepat kaya bertopeng emas"
+        },
+        {
+          "buku": "blount",
+          "poin": "RBO Turnaround: Anchor, Disrupt, Ask & WIIFM"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat kemas-kemas:",
@@ -111,8 +142,14 @@
         "Gunakan perkataan 'KERANA' untuk meyakinkan audiens tentang kebalnya emas fizikal."
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "Analogi Token Dobi" },
-        { "buku": "blount", "poin": "The Power of 'Because' — kajian Dr. Ellen Langer" }
+        {
+          "buku": "zul",
+          "poin": "Analogi Token Dobi"
+        },
+        {
+          "buku": "blount",
+          "poin": "The Power of 'Because' — kajian Dr. Ellen Langer"
+        }
       ],
       "skrip": [
         "Kita beralih kepada **Perkara Asas Nombor Dua.** Kata guru emas saya, Tn Mohd Zulkifli Shafie:",
@@ -145,8 +182,14 @@
         "Tegaskan perbezaan fungsi duit simpanan pendek (ASB/Tabung Haji) vs emas jangka panjang."
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "Analogi Pokok Durian vs Sayur Bayam" },
-        { "buku": "blount", "poin": "Bab 8 — Golden Hours & pengurusan jangka masa" }
+        {
+          "buku": "zul",
+          "poin": "Analogi Pokok Durian vs Sayur Bayam"
+        },
+        {
+          "buku": "blount",
+          "poin": "Bab 8 — Golden Hours & pengurusan jangka masa"
+        }
       ],
       "skrip": [
         "Masuk **Perkara Asas Nombor Tiga.** Dengar pesanan tegas daripada Tuan Zul:",
@@ -175,8 +218,14 @@
         "Sentuh Law of Familiarity Jeb Blount: mengapa bank pusat seluruh dunia memborong emas."
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "Kisah Karipap Mak Cik Bedah & Teori 1 Dinar 1 Kambing" },
-        { "buku": "blount", "poin": "The Law of Familiarity — bukti berulang" }
+        {
+          "buku": "zul",
+          "poin": "Kisah Karipap Mak Cik Bedah & Teori 1 Dinar 1 Kambing"
+        },
+        {
+          "buku": "blount",
+          "poin": "The Law of Familiarity — bukti berulang"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Empat**:",
@@ -206,8 +255,14 @@
         "Kaitkan dengan The 30-Day Rule Jeb Blount: apa yang anda buat hari gaji menentukan 90 hari akan datang."
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "Forgotten Saving — simpanan paksa & lupa melalui GAP Auto-Debit" },
-        { "buku": "blount", "poin": "Bab 5 — The 30-Day Rule & Law of Replacement" }
+        {
+          "buku": "zul",
+          "poin": "Forgotten Saving — simpanan paksa & lupa melalui GAP Auto-Debit"
+        },
+        {
+          "buku": "blount",
+          "poin": "Bab 5 — The 30-Day Rule & Law of Replacement"
+        }
       ],
       "skrip": [
         "Poin nombor lima ini adalah intipati paling mahal untuk siapa yang selalu rasa gaji dia cepat bocor. **Perkara Asas #5**:",
@@ -239,8 +294,14 @@
         "Minta penonton komen: 'Fokus Tambah Gram!'"
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "Fokus tambah gram, jangan buang masa monitor harga" },
-        { "buku": "blount", "poin": "RBO Turnaround — bantahan 'harga tengah mahal'" }
+        {
+          "buku": "zul",
+          "poin": "Fokus tambah gram, jangan buang masa monitor harga"
+        },
+        {
+          "buku": "blount",
+          "poin": "RBO Turnaround — bantahan 'harga tengah mahal'"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Enam.** Ini soalan paling popular sepanjang zaman:",
@@ -273,8 +334,14 @@
         "Terangkan kisah bagaimana emas menyelamatkan penyimpan waktu krisis banjir atau akaun bank dibekukan."
       ],
       "rujukan": [
-        { "buku": "zul", "poin": "3 Syarat Jual Emas & Target 1 Kilogram 1 Keluarga" },
-        { "buku": "blount", "poin": "WIIFM — selesaikan masalah paling mendalam pelanggan" }
+        {
+          "buku": "zul",
+          "poin": "3 Syarat Jual Emas & Target 1 Kilogram 1 Keluarga"
+        },
+        {
+          "buku": "blount",
+          "poin": "WIIFM — selesaikan masalah paling mendalam pelanggan"
+        }
       ],
       "skrip": [
         "Bila dah tahu waktu beli, soalan seterusnya: **bila pula kita patut jual emas kita?**",
@@ -306,8 +373,14 @@
         "Berikan Call to Action yang jelas, rendah geseran, dan mesra bimbingan."
       ],
       "rujukan": [
-        { "buku": "blount", "poin": "The Eleven-Word Mantra — make one more call" },
-        { "buku": "zul", "poin": "Sign-off rasmi & bimbingan G100 Network" }
+        {
+          "buku": "blount",
+          "poin": "The Eleven-Word Mantra — make one more call"
+        },
+        {
+          "buku": "zul",
+          "poin": "Sign-off rasmi & bimbingan G100 Network"
+        }
       ],
       "skrip": [
         "Alhamdulillah sahabat sekalian, tepat 60 minit kita bersama malam ni. Mari kita imbas kembali 7 Perkara Asas Simpanan Emas yang kita pelajari:",

@@ -126,7 +126,8 @@
     $('#subjudul').textContent = data.subtajuk;
     $('#meta-hos').textContent = data.hos + ' · ' + data.dealer;
     $('#meta-format').textContent = data.format;
-    $('#meta-durasi').textContent = Math.round(data.durasi / 60) + ' minit · ' + data.segmen.length + ' segmen';
+    $('#meta-durasi').textContent = Math.round(data.durasi / 60) + ' minit · ' +
+      data.segmen.length + ' segmen' + (data.batch ? ' · batch ' + data.batch : '');
 
     // rujukan teras
     $('#rujukan-teras').innerHTML = data.rujukanTeras.map(function (r) {

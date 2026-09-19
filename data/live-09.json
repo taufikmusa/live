@@ -1,0 +1,350 @@
+{
+  "id": "live-09",
+  "ver": "ver-09",
+  "batch": 9,
+  "tajuk": "7 Asas Simpanan Emas",
+  "subtajuk": "x Arkib Trivia Sejarah, Sains Objek Harian & Asal-Usul Pelik",
+  "hos": "Taufik Bin Musa",
+  "dealer": "Authorized Dealer Public Gold PG00359605 · G100 Network",
+  "format": "Skrip Percakapan Lisan — Penuh Rasa Ingin Tahu, Struktur 3 Pengajaran & Pivot Emas",
+  "durasi": 3600,
+  "ringkasan": "Batch 9. Setiap asas dibuka dengan satu asal-usul pelik objek harian — jam 10:10, mitos pensel angkasa, Y2K Bug, kertas gred F FedEx, warna International Orange, loceng keranda, kod QR dan merpati Cher Ami.",
+  "buku": {
+    "trivia": { "label": "TRV", "nama": "Arkib Trivia Sejarah & Asal-Usul Pelik" },
+    "objek": { "label": "OBJ", "nama": "Sains Objek Harian" }
+  },
+  "rujukanTeras": [
+    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
+    { "tajuk": "Arkib Topik Sejarah & Sains", "penulis": "Taufik Trivia Copywriting", "nota": "" }
+  ],
+  "props": [
+    "Gold bar / dinar Public Gold untuk close-up",
+    "Jam tangan (tunjuk kedudukan 10:10)",
+    "Buku nota kecil + pen",
+    "Kad dealer Public Gold PG00359605",
+    "Link pendaftaran GAP dah standby di bio",
+    "Air minum",
+    "Telefon backup + charger"
+  ],
+  "segmen": [
+    {
+      "no": 1,
+      "tajuk": "Pembukaan & Rahsia Jam Kedai 10:10",
+      "chip": "Buka · Jam 10:10",
+      "asas": null,
+      "mula": 0,
+      "tamat": 300,
+      "objektif": "Membongkar rahsia jarum jam 10:10 kedai mewah dan membina rasa ingin tahu tentang ilusi simpanan.",
+      "alat": "Jam tangan — laraskan ke 10:10 sebelum live.",
+      "cues": [
+        "Mulakan dengan soalan trivia yang memancing rasa ingin tahu serta-merta.",
+        "Tanya penonton: 'Pernah perasan tak setiap iklan jam tangan Rolex atau kedai jam, jarumnya sentiasa tunjuk 10:10?'",
+        "Pautkan ilusi senyuman jam 10:10 dengan ilusi baki wang tunai di skrin bank."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Rahsia jarum jam mewah pukul 10:10" },
+        { "buku": "objek", "poin": "Bingkai senyuman & ilusi rasa selamat" }
+      ],
+      "skrip": [
+        "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
+        "Sebelum kita melangkah lebih jauh, tolong sahkan dulu di ruangan komen: suara saya dengar jelas tak? Gambar terang? Anda bersiaran dari mana malam ni? Dari Shah Alam, Petaling Jaya, Ipoh, Batu Pahat, Kuching, Kota Kinabalu? Tolong taip nama lokasi dan tap-tap skrin dulu laju-laju tanda sokongan. Terima kasih Tuan Rosli, Puan Hasnah, Cikgu Farhan... alhamdulillah semua jelas.",
+        "Malam ni, saya nak buka sesi kita dengan satu soalan trivia yang semua orang tengok setiap hari, tapi **99% orang tak pernah tahu rahsia di sebaliknya:**",
+        "Tahu tak kenapa hampir 100% iklan jam tangan mewah dunia seperti Rolex, Omega, Seiko, atau jam di etalase kedai sentiasa dilaraskan jarumnya pada tepat pukul ==10:10?==",
+        "Ini bukan kebetulan teknikal tukang jam!",
+        "Pakar psikologi pemasaran mendapati bahawa apabila jarum jam berada pada posisi 10:10, ia membentuk satu garisan simetri yang sempurna menyerupai **BINGKAI SENYUMAN (SMILEY FACE)!**",
+        "Bila mata manusia melihat bingkai senyuman itu, otak bawah sedar secara automatik merembeskan **rasa selesa, tenang, dan rasa selamat!** Selain itu, jarum 10:10 membingkai logo jenama di bawah angka 12 tanpa terlindung sedikit pun!",
+        "Tapi cuba fikir sejenak: pernah tak anda perasan, **baki angka simpanan duit kita dalam akaun bank pun sering kelihatan 'tersenyum kemas' macam jam 10:10?**",
+        "Kita buka telefon, nampak nombor RM5,000 atau RM10,000. Kita rasa tenang, kita rasa selamat.",
+        "Tapi hakikatnya, itu adalah ==ILUSI RASA SELAMAT!== Angka digital di skrin tu tersenyum, tetapi kuasa beli duit kertas kita sedang susut dimamah inflasi setiap hari tanpa kita sedar!",
+        "Malam ini, berpandukan **7 Perkara Asas Simpanan Emas** yang ditulis oleh guru saya Tuan Mohd Zulkifli Shafie, saya nak buka mata anda melalui himpunan **Fakta Trivia Sejarah Objek Harian dan Asal-Usul Pelik Dunia** — bagaimana kita boleh selamatkan kekayaan keluarga dengan aset yang benar-benar kebal. Buka minda, sediakan nota, kita masuk asas pertama sekarang!"
+      ]
+    },
+    {
+      "no": 2,
+      "tajuk": "Emas Tiada Pendapatan (Dividen Bulanan)",
+      "chip": "#1 Pensel Angkasa",
+      "asas": "Asas #1",
+      "mula": 300,
+      "tamat": 720,
+      "objektif": "Menolak skim dividen melalui mitos Pensel Angkasa Lepas vs Space Pen Fisher.",
+      "alat": "",
+      "cues": [
+        "Ceritakan mitos pensel Rusia vs NASA dengan gaya santai tapi membongkar fakta bahaya sebenar.",
+        "Terangkan bahaya habuk grafit pensel yang mudah terbakar, sama seperti bahaya tersembunyi skim dividen emas.",
+        "Senaraikan 3 pengajaran dengan format wajib: Pertama, Kedua, Ketiga."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Mitos pensel angkasa vs Fisher Space Pen" },
+        { "buku": "objek", "poin": "Bahaya habuk grafit dalam graviti sifar" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat betul-betul dalam buku nota anda:",
+        "> SIMPANAN EMAS TIADA PENDAPATAN BULANAN ATAUPUN TAHUNAN MACAM DIVIDEN ASB ATAU TABUNG HAJI. Yang ada cuma: beli harga rendah dan jual harga tinggi untuk dapat keuntungan dalam jangka panjang. Kalau ada yang offer beli emas boleh dapat income bulan-bulan, itu petanda jelas ianya SKIM CEPAT KAYA BERTOPENGKAN EMAS!",
+        "Tahu tak satu mitos sindiran paling popular tentang angkasa lepas yang sebenarnya **menyembunyikan bahaya maut?**",
+        "Mitos lama selalu kata: *'NASA habiskan berjuta dolar bina pen dakwat bertekanan untuk menulis di graviti sifar, sedangkan kosmonaut Rusia cerdik hanya gunakan pensel kayu murah seringgit!'*",
+        "Ramai orang gelak bila dengar cerita tu dan anggap NASA membazir. Tapi tahu tak apa fakta sains sebenar di sebalik kisah ini?",
+        "==Pihak NASA dan Rusia SEBENARNYA MENGHARAMKAN PENSEL KAYU DI ANGKASA LEPAS!==",
+        "Mengapa? Kerana bila pensel kayu digunakan, mata grafit karbonnya mudah patah. Di graviti sifar, zarah-zarah habuk grafit karbon yang sangat halus akan **terapung bebas di udara kabin!** Habuk karbon adalah konduktor elektrik dan sangat mudah terbakar! Bila habuk tu masuk ke celah suis litar elektrik kapal angkasa yang dipenuhi oksigen tulen, ia boleh mencetuskan litar pintas dan **membakar keseluruhan stesen angkasa dalam sekelip mata!**",
+        "Seorang pencipta bernama Paul Fisher melabur jutaan dolar wangnya sendiri untuk mencipta **Fisher Space Pen** dengan dakwat bertekanan gas nitrogen. Dan akhirnya, kedua-dua agensi NASA dan Rusia membeli pen Fisher tersebut demi menjamin keselamatan angkasawan mereka!",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, solusi nampak mudah mungkin bahaya tersembunyi** — jangan terpedaya dengan jalan pintas murah yang kelihatan bijak pada awalnya tetapi membawa risiko kehancuran besar.",
+        "- **Kedua, melabur pada ketahanan mutlak** — mengeluarkan belanja untuk instrumen yang terbukti selamat adalah jauh lebih berbaloi daripada menanggung risiko kegagalan total.",
+        "- **Ketiga, asas keselamatan tidak boleh dikompromi** — dalam persekitaran yang berisiko ekstrem, keutamaan mutlak adalah alat yang paling boleh diharap tanpa ralat.",
+        "Sekarang pivot ke simpanan emas: skim dividen emas nampak seperti **'pensel murah'** yang menjanjikan pulangan mudah tanpa kerja. Tapi hakikatnya, ia mengandungi ==habuk bahaya tersembunyi== yang bila-bila masa boleh membakar hangus keseluruhan modal simpanan anda!",
+        "Emas fizikal tulen adalah seperti Fisher Space Pen: tiada janji dividen bulan-bulan, tapi ia adalah **instrumen keselamatan mutlak** yang melindungi kekayaan anda daripada sebarang kebakaran ekonomi!"
+      ]
+    },
+    {
+      "no": 3,
+      "tajuk": "Emas Fizikal (Beli Emas Mesti Dapat Emas)",
+      "chip": "#2 Y2K Bug",
+      "asas": "Asas #2",
+      "mula": 720,
+      "tamat": 1140,
+      "objektif": "Menilai kerapuhan kod sistem digital melalui sejarah syiling 5 sen dan krisis Y2K Bug.",
+      "alat": "Emas fizikal Public Gold 1g / dinar.",
+      "cues": [
+        "Pegang sekeping emas fizikal Public Gold 1g / dinar di hadapan lensa kamera.",
+        "Ceritakan kisah Y2K Bug: penjimatan memori kod 2 digit tahun yang mencetuskan panik $300 bilion.",
+        "Tekankan bahawa emas fizikal di tangan adalah aset sifar kod yang kebal daripada gangguan sistem."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Y2K Bug / The Millennium Bug, 2000" },
+        { "buku": "objek", "poin": "Kerapuhan kod & aset sifar kod" }
+      ],
+      "skrip": [
+        "Kita beralih kepada **Perkara Asas Nombor Dua**:",
+        "> BELI EMAS MESTI DAPAT EMAS (FIZIKAL), SAMA MACAM KITA BELI EMAS DI KEDAI-KEDAI EMAS. Emas tu kita boleh simpan sendiri. Kalau penjual emas syaratkan kena tunggu 'tempoh matang' untuk keluarkan emas fizikal, itu pun petanda jelas ianya skim cepat kaya bertopengkan emas! Beli emas mesti dapat emas. Titik!",
+        "Tahu tak bagaimana keputusan **jimat syiling beberapa sen** oleh jurutera komputer pada tahun 1960-an hampir melumpuhkan keseluruhan tamadun manusia moden pada tahun 2000?",
+        "Tahun 1999 menjelang alaf baharu. Dunia digemparkan oleh panik global yang dinamakan ==Y2K Bug (The Millennium Bug).==",
+        "Puncanya sangat remeh: pada era 1960-an dan 1970-an, memori storan komputer terlampau mahal. Demi menjimatkan kos beberapa sen memori, pengaturcara menulis kod format tahun menggunakan **DUA DIGIT SAHAJA** — contohnya '99' untuk tahun 1999.",
+        "Bila masuk tahun 2000, komputer dikhuatiri mentafsirkan angka '00' sebagai tahun **1900!**",
+        "Sistem faedah bank boleh bercelaru, sistem pertahanan udara boleh hilang kawalan, grid elektrik boleh terpadam, dan rangkaian logistik global boleh lumpuh! Kerajaan dan syarikat di seluruh dunia terpaksa membelanjakan lebih ==$300 BILION (lebih RM1.3 trilion!)== semata-mata nak membetulkan kod dua digit tersebut!",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, jimat semberono membawa padah gergasi** — penjimatan kos kecil hari ini tanpa memikirkan kesan integriti jangka panjang boleh menjadi liabiliti raksasa di masa hadapan.",
+        "- **Kedua, kerapuhan sistem buatan manusia** — sekecil-kecil andaian kod perisian boleh meruntuhkan sistem ekonomi moden jika berlaku gangguan luar jangka.",
+        "- **Ketiga, bertindak sebelum saat genting** — mereka yang bersiap sedia awal dan mempunyai pelan sandaran fizikal berjaya melepasi krisis tanpa mengalami kerugian.",
+        "Pivot ke emas fizikal: sistem wang digital dan akaun perbankan hari ini semuanya bergantung kepada kod perisian komputer. Kalau ada glitch, kalau ada serangan siber, kalau ada sekatan pihak ketiga: **nombor di skrin anda boleh dibekukan sekelip mata!**",
+        "Tetapi **EMAS FIZIKAL DI TANGAN ANDA** *(tunjukkan gold bar ke kamera)* adalah ==ASET SIFAR KOD!==",
+        "Ia tidak mempunyai bug. Ia tidak perlukan internet. Ia tidak perlukan bekalan elektrik. Nilainya wujud secara fitrah pada logam itu sendiri sejak ribuan tahun lalu! Beli emas, pastikan emas fizikal ada dalam pegangan anda sendiri tanpa syarat tempoh matang."
+      ]
+    },
+    {
+      "no": 4,
+      "tajuk": "Jangka Masa 2 Tahun Ke Atas",
+      "chip": "#3 Gred F FedEx",
+      "asas": "Asas #3",
+      "mula": 1140,
+      "tamat": 1560,
+      "objektif": "Menelusuri kertas kerja gred 'F' Fred Smith dan ketahanan jangka panjang.",
+      "alat": "",
+      "cues": [
+        "Ceritakan kisah Fred Smith di Universiti Yale yang dapat gred F untuk idea penghantaran semalaman FedEx.",
+        "Kaitkan dengan simpanan emas: ramai orang kata simpan emas lambat untung, tapi ia terbukti menang dalam jangka panjang.",
+        "Tegaskan formula 3 pengajaran: Pertama, Kedua, Ketiga."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Kertas kerja gred F — Fred Smith, Yale 1965" },
+        { "buku": "objek", "poin": "Visi jangka panjang mengalahkan penilaian awal" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Tiga.** Dengar baik-baik pesanan guru saya Tuan Zul:",
+        "> EMAS SESUAI UNTUK SIMPANAN JANGKA PANJANG, SEKURANG-KURANGNYA 2 TAHUN KE ATAS. Emas tak sesuai dibeli dengan duit yang nak digunakan pada waktu terdekat. Kalau nak pakai duit tu dalam tempoh lagi setahun ataupun kurang, simpan duit dalam ASB atau Tabung Haji lebih baik. Jangan beli emas!",
+        "Tahu tak syarikat penghantaran gergasi bernilai ratusan bilion dolar hari ini sebenarnya bermula daripada sebuah **kertas kerja universiti yang mendapat gred 'F'?**",
+        "Tahun **1965 di Universiti Yale**, Amerika Syarikat. Seorang mahasiswa bernama Fred Smith menulis sebuah kertas kerja tugasan ekonomi. Dia mencadangkan sistem penghantaran bungkusan semalaman menggunakan rangkaian pesawat berpusat di satu hab bandar.",
+        "Profesor ekonominya memulangkan kertas kerja itu dengan cop gred ==F — GAGAL!== Profesor itu kata: *'Idea kamu tidak masuk akal, tidak logik, dan kos operasinya terlalu tinggi untuk berjaya.'*",
+        "Tapi Fred Smith tidak mempedulikan gred tersebut. Enam tahun kemudian pada tahun 1971, dia mengasaskan **Federal Express (FedEx).**",
+        "Pada malam pertama operasi, 14 buah kapal terbang FedEx terbang membawa bungkusan... tapi cuba teka berapa bungkusan yang dihantar? **Cuma 186 bungkusan sahaja!** Syarikat itu rugi teruk pada tahun-tahun terawal.",
+        "Tetapi kerana Fred Smith berpegang pada visi jangka panjang, hari ini FedEx menghantar **jutaan bungkusan ke seluruh dunia setiap hari** dengan nilai pasaran berpuluh bilion dolar!",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, jangan biar gred orang menentukan nilai anda** — pakar atau orang ramai sering gagal melihat potensi jangka panjang yang luar biasa pada peringkat awal.",
+        "- **Kedua, keyakinan berlandaskan tindakan** — idea yang diejek hanya menjadi kebenaran apabila dibuktikan dengan kesabaran dan kecekalan mengharungi fasa permulaan.",
+        "- **Ketiga, menentang arus kebiasaan** — keuntungan besar dan berkekalan sentiasa berada di laluan jangka panjang yang memerlukan ketahanan emosi.",
+        "Pivot ke simpanan emas: bila anda mula simpan emas hari ini, mungkin ada kawan atau keluarga yang beri **'gred F'** pada tindakan anda: *'Alah, simpan emas lambat untung, emas tak ada dividen, baik main saham atau crypto.'*",
+        "==Jangan hiraukan gred mereka!== Emas bukan untuk sehari dua. Emas adalah seperti empayar FedEx: ia memerlukan masa minimum 2 tahun ke atas untuk membina asas yang kukuh. Mereka yang sabar menyimpan gram demi gram selama 2 hingga 5 tahun akan tersenyum bangga melihat kuasa beli keluarga mereka kalis daripada sebarang krisis inflasi!"
+      ]
+    },
+    {
+      "no": 5,
+      "tajuk": "Harga Naik Purata 10% Setahun",
+      "chip": "#4 International Orange",
+      "asas": "Asas #4",
+      "mula": 1560,
+      "tamat": 1980,
+      "objektif": "Mengkaji fungsi warna oren jaket keselamatan dan emas sebagai aset kontra.",
+      "alat": "",
+      "cues": [
+        "Tanya soalan trivia: 'Kenapa jaket keselamatan dan kotak hitam pesawat diwarnakan oren terang?'",
+        "Terangkan konsep warna kontra di lautan bergelora.",
+        "Pautkan dengan kenaikan purata 10% emas: emas adalah aset kontra penyelamat bila pasaran lain berdarah."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "International Orange — warna penyelamat di lautan" },
+        { "buku": "objek", "poin": "Kadar kontra optik marin" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Empat**:",
+        "> HARGA EMAS CONFIRM NAIK DALAM JANGKA PANJANG DISEBABKAN (A) INFLASI DAN (B) KEJATUHAN NILAI RINGGIT. Kuasa beli duit kertas confirm akan merosot dari tahun ke tahun. Sejarah 20 tahun membuktikan harga emas naik secara purata 10% setahun!",
+        "Pernah tak anda terfikir, kenapa jaket keselamatan, bot penyelamat, pelampung kecemasan, malah **'kotak hitam' kapal terbang** semuanya diwarnakan dengan warna oren terang yang dipanggil ==International Orange?==",
+        "Ini bukan pilihan fesyen pereka baju!",
+        "Di dalam spektrum optik marin dan sains penglihatan, warna oren terang adalah warna yang mempunyai **KADAR KONTRA PALING TINGGI** dengan warna biru tua air laut yang bergelora!",
+        "Bila kapal karam di tengah lautan ribut, helikopter penyelamat yang terbang tinggi dalam kabus tebal sukar melihat warna kelabu, putih, atau hitam. Tetapi warna International Orange memantulkan kontras yang sangat tajam, **membolehkan mangsa dikesan dan diselamatkan dari jarak berbatu-batu jauhnya!**",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, kontras menyelamatkan nyawa** — untuk dikesan dan diselamatkan dalam situasi krisis, anda mesti memiliki instrumen yang berbeza sifatnya daripada persekitaran.",
+        "- **Kedua, fungsi mengatasi kecantikan** — warna terang mungkin tidak kelihatan bergaya, tetapi peranannya sebagai penyelamat nyawa tiada tandingan.",
+        "- **Ketiga, bersedia untuk senario terburuk** — peralatan keselamatan dicipta terang supaya ia berfungsi semasa ribut, bukan semasa laut tenang.",
+        "Pivot ke kenaikan harga emas: apabila ekonomi dunia dilanda ribut kemelesetan, apabila nilai mata wang kertas susut, pasaran saham jatuh menjunam dalam **'laut merah'** — anda memerlukan satu ==ASET KONTRA PENYELAMAT== dalam portfolio anda!",
+        "**Emas fizikal adalah 'jaket keselamatan warna oren' kewangan anda!** Sifatnya kontra: bila nilai duit kertas jatuh, harga emas naik secara purata **10% setahun** berasaskan rekod sejarah 20 tahun. Emas menyelamatkan kuasa beli titik peluh anda daripada lemas ditelan ombak inflasi!"
+      ]
+    },
+    {
+      "no": 6,
+      "tajuk": "Beli Emas Duit Tak Habis (Kalis Bocor)",
+      "chip": "#5 Loceng Keranda",
+      "asas": "Asas #5",
+      "mula": 1980,
+      "tamat": 2460,
+      "objektif": "Menyelami sejarah loceng keranda 'Saved by the Bell' dan emas sebagai talian hayat kalis bocor.",
+      "alat": "",
+      "cues": [
+        "Kongsikan kisah asal usul ungkapan 'Saved by the Bell': keranda keselamatan kurun ke-18 di Eropah.",
+        "Bandingkan dengan simpanan tunai yang 'tertanam hidup-hidup' dimamah nafsu boros.",
+        "Terangkan bagaimana emas fizikal membekukan tunai dan bertindak sebagai talian hayat."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Saved by the Bell — Safety Coffin kurun ke-18" },
+        { "buku": "objek", "poin": "Talian hayat & pelan sandaran awal" }
+      ],
+      "skrip": [
+        "Poin nombor lima ini adalah fakta paling mengejutkan tentang tabiat wang kita. **Perkara Asas #5**:",
+        "> SIMPAN EMAS BERMAKSUD SIMPAN DUIT — DALAM BENTUK YANG LEBIH KUKUH. Siapa ada emas, tentu dia ada duit. BELI EMAS DUIT TAK HABIS! Kalau tak beli emas, selalunya duit tunai tu cepat habis, bocor dan boros. Bila nak pakai duit mendesak, boleh jual atau pajak sahaja di Ar-Rahnu pada bila-bila masa.",
+        "Tahu tak dari mana sebenarnya lahir ungkapan bahasa Inggeris yang sangat masyhur: ==Saved by the Bell — Diselamatkan oleh Loceng?==",
+        "Pada **kurun ke-18 di Eropah**, teknologi perubatan waktu itu masih sangat mundur. Doktor sering gagal mengesan degupan nadi yang terlalu lemah pada pesakit koma, menyebabkan mangsa disangka sudah mati lalu **DITANAM HIDUP-HIDUP KE DALAM KUBUR!**",
+        "Kerana ketakutan melampau masyarakat waktu itu, terciptalah satu rekaan pelik: **Keranda Keselamatan (Safety Coffin).**",
+        "Di dalam keranda, seutas tali halus diikat pada jari si mati, dan tali itu dihubungkan ke atas tanah melalui paip udara ke sebuah **LOCENG KECIL DI ATAS PUSARA KUBUR!**",
+        "Jika mangsa yang koma itu tersedar di dalam tanah, pergerakan jarinya akan menarik tali dan membunyikan loceng di atas kubur! Penjaga kubur yang mendengar loceng itu berdering akan segera menggali semula tanah dan **mangsa berjaya diselamatkan!**",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, jangan buat andaian sebelum pengesahan mutlak** — andaian bahawa keadaan baik-baik sahaja boleh membawa padah tertanam hidup-hidup tanpa disedari.",
+        "- **Kedua, sediakan talian hayat awal** — membina jalan keluar sebelum musibah menimpa adalah lambang kebijaksanaan sejati.",
+        "- **Ketiga, bunyikan amaran sebelum terlambat** — mengambil tindakan segera apabila menyedari diri berada dalam bahaya menyelamatkan masa depan.",
+        "Pivot ke tabiat simpanan emas: **jangan biarkan duit gaji bulanan anda 'tertanam hidup-hidup' dalam akaun bank** yang dimamah kebocoran nafsu boros!",
+        "Bila duit tunai dibiarkan cair, ia mati perlahan-lahan untuk pembelian remeh. Tetapi bila anda beli emas fizikal: ==EMAS ADALAH TALI LOCENG PENYELAMAT KEKAYAAN ANDA!==",
+        "Duit anda tidak mati. Duit anda tidak habis! Nilai tunai anda dibekukan selamat di dalam kepingan emas fizikal. Dan bila berlaku kecemasan hidup yang mendesak, anda boleh **'bunyikan loceng'** — bawa emas ke Ar-Rahnu, dapatkan tunai serta-merta tanpa hilang hak pemilikan emas anda!",
+        "Beli emas duit tak habis. Tak beli emas, duit anda tertanam hilang tanpa jejak."
+      ]
+    },
+    {
+      "no": 7,
+      "tajuk": "Waktu Terbaik Beli Emas: Ada Duit, Simpan!",
+      "chip": "#6 Kod QR",
+      "asas": "Asas #6",
+      "mula": 2460,
+      "tamat": 2880,
+      "objektif": "Menghapuskan kerumitan analisa pasaran melalui trivia kotak 3 penjuru kod QR.",
+      "alat": "",
+      "cues": [
+        "Tanya soalan trivia: 'Kenapa kod QR mesti ada 3 kotak hitam di penjurunya?'",
+        "Terangkan ciptaan Masahiro Hara: membolehkan imbasan pantas 360 darjah tanpa perlu melaraskan posisi yang tepat.",
+        "Kaitkan dengan simpanan GAP RM100: simpan emas semudah imbas QR."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Kod QR 3 penjuru — Denso Wave / Toyota, 1994" },
+        { "buku": "objek", "poin": "Position Detection Patterns" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Enam.** Ini soalan paling popular sepanjang zaman:",
+        "> WAKTU TERBAIK BELI EMAS IALAH BILA KITA ADA DUIT UNTUK SIMPANAN JANGKA PANJANG (2 TAHUN KE ATAS). BUKAN TUNGGU HARGA RENDAH! Harga emas yang dianggap mahal hari ini akan dianggap murah beberapa tahun akan datang. Kalau nak menabung emas, mulakan dulu dengan bajet kecil sebagai benchmark.",
+        "Tahu tak kenapa setiap Kod QR yang kita imbas untuk bayar kopi atau makanan setiap hari mesti ada **tiga kotak hitam besar di penjurunya?**",
+        "Tahun **1994 di Jepun.** Seorang jurutera syarikat Denso Wave (anak syarikat Toyota) bernama Masahiro Hara rimas dengan kod bar tradisional bergaris lurus. Kod bar lama lambat diimbas di kilang pemasangan kereta dan kamera selalu gagal baca bila barang senget.",
+        "Semasa bermain catur Go waktu rehat tengah hari, Hara mendapat ilham meletakkan ==TIGA KOTAK PENANDA POSISI DI PENJURU (Position Detection Patterns).==",
+        "Fungsi 3 kotak tu apa? Supaya kamera pengimbas boleh mengesan dan membaca data kod QR secara **SEPANTAS KILAT DALAM SUDUT 360 DARJAH** — tidak kira kod itu terbalik, senget, atau kotor sekalipun!",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, kecepatan menuntut kejelasan panduan** — tiga titik fokus yang jelas memudahkan sistem mengenal pasti arah tindakan tanpa kekeliruan.",
+        "- **Kedua, inovasi lahir dari kekecewaan proses** — masalah harian yang merumitkan adalah peluang terbaik untuk mencipta penyelesaian yang pantas dan mudah.",
+        "- **Ketiga, reka bentuk tahan lasak** — solusi yang hebat mesti berfungsi dalam apa jua keadaan, walaupun keadaan persekitaran tidak sempurna.",
+        "Pivot ke masa terbaik beli emas: ramai orang yang nak mula simpan emas bertindak **macam pengimbas kod bar rosak!** Dia nak tunggu posisi harga emas betul-betul tegak, betul-betul paling murah lantai baru nak mula. Akhirnya bertahun-tahun menunggu, **satu gram pun tak terbeli!**",
+        "Simpanan emas tak perlukan posisi rumit. **Ia semudah mengimbas Kod QR 3 bucu!** Tiga panduan jelas Tuan Zul: ada duit, untuk jangka panjang 2 tahun ke atas, mula bajet kecil!",
+        "Melalui akaun **Gold Accumulation Program (GAP) Public Gold**, anda boleh mengimbas dan menyimpan serendah ==RM100 sahaja== secara dalam talian. Mulakan langkah pertama hari ini juga sebagai tanda aras anda!"
+      ]
+    },
+    {
+      "no": 8,
+      "tajuk": "Waktu Terbaik Jual Emas: 3 Alasan Sahaja",
+      "chip": "#7 Cher Ami",
+      "asas": "Asas #7",
+      "mula": 2880,
+      "tamat": 3240,
+      "objektif": "Menghayati pengorbanan burung merpati Cher Ami dan emas sebagai utusan penyelamat terakhir.",
+      "alat": "",
+      "cues": [
+        "Ceritakan kisah wira burung merpati Cher Ami yang menyelamatkan 194 nyawa tentera dengan penuh emosi.",
+        "Tegaskan bahawa emas fizikal adalah Cher Ami kewangan keluarga.",
+        "Ulangi 3 sebab jualan emas: (1) Aset Cashflow, (2) Target Impian Tercapai, (3) Kecemasan."
+      ],
+      "rujukan": [
+        { "buku": "trivia", "poin": "Burung merpati Cher Ami, Hutan Argonne 1918" },
+        { "buku": "objek", "poin": "Sandaran terakhir bila sistem moden lumpuh" }
+      ],
+      "skrip": [
+        "Bila dah tahu bila nak beli, soalan paling penting: **bila pula waktu terbaik kita patut jual emas kita?**",
+        "Tolong ingat 3 syarat keramat yang digariskan oleh guru saya Tuan Mohd Zulkifli Shafie dalam **Perkara Asas Nombor Tujuh** — waktu terbaik jual emas cuma ada tiga keadaan sahaja:",
+        "- **(a) Bila ada peluang untuk tukar kepada aset yang boleh menjana aliran tunai (cashflow)** — contohnya beli rumah sewa di bawah harga pasaran atau rolling bisnes yang terbukti untung.",
+        "- **(b) Bila sudah capai target simpanan** — contohnya cukup belanja naik haji, dana pendidikan anak masuk universiti, atau deposit rumah pertama.",
+        "- **(c) Bila ada hal kecemasan hidup yang mendesak.**",
+        "Selain daripada tiga alasan ini, ==TAK PERLU JUAL PUN EMAS TU WALAUPUN HARGA DAH TINGGI!==",
+        "Tahu tak seekor burung merpati pos betina pernah dianugerahkan pingat keberanian perang tertinggi kerana **menyelamatkan 194 nyawa manusia?**",
+        "Bulan **Oktober tahun 1918**, semasa Perang Dunia Pertama di Hutan Argonne, Perancis. Batalion tentera seramai lebih 500 orang pimpinan Mejar Charles Whittlesey terkepung di belakang kubu musuh. Tragedinya, **pasukan meriam mereka sendiri tersalah koordinat** dan membedil kedudukan mereka tanpa henti!",
+        "Semua radio rosak. Burung merpati pertama dilepaskan... gugur ditembak. Burung kedua... mati ditembak. Tinggal harapan terakhir: seekor burung merpati pos bernama ==Cher Ami.==",
+        "Whittlesey mengikat kapsul mesej di kaki Cher Ami:",
+        "> Kami berada di koordinat 276.4. Meriam kita sendiri membedil kami. Demi tuhan, hentikan!",
+        "Bila Cher Ami terbang, peluru musuh menembusi dadanya, sebelah matanya buta, dan satu kakinya hampir putus. Tetapi dengan kepak berdarah, Cher Ami terbang sejauh **25 batu dalam masa 25 minit** untuk menghantar mesej penamat tembakan itu! Bedilan dihentikan, dan **194 nyawa tentera berjaya diselamatkan!**",
+        "Tiga pengajaran dari kisah ini:",
+        "- **Pertama, solusi asas menyelamatkan kegagalan moden** — bila sistem telekomunikasi berteknologi tinggi lumpuh, kaedah asas fizikal yang terbukti adalah penyelamat sebenar.",
+        "- **Kedua, keberanian menembusi halangan** — fokus pada matlamat akhir mengatasi rasa sakit dan halangan sementara.",
+        "- **Ketiga, sandaran terakhir mesti sentiasa ada** — jangan pernah masuk ke medan pertempuran tanpa pelan sandaran kecemasan.",
+        "Pivot ke pelepasan emas fizikal: emas fizikal adalah **BURUNG MERPATI CHER AMI DALAM KELUARGA ANDA!**",
+        "Ia adalah utusan kecemasan terakhir yang anda simpan rapi. Anda jangan sesekali lepaskan burung penyelamat ini semata-mata sebab nak enjoy bercuti, tukar telefon canggih, atau beli barang kehendak fana!",
+        "Emas hanya dilepaskan untuk 3 perkara: membeli aset aliran tunai yang memberi pulangan seumur hidup, mencapai impian agung menunaikan haji dan pendidikan anak, atau menyelamatkan maruah keluarga ketika kecemasan mendesak. **Itulah amanah pemilikan emas fizikal!**"
+      ]
+    },
+    {
+      "no": 9,
+      "tajuk": "Rumusan, Refleksi Butang Save & Call to Action",
+      "chip": "Tutup · Butang Save",
+      "asas": null,
+      "mula": 3240,
+      "tamat": 3600,
+      "objektif": "Menyimpulkan perkongsian dengan metafora Butang Save dan memandu pendaftaran akaun GAP percuma.",
+      "alat": "Kad dealer Public Gold PG00359605.",
+      "cues": [
+        "Imbas kembali butang Backspace dan Delete: emas adalah butang 'Save' kekayaan seumur hidup.",
+        "Ajak penonton menekan butang 'Save' untuk keluarga mereka malam ini juga.",
+        "Berikan Call to Action pendaftaran akaun GAP yang jelas, pantas, dan mesra."
+      ],
+      "rujukan": [
+        { "buku": "objek", "poin": "Butang Backspace, Delete & Save" }
+      ],
+      "skrip": [
+        "Alhamdulillah sahabat sekalian, tepat 60 minit kita bersama malam ini merungkai 7 Asas Simpanan Emas melalui kanta fakta trivia sejarah dan misteri sains objek harian. Mari kita imbas kembali 7 asas ini:",
+        "- **1.** Emas tiada dividen bulanan — tolak bahaya habuk pensel skim cepat kaya.",
+        "- **2.** Beli emas mesti dapat emas fizikal — aset sifar kod yang kebal krisis Y2K.",
+        "- **3.** Jangka masa simpanan 2 tahun ke atas — bina empayar jangka panjang seperti FedEx.",
+        "- **4.** Harga naik purata 10% setahun — jaket keselamatan International Orange di laut merah inflasi.",
+        "- **5.** Beli emas duit tak habis — talian hayat 'Saved by the Bell' yang membekukan tunai.",
+        "- **6.** Waktu terbaik beli ialah bila ada duit — pantas dan ringkas macam kod QR 3 bucu.",
+        "- **7.** Waktu terbaik jual cuma 3 sebab — pelihara burung merpati penyelamat Cher Ami keluarga anda.",
+        "Ingat kembali kisah butang **Backspace dan Delete**: dalam komputer, Backspace memadam kesilapan kecil ke belakang, dan Delete membuang terus fail rosak. Tetapi tanpa menekan **BUTANG 'SAVE'**, semua hasil penat lelah menaip dokumen berjam-jam akan hilang sekelip mata bila elektrik terputus!",
+        "Menyimpan tunai semata-mata di bank tanpa ada emas fizikal ibarat menaip dokumen kehidupan bertahun-tahun **tanpa pernah menekan butang Save!**",
+        "==EMAS FIZIKAL ADALAH BUTANG 'SAVE' KEKAYAAN KELUARGA ANDA!== Setiap gram yang anda simpan mengunci nilai titik peluh anda agar tidak dipadam oleh inflasi atau krisis ekonomi.",
+        "Bagi anda yang mahu menekan 'Butang Save' untuk masa depan keluarga malam ini, mulakan langkah pertama anda melalui akaun **Gold Accumulation Program (GAP) Public Gold** serendah **RM100 sahaja.**",
+        "Pendaftaran adalah 100% percuma, patuh syariah sepenuhnya, dan anda akan dibimbing secara peribadi dalam komuniti G100 Network bimbingan Tuan Mohd Zulkifli Shafie.",
+        "Bagaimana nak mula?",
+        "- **1.** Klik link di bio profil saya sekarang, atau",
+        "- **2.** Tinggalkan komen ==TEKAN BUTANG SAVE== di ruangan komen di bawah.",
+        "Saya sendiri, **Taufik Musa, Authorized Dealer Public Gold Kod PG00359605**, akan hubungi dan bimbing anda langkah demi langkah secara percuma sehingga anda berjaya memegang emas fizikal pertama anda.",
+        "Terima kasih atas segala sokongan, tap skrin, dan masa anda semua malam ini. Semoga perkongsian ini bermanfaat. **Taufik, Dealer Public Gold (PG00359605) · simpanemasfizikal.com**",
+        "**Wabillahi taufiq wal hidayah, wassalamualaikum warahmatullahi wabarakatuh. Selamat malam semua!**"
+      ]
+    }
+  ]
+}

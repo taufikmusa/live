@@ -1,6 +1,7 @@
 {
   "id": "live-05",
   "ver": "ver-05",
+  "batch": 5,
   "tajuk": "7 Asas Simpanan Emas",
   "subtajuk": "x Trivia Sejarah & Eksperimen Sains Tingkah Laku",
   "hos": "Taufik Bin Musa",
@@ -9,13 +10,31 @@
   "durasi": 3600,
   "ringkasan": "Batch 5. Setiap asas dibuka dengan satu fakta trivia sejarah atau eksperimen sains tingkah laku — kutu dalam balang, minyak ular, marshmallow Stanford, katak direbus, serbuk roti NASA, kod QR, merpati Cher Ami — lalu dipangsi kepada emas dengan tiga pengajaran tajam.",
   "buku": {
-    "trivia": { "label": "TRV", "nama": "Fakta Trivia Sejarah Objek Harian" },
-    "eksperimen": { "label": "EKS", "nama": "Eksperimen Sains Tingkah Laku" }
+    "trivia": {
+      "label": "TRV",
+      "nama": "Fakta Trivia Sejarah Objek Harian"
+    },
+    "eksperimen": {
+      "label": "EKS",
+      "nama": "Eksperimen Sains Tingkah Laku"
+    }
   },
   "rujukanTeras": [
-    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
-    { "tajuk": "Taufik Trivia Copywriting", "penulis": "Koleksi trivia sejarah", "nota": "" },
-    { "tajuk": "Taufik Eksperimen Copywriting", "penulis": "Koleksi eksperimen sains tingkah laku", "nota": "" }
+    {
+      "tajuk": "7 Perkara Asas Simpanan Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "Artikel rujukan"
+    },
+    {
+      "tajuk": "Taufik Trivia Copywriting",
+      "penulis": "Koleksi trivia sejarah",
+      "nota": ""
+    },
+    {
+      "tajuk": "Taufik Eksperimen Copywriting",
+      "penulis": "Koleksi eksperimen sains tingkah laku",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar / dinar Public Gold 999.9 untuk close-up",
@@ -42,7 +61,10 @@
         "Ajak penonton berfikir: adakah kita yang tak mampu simpan emas, atau kita cuma terbiasa terhantuk penutup balang?"
       ],
       "rujukan": [
-        { "buku": "eksperimen", "poin": "Flea Jar — Conditioned Limitation" }
+        {
+          "buku": "eksperimen",
+          "poin": "Flea Jar — Conditioned Limitation"
+        }
       ],
       "skrip": [
         "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
@@ -74,8 +96,14 @@
         "Senaraikan 3 pengajaran pedas dengan format: Pertama, Kedua, Ketiga."
       ],
       "rujukan": [
-        { "buku": "trivia", "poin": "Asal usul istilah Snake Oil, Chicago 1893" },
-        { "buku": "eksperimen", "poin": "The Decoy Effect — Dan Ariely" }
+        {
+          "buku": "trivia",
+          "poin": "Asal usul istilah Snake Oil, Chicago 1893"
+        },
+        {
+          "buku": "eksperimen",
+          "poin": "The Decoy Effect — Dan Ariely"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat betul-betul:",
@@ -108,8 +136,14 @@
         "Pautkan dengan Broken Windows Theory: jika satu syarat ketelusan pecah, seluruh aset anda akan musnah."
       ],
       "rujukan": [
-        { "buku": "trivia", "poin": "Butang Backspace & Delete — mesin taip Sholes 1868" },
-        { "buku": "eksperimen", "poin": "Broken Windows Theory — Philip Zimbardo 1969" }
+        {
+          "buku": "trivia",
+          "poin": "Butang Backspace & Delete — mesin taip Sholes 1868"
+        },
+        {
+          "buku": "eksperimen",
+          "poin": "Broken Windows Theory — Philip Zimbardo 1969"
+        }
       ],
       "skrip": [
         "Kita teruskan dengan **Perkara Asas Nombor Dua**:",
@@ -143,7 +177,10 @@
         "Minta penonton taip di komen: 'Sabar 2 Tahun Untuk Hasil Berganda!'"
       ],
       "rujukan": [
-        { "buku": "eksperimen", "poin": "The Stanford Marshmallow Test — Walter Mischel 1972" }
+        {
+          "buku": "eksperimen",
+          "poin": "The Stanford Marshmallow Test — Walter Mischel 1972"
+        }
       ],
       "skrip": [
         "Kita beralih kepada **Perkara Asas Nombor Tiga.** Dengar betul-betul pesanan guru saya Tuan Zul:",
@@ -179,8 +216,14 @@
         "Tekankan perkataan: 'Lompatlah keluar sebelum air mendidih merebus simpanan anda!'"
       ],
       "rujukan": [
-        { "buku": "trivia", "poin": "Pengembangan Terma Menara Eiffel, 1889" },
-        { "buku": "eksperimen", "poin": "The Boiling Frog Experiment" }
+        {
+          "buku": "trivia",
+          "poin": "Pengembangan Terma Menara Eiffel, 1889"
+        },
+        {
+          "buku": "eksperimen",
+          "poin": "The Boiling Frog Experiment"
+        }
       ],
       "skrip": [
         "Sekarang kita pergi ke **Perkara Asas Nombor Empat**:",
@@ -215,8 +258,14 @@
         "Tunjukkan sekeping emas sebagai pembeku tunai: 'Beli emas duit tak habis!'"
       ],
       "rujukan": [
-        { "buku": "trivia", "poin": "Serbuk roti misi Gemini 3 NASA, 1965" },
-        { "buku": "eksperimen", "poin": "Geseran psikologi sebagai pembeku tunai" }
+        {
+          "buku": "trivia",
+          "poin": "Serbuk roti misi Gemini 3 NASA, 1965"
+        },
+        {
+          "buku": "eksperimen",
+          "poin": "Geseran psikologi sebagai pembeku tunai"
+        }
       ],
       "skrip": [
         "Poin nombor lima ini adalah fakta paling mengejutkan ramai orang. **Perkara Asas #5**:",
@@ -255,8 +304,14 @@
         "Tunjukkan betapa mudahnya bermula serendah RM100 di akaun GAP tanpa pening kepala teka harga."
       ],
       "rujukan": [
-        { "buku": "trivia", "poin": "Kotak 3 penjuru Kod QR — Denso Wave / Toyota 1994" },
-        { "buku": "eksperimen", "poin": "The Jam Experiment — Sheena Iyengar, Paradox of Choice" }
+        {
+          "buku": "trivia",
+          "poin": "Kotak 3 penjuru Kod QR — Denso Wave / Toyota 1994"
+        },
+        {
+          "buku": "eksperimen",
+          "poin": "The Jam Experiment — Sheena Iyengar, Paradox of Choice"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Enam.** Soalan keramat sepanjang zaman:",
@@ -293,8 +348,14 @@
         "Ulang 3 sebab sahaja nak jual emas: aset cashflow, target impian tercapai, atau kecemasan hidup."
       ],
       "rujukan": [
-        { "buku": "trivia", "poin": "Burung merpati Cher Ami, Hutan Argonne 1918" },
-        { "buku": "eksperimen", "poin": "Disiplin pelepasan aset penyelamat maruah" }
+        {
+          "buku": "trivia",
+          "poin": "Burung merpati Cher Ami, Hutan Argonne 1918"
+        },
+        {
+          "buku": "eksperimen",
+          "poin": "Disiplin pelepasan aset penyelamat maruah"
+        }
       ],
       "skrip": [
         "Bila dah tahu bila nak beli, persoalan paling besar: **bila pula waktu terbaik kita nak jual emas kita?**",
@@ -334,7 +395,10 @@
         "Berikan arahan Call to Action yang jelas dan rendah geseran."
       ],
       "rujukan": [
-        { "buku": "eksperimen", "poin": "The Bystander Effect — Darley & Latané 1968" }
+        {
+          "buku": "eksperimen",
+          "poin": "The Bystander Effect — Darley & Latané 1968"
+        }
       ],
       "skrip": [
         "Alhamdulillah sahabat sekalian. Cukup 60 minit kita bersama malam ni merungkai 7 Asas Simpanan Emas melalui kanta fakta sejarah trivia dan sains tingkah laku. Mari kita imbas kembali 7 asas utama ini:",

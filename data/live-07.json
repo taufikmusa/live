@@ -1,6 +1,7 @@
 {
   "id": "live-07",
   "ver": "ver-07",
+  "batch": 7,
   "tajuk": "7 Asas Simpanan Emas",
   "subtajuk": "x Atomic Habits & Read People Like a Book",
   "hos": "Taufik Bin Musa",
@@ -9,13 +10,31 @@
   "durasi": 3600,
   "ringkasan": "Batch 7. Tujuh asas dibina semula sebagai sistem tabiat — identiti, kiub ais 32°F, matematik 1% harian, Environment Design, Peraturan Dua Minit dan Never Miss Twice, disilang dengan psikologi ego Patrick King.",
   "buku": {
-    "clear": { "label": "ATH", "nama": "Atomic Habits — James Clear" },
-    "king": { "label": "RPB", "nama": "Read People Like a Book — Patrick King" }
+    "clear": {
+      "label": "ATH",
+      "nama": "Atomic Habits — James Clear"
+    },
+    "king": {
+      "label": "RPB",
+      "nama": "Read People Like a Book — Patrick King"
+    }
   },
   "rujukanTeras": [
-    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
-    { "tajuk": "Atomic Habits", "penulis": "James Clear", "nota": "" },
-    { "tajuk": "Read People Like a Book", "penulis": "Patrick King", "nota": "" }
+    {
+      "tajuk": "7 Perkara Asas Simpanan Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "Artikel rujukan"
+    },
+    {
+      "tajuk": "Atomic Habits",
+      "penulis": "James Clear",
+      "nota": ""
+    },
+    {
+      "tajuk": "Read People Like a Book",
+      "penulis": "Patrick King",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar Public Gold 999.9 seberat 1 gram",
@@ -42,8 +61,14 @@
         "Ajak audiens mengubah identiti diri daripada sekadar 'nak simpan duit' kepada 'menjadi pelindung kekayaan keluarga'."
       ],
       "rujukan": [
-        { "buku": "king", "poin": "The Pleasure vs. Pain Principle — pain 2x lebih kuat" },
-        { "buku": "clear", "poin": "Identity-Based Habits — 3 lapisan perubahan" }
+        {
+          "buku": "king",
+          "poin": "The Pleasure vs. Pain Principle — pain 2x lebih kuat"
+        },
+        {
+          "buku": "clear",
+          "poin": "Identity-Based Habits — 3 lapisan perubahan"
+        }
       ],
       "skrip": [
         "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
@@ -74,8 +99,14 @@
         "Gunakan konsep Make It Unattractive untuk menanam rasa jijik terhadap skim cepat kaya."
       ],
       "rujukan": [
-        { "buku": "king", "poin": "Bab 4 — Cognitive Load & Rasionalisasi Ego" },
-        { "buku": "clear", "poin": "Inversi Hukum 2 — Make It Unattractive" }
+        {
+          "buku": "king",
+          "poin": "Bab 4 — Cognitive Load & Rasionalisasi Ego"
+        },
+        {
+          "buku": "clear",
+          "poin": "Inversi Hukum 2 — Make It Unattractive"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat kemas-kemas:",
@@ -106,8 +137,14 @@
         "Terangkan konsep Make It Satisfying: memegang emas memberi kepuasan deria yang nyata."
       ],
       "rujukan": [
-        { "buku": "king", "poin": "Bab 3 — 4 Temperamen Keirsey" },
-        { "buku": "clear", "poin": "Hukum 4 — Make It Satisfying & ganjaran dopamin" }
+        {
+          "buku": "king",
+          "poin": "Bab 3 — 4 Temperamen Keirsey"
+        },
+        {
+          "buku": "clear",
+          "poin": "Hukum 4 — Make It Satisfying & ganjaran dopamin"
+        }
       ],
       "skrip": [
         "Kita beralih kepada **Perkara Asas Nombor Dua**:",
@@ -138,8 +175,14 @@
         "Tunjukkan bagaimana emosi panik membuatkan otak limbik gelisah (Pacifying Behaviors)."
       ],
       "rujukan": [
-        { "buku": "clear", "poin": "Bab 1 — Plateau of Latent Potential & kuasa kiub ais" },
-        { "buku": "king", "poin": "Bab 2 — Bahasa tubuh limbik & Pacifying Behaviors" }
+        {
+          "buku": "clear",
+          "poin": "Bab 1 — Plateau of Latent Potential & kuasa kiub ais"
+        },
+        {
+          "buku": "king",
+          "poin": "Bab 2 — Bahasa tubuh limbik & Pacifying Behaviors"
+        }
       ],
       "skrip": [
         "Masuk **Perkara Asas Nombor Tiga.** Dengar baik-baik nasihat guru saya Tuan Zul:",
@@ -174,8 +217,14 @@
         "Bongkar hakikat kejatuhan nilai ringgit yang berlaku secara perlahan tapi mematikan."
       ],
       "rujukan": [
-        { "buku": "clear", "poin": "Formula 1% Better Every Day — 37x ganda" },
-        { "buku": "king", "poin": "Perceptual Blindspot — kesakitan inflasi tersembunyi" }
+        {
+          "buku": "clear",
+          "poin": "Formula 1% Better Every Day — 37x ganda"
+        },
+        {
+          "buku": "king",
+          "poin": "Perceptual Blindspot — kesakitan inflasi tersembunyi"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Empat**:",
@@ -205,8 +254,14 @@
         "Bongkar helah ego 'Self-Reward' yang sebenarnya perangkap menjustifikasi pembaziran."
       ],
       "rujukan": [
-        { "buku": "clear", "poin": "Bab 6 — Environment Design & Habit Loop" },
-        { "buku": "king", "poin": "Helah bela diri ego — rasionalisasi 'Self-Reward'" }
+        {
+          "buku": "clear",
+          "poin": "Bab 6 — Environment Design & Habit Loop"
+        },
+        {
+          "buku": "king",
+          "poin": "Helah bela diri ego — rasionalisasi 'Self-Reward'"
+        }
       ],
       "skrip": [
         "Poin nombor lima ini adalah ubat paling mujarab untuk siapa yang ada penyakit gaji bocor. **Perkara Asas #5**:",
@@ -239,8 +294,14 @@
         "Minta penonton komen: 'Mula 2 Minit Sekarang!'"
       ],
       "rujukan": [
-        { "buku": "clear", "poin": "Bab 13 — The Two-Minute Rule & Gateway Habits" },
-        { "buku": "king", "poin": "Mematahkan rasionalisasi ego prospek" }
+        {
+          "buku": "clear",
+          "poin": "Bab 13 — The Two-Minute Rule & Gateway Habits"
+        },
+        {
+          "buku": "king",
+          "poin": "Mematahkan rasionalisasi ego prospek"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Enam.** Soalan paling popular yang saya terima setiap hari:",
@@ -271,8 +332,14 @@
         "Tegaskan prinsip Systems > Goals: mempunyai emas tanpa sistem pelepasan yang betul akan menyebabkan aset bocor kembali."
       ],
       "rujukan": [
-        { "buku": "king", "poin": "Piramid Keperluan Maslow — Safety & Self-Actualization" },
-        { "buku": "clear", "poin": "Systems > Goals — sistem kawalan pelepasan aset" }
+        {
+          "buku": "king",
+          "poin": "Piramid Keperluan Maslow — Safety & Self-Actualization"
+        },
+        {
+          "buku": "clear",
+          "poin": "Systems > Goals — sistem kawalan pelepasan aset"
+        }
       ],
       "skrip": [
         "Bila dah tahu bila nak beli, soalan yang paling penting: **bila pula waktu terbaik kita nak jual emas kita?**",
@@ -306,8 +373,14 @@
         "Berikan arahan Call to Action yang jelas, rendah geseran, dan mesra bimbingan."
       ],
       "rujukan": [
-        { "buku": "clear", "poin": "Hukum Never Miss Twice & Voting for Identity" },
-        { "buku": "king", "poin": "10 Soalan Tidak Langsung mencungkil nilai" }
+        {
+          "buku": "clear",
+          "poin": "Hukum Never Miss Twice & Voting for Identity"
+        },
+        {
+          "buku": "king",
+          "poin": "10 Soalan Tidak Langsung mencungkil nilai"
+        }
       ],
       "skrip": [
         "Alhamdulillah sahabat sekalian, tepat 60 minit kita bersama membongkar 7 Asas Simpanan Emas melalui kanta sains tabiat dan psikologi manusia. Mari kita imbas kembali 7 asas ini:",

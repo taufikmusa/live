@@ -1,0 +1,332 @@
+{
+  "id": "live-10",
+  "ver": "ver-10",
+  "batch": 10,
+  "tajuk": "7 Asas Simpanan Emas",
+  "subtajuk": "x Mekanisme Survival Alam Liar & Sains Biologi Haiwan",
+  "hos": "Taufik Bin Musa",
+  "dealer": "Authorized Dealer Public Gold PG00359605 · G100 Network",
+  "format": "Skrip Percakapan Lisan — Penuh Rasa Kagum, Fakta Biologi Mengejutkan & 3 Pengajaran Mahal",
+  "durasi": 3600,
+  "ringkasan": "Batch 10. Tujuh asas dibaca melalui mekanisme survival haiwan — langkah senyap kucing, mitos paruh helang, 9 otak sotong kurita, estivation siput, jerung Greenland 400 tahun, batu gastrolith buaya, tidur sebelah otak dolphin, dan cryptobiosis tardigrade.",
+  "buku": {
+    "haiwan": { "label": "BIO", "nama": "Arkib Sains Biologi Alam Liar" },
+    "survival": { "label": "SRV", "nama": "Mekanisme Survival & Falsafah Alam Liar" }
+  },
+  "rujukanTeras": [
+    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
+    { "tajuk": "Arkib Sains Biologi Alam Liar", "penulis": "Taufik Haiwan Copywriting", "nota": "" }
+  ],
+  "props": [
+    "Gold bar fizikal Public Gold untuk close-up",
+    "Buku nota kecil + pen",
+    "Kad dealer Public Gold PG00359605",
+    "Link pendaftaran GAP dah standby di bio",
+    "Air minum",
+    "Telefon backup + charger"
+  ],
+  "segmen": [
+    {
+      "no": 1,
+      "tajuk": "Pembukaan & Langkah Senyap Kucing",
+      "chip": "Buka · Langkah Kucing",
+      "asas": null,
+      "mula": 0,
+      "tamat": 300,
+      "objektif": "Membongkar keunikan jejak 2 tapak kucing dan memulakan konsep kekayaan senyap tanpa menunjuk.",
+      "alat": "",
+      "cues": [
+        "Mulakan dengan nada mesra dan soalan mengejutkan tentang haiwan peliharaan harian: kucing.",
+        "Tanya penonton: 'Pernah perasan tak bila kucing berjalan, walaupun ada 4 kaki, jejaknya nampak macam 2 tapak je?'",
+        "Pautkan dengan tabiat mengumpul kekayaan senyap: elakkan jejak bising bermegah di media sosial."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Kucing — mekanisme Direct Registering" },
+        { "buku": "survival", "poin": "Silent Compounding — kekayaan senyap" }
+      ],
+      "skrip": [
+        "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
+        "Sebelum kita melangkah lebih jauh, tolong komen dulu di bawah: suara saya dengar jelas tak? Gambar terang? Anda bersiaran dari mana malam ni? Dari Shah Alam, Bangi, Melaka, Kota Bharu, Sandakan, Miri? Tolong taip nama lokasi anda dan tap-tap skrin dulu laju-laju. Terima kasih Bro Sham, Puan Aisyah, Tuan Zulkarnain... alhamdulillah semua lancar.",
+        "Malam ni, saya nak buka sesi kita dengan satu pemerhatian pelik tapi benar tentang haiwan comel yang ada dalam rumah kebanyakan kita: ==KUCING.==",
+        "Pernah tak anda perhatikan betul-betul bila kucing berjalan di atas tanah lembap atau pasir pantai? Kucing ada **4 kaki.** Tapi peliknya... kesan jejak tapak kaki yang tertinggal dekat tanah nampak macam ada ==DUA TAPAK SAHAJA!==",
+        "Bukan sebab kucing ada magis! Dalam sains zoologi dan biologi, ini dipanggil **Direct Registering.**",
+        "Bila kucing melangkah di alam liar, **tapak kaki belakangnya akan mendarat dengan sangat tepat di atas lubang bekas tapak kaki depan!**",
+        "Mengapa kucing buat macam tu? Supaya langkahnya **100% senyap macam ninja!** Ia memastikan kaki belakang tak terpijak ranting kering yang boleh berbunyi, dan mengurangkan jejak visual supaya musuh atau pemangsa tak dapat mengesan laluannya!",
+        "Kawan-kawan, bila kita fikir balik: cara kucing melangkah ni **sama sebiji macam strategi kita patut uruskan kewangan keluarga kita!**",
+        "Ramai orang hari ini, langkah kewangannya terlampau bising! Dapat gaji sikit, terus tayang slip gaji. Beli barang sikit, terus flexing di TikTok dan Facebook. **Jejaknya bersepah-sepah di mata orang, tapi akaun simpanan kosong!**",
+        "Orang yang bijak menguruskan harta, dia amalkan cara melangkah kucing: ==Kekayaan Senyap (Silent Compounding)!== Dia membina simpanan emas fizikal secara senyap-senyap. Tiada siapa tahu berapa gram emas dalam simpanannya, tapi bila ribut ekonomi melanda, keluarganya tenang dan selamat terlindung!",
+        "Malam ini, berpandukan **7 Perkara Asas Simpanan Emas** oleh guru saya Tuan Mohd Zulkifli Shafie, saya nak bawa anda menyelami keajaiban mekanisme survival haiwan di alam liar — bagaimana strategi biologi ciptaan Tuhan ini memberi kita ibrah mahal untuk menyelamatkan masa depan kewangan kita. Jom kita masuk asas pertama!"
+      ]
+    },
+    {
+      "no": 2,
+      "tajuk": "Emas Tiada Pendapatan (Dividen Bulanan)",
+      "chip": "#1 Mitos Helang",
+      "asas": "Asas #1",
+      "mula": 300,
+      "tamat": 720,
+      "objektif": "Membongkar mitos burung helang pecah paruh vs fakta keratin sains dan menolak skim dividen.",
+      "alat": "",
+      "cues": [
+        "Dedahkan mitos motivasi terkenal tentang burung helang yang pecahkan paruh di batu.",
+        "Terangkan fakta biologi keratin: kalau helang patahkan paruh, ia mati kebuluran!",
+        "Kaitkan dengan skim dividen emas: jangan percaya dongeng pulangan bulanan tanpa kerja."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Burung helang — mitos kelahiran semula vs fakta keratin" },
+        { "buku": "survival", "poin": "Tiada jalan pintas magis di alam liar" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat kemas-kemas:",
+        "> SIMPANAN EMAS TIADA PENDAPATAN BULANAN ATAUPUN TAHUNAN MACAM DIVIDEN ASB ATAU TABUNG HAJI. Yang ada cuma: beli harga rendah dan jual harga tinggi untuk dapat keuntungan dalam jangka panjang. Kalau ada pihak yang offer beli emas boleh dapat income bulan-bulan, itu petanda jelas ianya SKIM CEPAT KAYA BERTOPENGKAN EMAS!",
+        "Bertahun-tahun kita kena 'scam' dengan satu cerita motivasi haiwan yang sangat viral ni:",
+        "Pernah dengar tak cerita kononnya burung helang bila sampai umur 40 tahun, paruhnya membengkok, cakarnya tumpul, dan bulunya berat. Lepas tu kononnya helang tu terbang ke puncak gunung tertinggi, **hentakkan paruhnya ke batu sampai patah berdarah**, cabut cakarnya sendiri, dan tunggu 5 bulan untuk 'lahir semula' dan hidup 30 tahun lagi?",
+        "Kawan-kawan, dalam sains biologi hidupan liar: ==CERITA ITU 100% ADALAH MITOS DAN DONGENG PALSU!==",
+        "Paruh burung helang diperbuat daripada bahan **keratin** (sama macam kuku manusia) yang bersambung terus dengan **tulang tengkorak dan salur darah utama.** Kalau seekor helang sengaja hentak paruhnya sampai patah di batu: helang itu akan **mati serta-merta akibat pendarahan teruk atau mati kebuluran sebab tak boleh makan!**",
+        "Di alam liar, helang mengekalkan ketajaman paruh dan cakarnya melalui **aktiviti memburu sebenar setiap hari** — mengoyak daging mangsa dan menggesel paruh pada dahan kayu secara semula jadi. Tiada proses magis potong paruh sendiri!",
+        "Tapi peliknya, ramai orang kita mudah sangat percaya pada 'cerita dongeng' macam ni dalam hal duit! Bila datang scammer kata: *'Tuan, beli emas dengan kami, tak payah buat apa-apa, duduk goyang kaki, setiap bulan kami bayar dividen tetap 5% masuk akaun bank.'* Otak kita tiba-tiba percaya wujud **'magis dividen'** tanpa usaha perniagaan sebenar!",
+        "Tiga pengajaran mahal untuk kita:",
+        "- **Pertama, tolak mitos jalan pintas** — tiada helang yang lahir semula dengan patahkan paruh, dan tiada pelaburan emas tulen yang memberi dividen tetap bulan-bulan tanpa risiko.",
+        "- **Kedua, fahami sifat fizikal asas** — emas adalah logam kaku. Emas tidak bernyawa untuk melahirkan anak emas tiap-tiap bulan. Keuntungan emas hanya datang daripada kenaikan harga jangka panjang.",
+        "- **Ketiga, lindungi modal pokok** — sekali anda serahkan duit kepada skim dividen emas palsu, **paruh kewangan anda yang akan patah** dan anda akan mati kelaparan bila modal lebur dibawa lari scammer!"
+      ]
+    },
+    {
+      "no": 3,
+      "tajuk": "Emas Fizikal (Beli Emas Mesti Dapat Emas)",
+      "chip": "#2 Sotong Kurita",
+      "asas": "Asas #2",
+      "mula": 720,
+      "tamat": 1140,
+      "objektif": "Menghapuskan risiko Single Point of Failure melalui anatomi 3 jantung dan 9 otak sotong kurita.",
+      "alat": "Gold bar fizikal Public Gold.",
+      "cues": [
+        "Tunjukkan gold bar fizikal Public Gold ke kamera: 'Ini pemilikan hakiki tanpa pihak ketiga'.",
+        "Kongsikan fakta biologi luar biasa sotong kurita: 3 jantung dan 9 otak di mana setiap sesungut bertindak sendiri.",
+        "Bandingkan sistem berpusat (wang digital bank) dengan desentralisasi fizikal (emas di tangan)."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Sotong kurita — 3 jantung & 9 otak" },
+        { "buku": "survival", "poin": "Single Point of Failure vs autonomi aset" }
+      ],
+      "skrip": [
+        "Kita beralih kepada **Perkara Asas Nombor Dua**:",
+        "> BELI EMAS MESTI DAPAT EMAS (FIZIKAL), SAMA MACAM KITA BELI EMAS DI KEDAI-KEDAI EMAS. Emas tu kita boleh simpan sendiri. Kalau penjual emas syaratkan kena tunggu 'tempoh matang' baru boleh keluarkan emas fizikal, itu pun petanda jelas ianya skim cepat kaya bertopengkan emas! Beli emas mesti dapat emas. Titik!",
+        "Kenalkan, makhluk lautan paling bijak dan luar biasa di muka Bumi: ==SOTONG KURITA (OCTOPUS).==",
+        "Tahu tak sotong kurita mempunyai susunan anatomi yang tidak ada pada haiwan lain: ia mempunyai **3 BIJI JANTUNG dan 9 BUAH OTAK!** Satu otak utama berada di kepala, dan **lapan lagi mini-otak** berada di setiap pangkal lengannya!",
+        "Hebatnya sistem ini: setiap lengan sotong kurita boleh merasa, menghidu, membuka kulit kerang, dan menukar warna penyamaran **secara bebas tanpa perlu menunggu arahan daripada otak pusat di kepala!**",
+        "Sekiranya kepala kurita cedera atau terperangkap, ==lengan-lengannya masih boleh berfikir dan bergerak pantas melepaskan diri daripada jeratan pemangsa!==",
+        "Tiga pengajaran mahal untuk poket kita:",
+        "- **Pertama, bahaya sistem satu pusat (Single Point of Failure)** — wang tunai dalam akaun bank kita hanya mempunyai satu otak pusat: iaitu sistem perbankan. Bila akaun dibekukan atau server tergendala, **anda lumpuh 100%!**",
+        "- **Kedua, kuasai autonomi aset fizikal** — memegang emas fizikal di tangan anda adalah seperti mempunyai 'mini-otak kurita'. Aset itu berada di bawah kuasa mutlak anda sendiri, tiada siapa boleh membekukannya dari jauh.",
+        "- **Ketiga, beli emas mesti dapat emas** — jangan sesekali serahkan emas anda untuk disimpan oleh syarikat dengan janji tempoh matang. **Kurita tidak pernah serahkan lengannya kepada pemangsa**; begitu juga anda tidak boleh serahkan hak milik fizikal emas anda kepada pihak ketiga!"
+      ]
+    },
+    {
+      "no": 4,
+      "tajuk": "Jangka Masa 2 Tahun Ke Atas",
+      "chip": "#3 Siput Estivation",
+      "asas": "Asas #3",
+      "mula": 1140,
+      "tamat": 1560,
+      "objektif": "Menghayati disiplin Estivation siput darat dan ketenangan jangka panjang.",
+      "alat": "",
+      "cues": [
+        "Ceritakan kemampuan luar biasa siput darat tidur estivation sehingga 3 tahun menanti musim hujan.",
+        "Kaitkan dengan simpanan emas: tutup cengkerang emas anda daripada tangan gatal selama minimum 2 tahun.",
+        "Ingatkan: wang belanja dapur bawah setahun kekal dalam ASB/Tabung Haji."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Siput darat — Estivation 3 tahun & epiphragm" },
+        { "buku": "survival", "poin": "Kunci cengkerang sehingga musim bertukar" }
+      ],
+      "skrip": [
+        "Masuk **Perkara Asas Nombor Tiga.** Tolong catat dalam ingatan:",
+        "> EMAS SESUAI UNTUK SIMPANAN JANGKA PANJANG, SEKURANG-KURANGNYA 2 TAHUN KE ATAS. Emas tak sesuai dibeli dengan duit yang nak digunakan pada waktu terdekat. Kalau nak pakai duit tu dalam tempoh lagi setahun ataupun kurang, simpan dalam ASB atau Tabung Haji lebih baik. Jangan beli emas!",
+        "Nampak macam haiwan lambat dan lemah yang mudah dipijak. Kenalkan, ==SIPUT DARAT (DESERT SNAIL).==",
+        "Tahu tak siput darat mempunyai satu keupayaan sains survival yang membuatkan pakar biologi ternganga: ia mampu **tidur tanpa makan dan minum selama 3 TAHUN BERTURUT-TURUT!**",
+        "Dalam biologi, ini dipanggil **Estivation** — hibernasi musim kemarau ekstrem.",
+        "Bila cuaca padang pasir menjadi terlampau panas dan tiada air, siput darat akan masuk ke dalam cengkerangnya. Kemudian ia merembeskan sejenis lendir berkapur (*epiphragm*) yang mengering menjadi **pintu kedap udara** yang menutup rapat pintu cengkerangnya!",
+        "Ia memperlahankan degupan jantungnya ke tahap hampir sifar, mengunci titisan air dalam tubuhnya, dan **tidur tenang selama bertahun-tahun sehingga titisan hujan pertama turun** membasahi bumi!",
+        "Tiga pengajaran mahal untuk kita:",
+        "- **Pertama, amalkan 'Estivation' pada tabung emas anda** — bila anda beli emas fizikal atau masuk ke akaun GAP, **kunci pintu cengkerang emas anda rapat-rapat daripada godaan tangan gatal!** Biarkan emas tu tidur tenang sekurang-kurangnya 2 hingga 3 tahun.",
+        "- **Kedua, jangan usik sebelum tiba musimnya** — ramai orang baru simpan emas 3 bulan dah bising buka cengkerang sebab nak jual. **Itu tanda anda guna duit yang salah!** Duit jangka pendek simpan dalam ASB/Tabung Haji.",
+        "- **Ketiga, bersedia melepasi kemarau ekonomi** — siput darat tahu bila musim kemarau tamat, hujan pasti turun. Begitu juga penyimpan emas: mereka tahu turun naik pasaran jangka pendek tidak penting, kerana selepas 2 tahun ke atas, ==nilai emas pasti melonjak melepasi kadar inflasi!=="
+      ]
+    },
+    {
+      "no": 5,
+      "tajuk": "Harga Naik Purata 10% Setahun",
+      "chip": "#4 Jerung Greenland",
+      "asas": "Asas #4",
+      "mula": 1560,
+      "tamat": 1980,
+      "objektif": "Menyingkap rahsia jerung Greenland dan pembesaran 1cm setahun kalis zaman.",
+      "alat": "",
+      "cues": [
+        "Ceritakan fakta menakjubkan jerung Greenland yang hidup 400 tahun di laut dalam Artik.",
+        "Gambarkan pembesarannya yang perlahan (1cm setahun) tapi merentas berabad-abad zaman.",
+        "Kaitkan dengan harga emas: naik purata 10% setahun secara konsisten merentasi sejarah."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Jerung Greenland — vertebrata paling panjang umur, 400 tahun" },
+        { "buku": "survival", "poin": "Rentak perlahan membina kekekalan" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Empat**:",
+        "> HARGA EMAS CONFIRM NAIK DALAM JANGKA PANJANG DISEBABKAN (A) INFLASI DAN (B) KEJATUHAN NILAI RINGGIT. Kuasa beli duit kertas confirm akan merosot dari tahun ke tahun. Sejarah 20 tahun membuktikan harga emas naik secara purata 10% setahun!",
+        "Ia makhluk bertulang belakang paling panjang umur di planet Bumi. Kenalkan, ==JERUNG GREENLAND (GREENLAND SHARK).==",
+        "Berenang di dasar lautan Artik yang gelap dan sejuk beku. Saintis menggunakan ujian karbon pada kanta matanya dan mendapati jerung ini mampu hidup sehingga **400 TAHUN!**",
+        "Maksudnya, ada jerung Greenland yang sedang berenang di lautan hari ini yang **dilahirkan semasa era Kesultanan Melaka** dan zaman sebelum Isaac Newton menemui hukum graviti!",
+        "Tahu tak berapa kelajuan pembesarannya? Jerung ini berenang sangat perlahan — cuma 1.2 km/j sahaja. Dan tubuhnya hanya membesar secara purata **1 SENTIMETER SETAHUN!**",
+        "Ikan-ikan lain di lautan membesar laju, melompat pantas, **tapi mati dalam masa beberapa tahun sahaja.** Tetapi jerung Greenland, walaupun membesar 1cm setahun, ia hidup merentasi ratusan tahun, mengharungi zaman perang, zaman ais, dan perubahan iklim dunia **tanpa pernah pupus!**",
+        "Tiga pengajaran mahal untuk kita:",
+        "- **Pertama, rentak perlahan membina kekekalan** — jangan tergoda dengan pelaburan spekulasi yang janji untung 50% seminggu tapi bungkus sebulan kemudian. Emas naik purata 10% setahun, tapi ia bertahan beribu-ribu tahun.",
+        "- **Kedua, emas adalah Jerung Greenland portfolio anda** — duit kertas kita cepat reput dan layu dimamah inflasi. Emas fizikal adalah aset yang **hidup panjang merentasi generasi keluarga anda.**",
+        "- **Ketiga, sejarah membuktikan kebal zaman** — sama seperti jerung Greenland yang merentas 4 abad, rekod sejarah 20 tahun membuktikan kenaikan nilai emas 10% setahun adalah ==kuasa pertahanan kuasa beli yang paling teruji.=="
+      ]
+    },
+    {
+      "no": 6,
+      "tajuk": "Beli Emas Duit Tak Habis (Kalis Bocor)",
+      "chip": "#5 Batu Buaya",
+      "asas": "Asas #5",
+      "mula": 1980,
+      "tamat": 2460,
+      "objektif": "Menelan batu gastrolith sang buaya sebagai pemberat ballast kewangan kalis hanyut.",
+      "alat": "",
+      "cues": [
+        "Tanya penonton: 'Pernah tahu tak kenapa buaya sengaja telan batu-batu kerikil besar ke dalam perutnya?'",
+        "Terangkan konsep batu Gastrolith sebagai pemberat ballast kalis hanyut.",
+        "Pautkan dengan emas: menelan gram emas ke dalam bajet keluarga membekukan tunai agar tidak hanyut."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Sang buaya — batu Gastrolith sebagai ballast" },
+        { "buku": "survival", "poin": "Pemberat dasar kalis arus" }
+      ],
+      "skrip": [
+        "Poin nombor lima ini adalah fakta paling menarik tentang tabiat kebocoran wang kita. **Perkara Asas #5**:",
+        "> SIMPAN EMAS BERMAKSUD SIMPAN DUIT — DALAM BENTUK YANG LEBIH KUKUH. Siapa ada emas, tentu dia ada duit. BELI EMAS DUIT TAK HABIS! Kalau tak beli emas, selalunya duit tunai tu cepat habis bocor dan boros. Bila nak pakai duit mendesak, boleh jual atau pajak sahaja di Ar-Rahnu pada bila-bila masa.",
+        "Pernah tak anda terfikir, kenapa pemangsa purba paling ganas di sungai iaitu ==SANG BUAYA==, sengaja **menelan batu-batu kerikil besar masuk ke dalam perutnya?**",
+        "Dalam sains zoologi, batu-batu yang ditelan buaya ini dipanggil **GASTROLITH.** Seekor buaya dewasa boleh menyimpan **berkilo-kilo batu pejal** di dalam perutnya seumur hidup.",
+        "Mengapa buaya makan batu? **KERANA** batu gastrolith bertindak sebagai ==PEMBERAT BALLAST!==",
+        "Paru-paru buaya dipenuhi udara. Kalau buaya tak telan batu pemberat, tubuhnya akan **terapung ringan di permukaan air dan mudah dihanyutkan oleh arus sungai yang deras!** Batu gastrolith itulah yang membolehkan buaya tenggelam stabil di dasar sungai, mengintai mangsa dalam keadaan senyap tanpa berganjak walau seinci pun!",
+        "Tiga pengajaran mahal untuk kita:",
+        "- **Pertama, duit tunai terapung ringan mudah hanyut** — duit kertas dalam akaun bank kita sifatnya terlalu ringan. Bila arus jualan promosi, nafsu shopping, dan ajakan kawan datang menerpa, **duit tunai kita hanyut sekelip mata!**",
+        "- **Kedua, emas adalah batu Gastrolith kewangan anda** — menukar gaji kepada gram emas Public Gold adalah persis menelan batu pemberat ke dalam akaun kewangan keluarga anda! Duit anda dibekukan menjadi aset pejal yang menenggelamkan simpanan anda ke dasar yang **kebal daripada arus boros.**",
+        "- **Ketiga, beli emas duit tak habis** — nilai duit anda selamat membeku di dalam gram emas. Dan bila berlaku waktu sesak atau kecemasan, anda boleh 'muntahkan' semula kecairan itu — bawa ke Ar-Rahnu, dapat tunai tanpa hilang emas anda!"
+      ]
+    },
+    {
+      "no": 7,
+      "tajuk": "Waktu Terbaik Beli Emas: Ada Duit, Simpan!",
+      "chip": "#6 Dolphin",
+      "asas": "Asas #6",
+      "mula": 2460,
+      "tamat": 2880,
+      "objektif": "Mencontohi ikan lumba-lumba (Unihemispheric Sleep) dan mula pantas RM100 GAP.",
+      "alat": "",
+      "cues": [
+        "Kongsikan fakta biologi dolphin: tidur sebelah otak untuk sentiasa bernafas dan berwaspada.",
+        "Bandingkan dengan penyimpan bijak: sebelah otak jalani hidup tenang, sebelah otak celik mengunci nilai tunai gaji ke akaun GAP.",
+        "Minta penonton komen: 'Kunci Nilai Hari Ini!'"
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Dolphin — Unihemispheric Slow-Wave Sleep" },
+        { "buku": "survival", "poin": "Sentiasa celik terhadap pemangsa inflasi" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Enam.** Soalan paling popular yang saya terima setiap hari:",
+        "> WAKTU TERBAIK BELI EMAS IALAH BILA KITA ADA DUIT UNTUK SIMPANAN JANGKA PANJANG (2 TAHUN KE ATAS). BUKAN TUNGGU HARGA RENDAH! Harga emas yang dianggap mahal hari ini akan dianggap murah beberapa tahun akan datang. Kalau nak menabung emas, mulakan dulu dengan bajet kecil sebagai benchmark.",
+        "Kenalkan, mamalia paling cerdik di lautan: ==IKAN LUMBA-LUMBA (DOLPHIN).==",
+        "Tahu tak ikan lumba-lumba **TIDAK PERNAH TIDUR LENA DUA-DUA BELAH OTAK serentak** macam manusia? Dalam sains biologi marin, ini dipanggil **Unihemispheric Slow-Wave Sleep** — tidur sebelah otak.",
+        "Bila dolphin tidur, separuh otak kirinya berehat dan mata kanannya tertutup. **Tetapi separuh otak kanannya kekal celik dan mata kirinya terbuka luas!**",
+        "Mengapa? Kerana dolphin adalah mamalia berparu-paru yang mesti berenang naik ke permukaan air untuk bernafas setiap beberapa minit, dan **sentiasa berwaspada mengelak serangan jerung pemangsa!**",
+        "Tiga pengajaran mahal untuk kita:",
+        "- **Pertama, sentiasa celik sebelah otak terhadap ancaman inflasi** — kita boleh rileks jalani kehidupan harian, tetapi sebelah otak kita mesti sentiasa berwaspada bahawa **kuasa beli duit kertas sedang diserang pemangsa inflasi setiap hari.**",
+        "- **Kedua, jangan tidur lena menunggu harga lantai** — ramai orang tidur lena kononnya nak tunggu harga emas jatuh lantai. Bila bangun 3 tahun lagi, harga emas dah terbang naik cecah ratusan ringgit lebih mahal, **akhirnya ternganga menyesal!**",
+        "- **Ketiga, bertindak automatik serendah RM100** — dolphin naik bernafas secara automatik. Begitu juga simpanan emas anda: ada lebihan tunai, terus kunci nilai serendah ==RM100 melalui akaun GAP Public Gold!== Jadikan ia tanda aras pertama anda tanpa perlu pening kepala teka pasaran."
+      ]
+    },
+    {
+      "no": 8,
+      "tajuk": "Waktu Terbaik Jual Emas: 3 Alasan Sahaja",
+      "chip": "#7 Tardigrade",
+      "asas": "Asas #7",
+      "mula": 2880,
+      "tamat": 3240,
+      "objektif": "Menghayati kekebalan ekstrem Tardigrade (Cryptobiosis) dan disiplin membangunkan aset emas.",
+      "alat": "",
+      "cues": [
+        "Ceritakan keajaiban Tardigrade (Beruang Air): makhluk mikroskopik paling kebal yang masuk mod Cryptobiosis.",
+        "Tegaskan bahawa emas fizikal adalah Tardigrade kekayaan keluarga: kebal krisis dan hanya dibangunkan untuk 3 matlamat besar.",
+        "Ulangi 3 syarat pelepasan emas Tuan Zul."
+      ],
+      "rujukan": [
+        { "buku": "haiwan", "poin": "Tardigrade / Beruang Air — mod Cryptobiosis" },
+        { "buku": "survival", "poin": "Kebal ekstrem & bangun hanya bila perlu" }
+      ],
+      "skrip": [
+        "Bila dah tahu bila nak beli, soalan paling penting: **bila pula waktu terbaik kita patut jual emas kita?**",
+        "Tolong ingat 3 syarat keramat yang digariskan oleh guru saya Tuan Mohd Zulkifli Shafie dalam **Perkara Asas Nombor Tujuh** — waktu terbaik jual emas cuma ada tiga keadaan sahaja:",
+        "- **(a) Bila ada peluang untuk tukar kepada aset yang boleh menjana aliran tunai (cashflow)** — contohnya beli rumah sewa di bawah harga pasaran atau rolling bisnes yang terbukti untung.",
+        "- **(b) Bila sudah capai target simpanan** — contohnya cukup belanja naik haji, dana pendidikan anak masuk universiti, atau deposit rumah pertama.",
+        "- **(c) Bila ada hal kecemasan hidup yang mendesak.**",
+        "Selain daripada tiga alasan ini, ==TAK PERLU JUAL PUN EMAS TU WALAUPUN HARGA DAH TINGGI!==",
+        "Saiznya cuma 0.5 milimeter. Tapi ia diiktiraf sebagai **makhluk paling kebal di alam semesta.** Kenalkan, ==TARDIGRADE (BERUANG AIR).==",
+        "Bila berdepan bahaya ekstrem, Tardigrade mampu masuk ke satu fasa biologi ajaib yang dipanggil **Cryptobiosis (Mod Koma Beku).**",
+        "Ia keluarkan **99% air dalam badannya**, mengecut jadi butiran kecil, dan menutup semua aktiviti metabolisme! Dalam mod ini, Tardigrade mampu bertahan hidup dalam:",
+        "- Suhu sejuk beku mutlak angkasa lepas **negatif 272 darjah Celsius**",
+        "- Didihan **150 darjah Celsius**",
+        "- **Radiasi maut** yang membunuh manusia serta-merta",
+        "- Tekanan **6 kali ganda lebih kuat** daripada dasar Palung Mariana!",
+        "Selepas berpuluh tahun tidur beku, bila dititiskan setitik air: **Tardigrade menyerap air dan bangun berjalan semula seolah-olah tiada apa yang berlaku!**",
+        "Tiga pengajaran mahal untuk kita:",
+        "- **Pertama, emas adalah Tardigrade kewangan keluarga anda** — emas duduk senyap dalam mod 'Cryptobiosis' dalam peti besi anda. Ia kebal daripada krisis inflasi, kebal perang, dan kebal kejatuhan mata wang kertas.",
+        "- **Kedua, jangan bangunkan aset kebal untuk perkara remeh** — jangan jual emas anda semata-mata nak beli telefon baru atau enjoy bercuti! **Anda sedang membazirkan perisai paling kebal keluarga anda.**",
+        "- **Ketiga, titiskan air hanya untuk 3 tujuan besar** — emas hanya dibangunkan daripada mod tidurnya bila anda nak tukar kepada aset aliran tunai hartanah, capai impian agung pendidikan anak dan haji, atau menyiram 'titisan air' kecemasan ketika hidup terdesak!"
+      ]
+    },
+    {
+      "no": 9,
+      "tajuk": "Rumusan, Falsafah Survival Alam Liar & Call to Action",
+      "chip": "Tutup · Pemangsa Inflasi",
+      "asas": null,
+      "mula": 3240,
+      "tamat": 3600,
+      "objektif": "Menyimpulkan perkongsian dengan punchline falsafah alam liar, soalan interaktif dan panduan GAP RM100.",
+      "alat": "Kad dealer Public Gold PG00359605.",
+      "cues": [
+        "Lontarkan punchline refleksi alam liar: di alam rimba, haiwan lalai kena ngap pemangsa; dalam ekonomi, penyimpan lalai dimamah inflasi.",
+        "Tanya soalan interaktif yang memancing jawapan jujur di ruangan komen.",
+        "Berikan Call to Action pendaftaran akaun GAP yang jelas, pantas, dan mesra."
+      ],
+      "rujukan": [
+        { "buku": "survival", "poin": "Punchline falsafah alam liar & pemangsa inflasi" }
+      ],
+      "skrip": [
+        "Alhamdulillah sahabat sekalian, tepat 60 minit kita bersama malam ini merungkai 7 Asas Simpanan Emas melalui kanta sains biologi alam liar. Mari kita imbas kembali 7 asas ini:",
+        "- **1.** Emas tiada dividen bulanan — tolak mitos burung helang pecah paruh.",
+        "- **2.** Beli emas mesti dapat emas fizikal — kedaulatan 9 otak sotong kurita tanpa titik kelemahan.",
+        "- **3.** Jangka masa simpanan 2 tahun ke atas — disiplin Estivation siput darat tidur kemarau.",
+        "- **4.** Harga naik purata 10% setahun — ketahanan jerung Greenland hidup 400 tahun merentas zaman.",
+        "- **5.** Beli emas duit tak habis — telan batu Gastrolith buaya sebagai pemberat kalis hanyut.",
+        "- **6.** Waktu terbaik beli ialah bila ada duit — celik sebelah otak macam dolphin kunci nilai RM100.",
+        "- **7.** Waktu terbaik jual cuma 3 sebab — kebal macam Tardigrade, bangunkan hanya bila ada air kecemasan.",
+        "Sahabat sekalian, renungkan satu punchline falsafah alam liar ini:",
+        "> Di alam rimba yang ganas, haiwan yang lalai akan menjadi makanan pemangsa. Dalam ekonomi moden hari ini, manusia yang leka menyimpan wang kertas akan dimakan hidup-hidup oleh pemangsa senyap bernama INFLASI!",
+        "**Jangan biarkan diri dan keluarga anda menjadi mangsa yang lemas dalam arus ekonomi!**",
+        "Saya nak tanya satu soalan jujur untuk anda jawab di ruangan komen malam ini:",
+        "> Kalaulah diberi pilihan membina benteng kewangan keluarga: anda nak simpanan yang rapuh macam ranting kayu mudah patah, atau anda nak simpanan yang kebal merentasi zaman macam kepingan emas fizikal? Cuba komen kat bawah, saya nak baca pandangan anda!",
+        "Bagi anda yang mahu membina benteng keselamatan keluarga bermula malam ini, anda boleh mulakan langkah pertama anda melalui akaun **Gold Accumulation Program (GAP) Public Gold** serendah **RM100 sahaja.**",
+        "Pendaftaran adalah 100% percuma, patuh syariah sepenuhnya, dan anda akan dibimbing secara peribadi dalam komuniti G100 Network bimbingan Tuan Mohd Zulkifli Shafie.",
+        "Bagaimana nak mula?",
+        "- **1.** Klik link di bio profil saya sekarang, atau",
+        "- **2.** Tinggalkan komen ==BANTU SAYA MULA== di ruangan komen di bawah.",
+        "Saya sendiri, **Taufik Musa, Authorized Dealer Public Gold Kod PG00359605**, akan hubungi dan bimbing anda langkah demi langkah secara percuma sehingga anda berjaya memegang emas fizikal pertama anda.",
+        "Terima kasih atas segala sokongan, komen, dan tap-tap skrin anda semua sepanjang 1 jam ini. Semoga perkongsian ini bermanfaat. **Taufik, Dealer Public Gold (PG00359605) · simpanemasfizikal.com**",
+        "**Wabillahi taufiq wal hidayah, wassalamualaikum warahmatullahi wabarakatuh. Selamat malam semua!**"
+      ]
+    }
+  ]
+}

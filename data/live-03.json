@@ -1,6 +1,7 @@
 {
   "id": "live-03",
   "ver": "ver-03",
+  "batch": 6,
   "tajuk": "7 Asas Simpanan Emas",
   "subtajuk": "x Ibrah & Kebijaksanaan Sirah Nabawiyyah",
   "hos": "Taufik Bin Musa",
@@ -9,13 +10,31 @@
   "durasi": 3600,
   "ringkasan": "Batch 6. Tujuh asas dibedah dengan cermin Sirah Nabawiyyah — dari detik Hijrah sampai amanat Khutbah Wada', disandarkan pada Ar-Raheeq Al-Makhtum dan hadis-hadis sahih.",
   "buku": {
-    "sirah": { "label": "SIR", "nama": "Ar-Raheeq Al-Makhtum — Syeikh Safiur Rahman al-Mubarakpuri" },
-    "dalil": { "label": "DLL", "nama": "Al-Quran & Hadis Sahih" }
+    "sirah": {
+      "label": "SIR",
+      "nama": "Ar-Raheeq Al-Makhtum — Syeikh Safiur Rahman al-Mubarakpuri"
+    },
+    "dalil": {
+      "label": "DLL",
+      "nama": "Al-Quran & Hadis Sahih"
+    }
   },
   "rujukanTeras": [
-    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
-    { "tajuk": "Ar-Raheeq Al-Makhtum", "penulis": "Syeikh Safiur Rahman al-Mubarakpuri", "nota": "Kitab muktabar" },
-    { "tajuk": "Hadis-hadis Sahih", "penulis": "Bukhari & Muslim", "nota": "" }
+    {
+      "tajuk": "7 Perkara Asas Simpanan Emas",
+      "penulis": "Tn Mohd Zulkifli Shafie",
+      "nota": "Artikel rujukan"
+    },
+    {
+      "tajuk": "Ar-Raheeq Al-Makhtum",
+      "penulis": "Syeikh Safiur Rahman al-Mubarakpuri",
+      "nota": "Kitab muktabar"
+    },
+    {
+      "tajuk": "Hadis-hadis Sahih",
+      "penulis": "Bukhari & Muslim",
+      "nota": ""
+    }
   ],
   "props": [
     "Gold bar Public Gold 999.9 + dinar untuk close-up",
@@ -42,8 +61,14 @@
         "Ajak penonton menghayati konsep hijrah kewangan — berhijrah daripada kejahilan dan riba kepada pengurusan harta patuh syariah."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Detik Hijrah 1H / 622M — ms. 168-176" },
-        { "buku": "sirah", "poin": "Infaq Sayyidina Abu Bakar As-Siddiq RA" }
+        {
+          "buku": "sirah",
+          "poin": "Detik Hijrah 1H / 622M — ms. 168-176"
+        },
+        {
+          "buku": "sirah",
+          "poin": "Infaq Sayyidina Abu Bakar As-Siddiq RA"
+        }
       ],
       "skrip": [
         "**Bismillahir Rahmanir Rahim.** Alhamdulillahi Rabbil 'Alamin, wassolatu wassalamu 'ala Asyrafil Anbiya'i wal Mursalin, Sayyidina Muhammadin wa 'ala alihi wa sahbihi ajma'in.",
@@ -73,8 +98,14 @@
         "Sampaikan dalil Surah An-Nisa ayat 29 tentang larangan memakan harta sesama manusia secara batil."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Fasa Perniagaan Al-Amin ke Syam & Pemulauan Syi'ib Abu Talib" },
-        { "buku": "dalil", "poin": "Surah An-Nisa' ayat 29 — larangan harta secara batil" }
+        {
+          "buku": "sirah",
+          "poin": "Fasa Perniagaan Al-Amin ke Syam & Pemulauan Syi'ib Abu Talib"
+        },
+        {
+          "buku": "dalil",
+          "poin": "Surah An-Nisa' ayat 29 — larangan harta secara batil"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Satu.** Tolong dengar dengan mata hati:",
@@ -106,8 +137,14 @@
         "Jelaskan hukum Riba Nasa' jika emas fizikal ditangguhkan dengan syarat 'tempoh matang'."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Pembukaan Pasar Islam Madinah 1H" },
-        { "buku": "dalil", "poin": "Sahih Muslim no. 1587 — Yadan bi Yadin" }
+        {
+          "buku": "sirah",
+          "poin": "Pembukaan Pasar Islam Madinah 1H"
+        },
+        {
+          "buku": "dalil",
+          "poin": "Sahih Muslim no. 1587 — Yadan bi Yadin"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Dua.** Kata guru saya Tuan Zul:",
@@ -138,8 +175,14 @@
         "Ingatkan: wang belanja harian kekal di ASB/Tabung Haji; emas adalah benteng jangka panjang."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Ketabahan 13 Tahun Fasa Makkah" },
-        { "buku": "sirah", "poin": "Bai'ah Aqabah Pertama & Kedua, 620-622M" }
+        {
+          "buku": "sirah",
+          "poin": "Ketabahan 13 Tahun Fasa Makkah"
+        },
+        {
+          "buku": "sirah",
+          "poin": "Bai'ah Aqabah Pertama & Kedua, 620-622M"
+        }
       ],
       "skrip": [
         "Kita beralih kepada **Perkara Asas Nombor Tiga**:",
@@ -170,7 +213,10 @@
         "Minta penonton renungkan: mengapa kuasa beli emas tak berubah selama 1,400 tahun?"
       ],
       "rujukan": [
-        { "buku": "dalil", "poin": "Sahih Al-Bukhari no. 3642 — Urwah bin Abi Al-Ja'd Al-Bariqi RA" }
+        {
+          "buku": "dalil",
+          "poin": "Sahih Al-Bukhari no. 3642 — Urwah bin Abi Al-Ja'd Al-Bariqi RA"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Empat**:",
@@ -206,8 +252,14 @@
         "Tegaskan bahawa menukar tunai ke emas adalah ikhtiar patuh syariah untuk mengelakkan pembaziran."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Perang Khandaq 5H & Teladan Harta Salman Al-Farisi RA" },
-        { "buku": "dalil", "poin": "Surah Al-Isra' ayat 26-27 — larangan Israf" }
+        {
+          "buku": "sirah",
+          "poin": "Perang Khandaq 5H & Teladan Harta Salman Al-Farisi RA"
+        },
+        {
+          "buku": "dalil",
+          "poin": "Surah Al-Isra' ayat 26-27 — larangan Israf"
+        }
       ],
       "skrip": [
         "Kita masuk **Perkara Asas Nombor Lima.** Poin ini sangat menyentuh tabiat harian kita:",
@@ -241,8 +293,14 @@
         "Tegaskan: jangan bertangguh tunggu harga emas turun; mulakan bersegera dengan bajet serendah RM100."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Persiapan Perang Tabuk 9H — ms. 420-435" },
-        { "buku": "sirah", "poin": "Teladan Uthman bin Affan RA & Abu Bakar RA" }
+        {
+          "buku": "sirah",
+          "poin": "Persiapan Perang Tabuk 9H — ms. 420-435"
+        },
+        {
+          "buku": "sirah",
+          "poin": "Teladan Uthman bin Affan RA & Abu Bakar RA"
+        }
       ],
       "skrip": [
         "Kita beralih kepada **Perkara Asas Nombor Enam**:",
@@ -277,8 +335,14 @@
         "Tegaskan bahawa emas hanya dilepaskan demi membina legasi dan memelihara maruah keluarga."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Pembelian Tanah Masjid Nabawi 1H" },
-        { "buku": "sirah", "poin": "Wakaf Telaga Rumah (Bi'r Rumah) oleh Uthman RA" }
+        {
+          "buku": "sirah",
+          "poin": "Pembelian Tanah Masjid Nabawi 1H"
+        },
+        {
+          "buku": "sirah",
+          "poin": "Wakaf Telaga Rumah (Bi'r Rumah) oleh Uthman RA"
+        }
       ],
       "skrip": [
         "Bila dah tahu bila nak beli, soalan yang paling penting: **bila pula waktu terbaik kita nak jual emas kita?**",
@@ -311,7 +375,10 @@
         "Berikan panduan mendaftar akaun GAP serendah RM100 secara percuma dengan bimbingan Taufik Musa."
       ],
       "rujukan": [
-        { "buku": "sirah", "poin": "Amanat Khutbah Wada' 10H / 632M di Padang Arafah" }
+        {
+          "buku": "sirah",
+          "poin": "Amanat Khutbah Wada' 10H / 632M di Padang Arafah"
+        }
       ],
       "skrip": [
         "Alhamdulillah, sahabat-sahabat sekalian. Tepat hampir 60 minit kita bersama malam ini, menyelami 7 Perkara Asas Simpanan Emas melalui suluhan cahaya Sirah Nabawiyyah. Mari kita imbas kembali 7 asas ini:",

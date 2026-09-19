@@ -1,0 +1,370 @@
+{
+  "id": "live-08",
+  "ver": "ver-08",
+  "batch": 11,
+  "tajuk": "7 Asas Simpanan Emas",
+  "subtajuk": "x Eksperimen Psikologi & Kajian Sains Tingkah Laku Manusia",
+  "hos": "Taufik Bin Musa",
+  "dealer": "Authorized Dealer Public Gold PG00359605 · G100 Network",
+  "format": "Skrip Percakapan Lisan — Hook Songsang, Setting Makmal Sains, 3 Pengajaran Pedas & Mic Drop",
+  "durasi": 3600,
+  "ringkasan": "Batch 11. Tujuh asas dibedah melalui tujuh eksperimen makmal klasik — Balang Kutu, Kotak Skinner, Ibu Monyet Harlow, Marshmallow Stanford, Katak Rebus, IKEA Effect, 5 Monyet & Tangga, dan Tikus Berenang Richter.",
+  "buku": {
+    "makmal": { "label": "EKS", "nama": "Arkib Eksperimen Psikologi & Sains Tingkah Laku" },
+    "konsep": { "label": "KON", "nama": "Konsep Sains Tingkah Laku Terbitan" }
+  },
+  "rujukanTeras": [
+    { "tajuk": "7 Perkara Asas Simpanan Emas", "penulis": "Tn Mohd Zulkifli Shafie", "nota": "Artikel rujukan" },
+    { "tajuk": "Arkib Kajian Psikologi & Tingkah Laku", "penulis": "Taufik Eksperimen Copywriting", "nota": "" }
+  ],
+  "props": [
+    "Gold bar Public Gold 999.9 untuk close-up",
+    "Balang kaca kecil (demo balang kutu)",
+    "Buku nota kecil + pen",
+    "Kad dealer Public Gold PG00359605",
+    "Link pendaftaran GAP dah standby di bio",
+    "Air minum",
+    "Telefon backup + charger"
+  ],
+  "segmen": [
+    {
+      "no": 1,
+      "tajuk": "Pembukaan & Eksperimen Balang Kutu",
+      "chip": "Buka · Balang Kutu",
+      "asas": null,
+      "mula": 0,
+      "tamat": 300,
+      "objektif": "Membongkar siling minda palsu (Conditioned Limitation) melalui ujian Balang Kutu.",
+      "alat": "Balang kaca kecil untuk gambarkan paras penutup.",
+      "cues": [
+        "Uji audio, visual dan sapa penonton dengan penuh tenaga.",
+        "Buka dengan kontras dramatik: kutu boleh lompat 200 kali ganda tinggi badannya, tapi dalam balang ia pasrah melompat rendah seumur hidup.",
+        "Ajak penonton membuka penutup kotak fikiran kewangan malam ini."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "The Flea Jar Experiment" },
+        { "buku": "konsep", "poin": "Conditioned Limitation / Mental Ceiling" }
+      ],
+      "skrip": [
+        "Assalamualaikum dan salam sejahtera semua sahabat yang hadir dalam siaran langsung saya malam ni. **Selamat datang!**",
+        "Tolong komen dulu di bawah: suara saya dengar jelas tak? Gambar terang? Anda bersiaran dari mana malam ni? Dari Kuala Lumpur, Johor Bahru, Kuantan, Ipoh, Kuching, Kota Kinabalu? Taip nama lokasi anda dan tap-tap skrin dulu laju-laju. Terima kasih Bro Razak, Puan Siti, Tuan Faizul... alhamdulillah semua lancar.",
+        "Malam ni, saya nak buka sesi kita dengan satu eksperimen sains tingkah laku yang sangat terkenal dan sangat menampar pipi kita semua: ==EKSPERIMEN BALANG KUTU (THE FLEA JAR EXPERIMENT).==",
+        "Kutu adalah antara makhluk ciptaan Tuhan yang mempunyai daya lonjakan paling luar biasa di dunia. Ketinggian kutu cuma beberapa milimeter. Tapi ia mampu melompat setinggi 8 inci ke udara — bersamaan **200 KALI GANDA KETINGGIAN BADANNYA SENDIRI!** Kalau manusia ada kemampuan macam kutu, kita boleh lompat melepasi Menara Berkembar Petronas dengan satu lompatan sahaja!",
+        "Tapi satu hari, saintis tangkap sekumpulan kutu dan masukkan mereka ke dalam sebuah balang kaca yang ada penutup di atas.",
+        "*Panggg!* Setiap kali kutu tu melompat tinggi sekuat hati, kepalanya terhantuk penutup balang. Sakit. Lompat lagi... *Pangg!* Terhantuk lagi. Benda ni berulang-ulang selama **3 hari berturut-turut.**",
+        "Cuba anda teka apa jadi pada hari keempat bila saintis **BUKA PENUTUP BALANG** tersebut? Penutup kaca dah tiada. Jalan keluar terbuka 100% luas ke langit.",
+        "==Tapi tak ada seekor pun kutu yang melompat keluar daripada balang itu!== Semua kutu itu hanya melompat betul-betul di bawah paras bekas penutup tadi. Mereka membataskan potensi lompatan mereka sendiri seumur hidup!",
+        "Dalam sains psikologi tingkah laku, ini dipanggil **Conditioned Limitation** atau **Mental Ceiling (Siling Minda Palsu).**",
+        "Kawan-kawan, kisah balang kutu ni sangat pedas menampar muka kita dalam urusan duit hari ini! Ramai orang kita, minda kewangannya terperangkap dalam balang kutu:",
+        "- Rasa diri 'tak mampu' simpan emas.",
+        "- Rasa emas ni untuk orang kaya jutawan sahaja.",
+        "- Rasa gaji kecil confirm habis dan mustahil ada aset.",
+        "Kita terhantuk dengan alasan-alasan lapuk, **sampai penutup balang dibuka pun kita tetap pasrah hidup cukup-cukup makan!**",
+        "Malam ini, berpandukan **7 Perkara Asas Simpanan Emas** oleh guru saya Tuan Mohd Zulkifli Shafie, kita nak pecahkan semua siling minda palsu itu. Kita nak bedah sains psikologi di sebalik duit dan tabiat manusia. Jom kita masuk asas nombor satu!"
+      ]
+    },
+    {
+      "no": 2,
+      "tajuk": "Emas Tiada Pendapatan (Dividen Bulanan)",
+      "chip": "#1 Kotak Skinner",
+      "asas": "Asas #1",
+      "mula": 300,
+      "tamat": 720,
+      "objektif": "Menolak perangkap dopamin duit percuma melalui eksperimen Kotak Skinner.",
+      "alat": "",
+      "cues": [
+        "Ceritakan eksperimen tikus makmal menekan tuil dalam Kotak Skinner (B.F. Skinner 1930).",
+        "Terangkan konsep psikologi 'Variable Ratio Schedule' yang mencetuskan ketagihan dopamin duit mudah.",
+        "Kaitkan dengan scammer dividen emas: janji pulangan bulanan tanpa kerja adalah jerangkap samar."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "The Skinner Box — B.F. Skinner, 1930-an" },
+        { "buku": "konsep", "poin": "Variable Ratio Schedule & perangkap dopamin" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Satu.** Tolong catat kemas-kemas:",
+        "> SIMPANAN EMAS TIADA PENDAPATAN BULANAN ATAUPUN TAHUNAN MACAM DIVIDEN ASB ATAU TABUNG HAJI. Yang ada cuma: beli harga rendah dan jual harga tinggi untuk dapat keuntungan dalam jangka panjang. Kalau ada pihak yang offer beli emas boleh dapat income bulan-bulan, itu petanda jelas ianya SKIM CEPAT KAYA BERTOPENGKAN EMAS!",
+        "Tahun 1930-an, ahli psikologi terkenal B.F. Skinner bina satu kotak makmal yang diberi nama ==The Skinner Box.==",
+        "Dalam kotak tu dia letakkan seekor burung merpati dan kemudian seekor tikus lapar. Di dinding kotak ada satu **tuil besi.**",
+        "Pada pusingan pertama, bila tuil ditekan, sebiji makanan keluar. Tikus tekan tuil bila lapar sahaja.",
+        "Tapi Skinner tukar sistem: tuil ditekan, **kadang-kadang makanan keluar, kadang-kadang tak keluar, dan kadang-kadang keluar dua biji sekali gus tanpa diduga!**",
+        "Cuba anda teka apa jadi pada tikus tu? ==Tikus itu jadi histeria dan gila!== Ia menekan tuil beribu-ribu kali tanpa henti siang dan malam sampai jarinya berdarah, walaupun perutnya dah kenyang tersandar!",
+        "Dalam psikologi, ini dipanggil **Variable Ratio Schedule of Reinforcement** — punca utama kenapa manusia ketagih mesin judi kasino dan ketagih skim cepat kaya!",
+        "Bila otak menerima ganjaran rawak yang menjanjikan duit percuma tanpa usaha fizikal, otak merembeskan hormon **dopamin** secara melampau. **Kita hilang logik akal!**",
+        "Kawan-kawan, inilah psikologi kotor yang dimanipulasi oleh sindiket scammer skim emas. Mereka cipta 'Kotak Skinner' versi pelaburan! Mereka kata: *'Beli emas kami, duduk diam-diam tekan butang telefon, setiap bulan dividen 5% masuk akaun.'*",
+        "Otak kita terus histeria macam tikus Skinner menekan tuil dividen bulanan, **sampai kita terlupa bahawa modal pokok puluhan ribu ringgit sedang dilarikan scammer!**",
+        "Tiga pengajaran pedas untuk poket dan masa depan kita:",
+        "- **Pertama, padamkan nafsu dopamin mudah** — tiada dividen pasif magis dalam dunia emas. Emas adalah logam kaku, ia tidak melahirkan anak atau bayar dividen bulanan.",
+        "- **Kedua, keuntungan emas berasaskan masa dan nilai** — satu-satunya cara dapat untung daripada emas ialah beli pada harga rendah, simpan dengan sabar, dan jual bila nilai melonjak dalam jangka panjang.",
+        "- **Ketiga, jangan jadi tikus dalam kotak scammer** — sekali anda tergiur dengan tawaran dividen bulanan skim emas, anda sedang menyerahkan leher kewangan anda ke tali gantung penipuan!"
+      ]
+    },
+    {
+      "no": 3,
+      "tajuk": "Emas Fizikal (Beli Emas Mesti Dapat Emas)",
+      "chip": "#2 Ibu Monyet Harlow",
+      "asas": "Asas #2",
+      "mula": 720,
+      "tamat": 1140,
+      "objektif": "Membongkar keperluan hakiki sentuhan fizikal melalui eksperimen Ibu Monyet Harry Harlow.",
+      "alat": "Gold bar Public Gold — tekankan ketumpatan dan berat.",
+      "cues": [
+        "Pegang gold bar Public Gold di depan kamera: 'Ini aset fizikal berketumpatan tinggi'.",
+        "Ceritakan eksperimen Harry Harlow (1958) tentang anak monyet memilih ibu kawat susu vs ibu kain lembut.",
+        "Kaitkan 'Contact Comfort' dengan kedaulatan mutlak memegang emas di tangan sendiri."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "Eksperimen Ibu Monyet — Harry Harlow, 1958" },
+        { "buku": "konsep", "poin": "Contact Comfort & zero counterparty risk" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Dua**:",
+        "> BELI EMAS MESTI DAPAT EMAS (FIZIKAL), SAMA MACAM KITA BELI EMAS DI KEDAI-KEDAI EMAS. Emas tu kita boleh simpan sendiri. Kalau penjual emas syaratkan kena tunggu 'tempoh matang' baru boleh keluarkan emas fizikal, itu pun petanda jelas ianya skim cepat kaya bertopengkan emas! Beli emas mesti dapat emas. Titik!",
+        "Tahun **1958**, seorang saintis psikologi bernama Dr. Harry Harlow jalankan satu eksperimen yang menggemparkan dunia saintifik.",
+        "Dia pisahkan seekor anak monyet rhesus daripada ibunya sejak lahir. Kemudian dia bina **dua 'ibu tiruan'** dalam sangkar:",
+        "- **Ibu pertama** diperbuat daripada kawat besi berduri yang keras, tapi **ada botol susu** melekat padanya.",
+        "- **Ibu kedua** diperbuat daripada kayu yang dibalut dengan kain lembut yang gebu dan selesa, tapi **TIADA sebarang susu.**",
+        "Cuba anda teka ke mana anak monyet itu menghabiskan sebahagian besar masanya?",
+        "Anak monyet itu cuma pergi ke ibu kawat berduri selama beberapa minit semata-mata untuk hisap susu bila terdesak lapar. Tetapi selama ==17 hingga 18 JAM SEHARI==, anak monyet itu memeluk erat ibu kain lembut yang gebu itu!",
+        "Malah bila saintis masukkan robot raksasa yang menakutkan ke dalam sangkar... anak monyet itu **tak pergi ke ibu kawat susu**, sebaliknya ia melompat dan memeluk ibu kain lembut sekuat tenaga untuk mendapatkan rasa tenang dan selamat!",
+        "Dalam psikologi perkembangan, ini dipanggil **Contact Comfort** — keselesaan hakiki melalui sentuhan fizikal nyata.",
+        "Kisah ibu monyet Harlow ini memberi tamparan hebat kepada kita yang terlampau percaya pada angka digital di skrin telefon:",
+        "Angka baki bank digital kita hari ini persis **'ibu kawat berduri'**: nampak macam ada susu (tunai), tapi bila server down, bila akaun disekat, bila inflasi mengganas, **anda tak boleh peluk apa-apa.** Hati anda gelisah dan panik!",
+        "Tetapi emas fizikal yang ada dalam genggaman tangan anda adalah **'ibu kain berbulu'** aset keluarga anda: ia mempunyai sentuhan fizikal, berat, tumpat, dan tulen. Bila berlaku ribut ekonomi atau peperangan dunia, anda tak perlu risau tentang server bank — ==emas itu ada di tangan anda, laku di mana-mana ceruk dunia!==",
+        "Tiga pengajaran pedas untuk kita:",
+        "- **Pertama, elakkan ilusi atas kertas** — memegang sijil emas atau angka di skrin yang tak boleh ditebus fizikal adalah perangkap ibu kawat tanpa perlindungan.",
+        "- **Kedua, beli emas mesti dapat emas** — hakikat emas adalah logam fizikal. Syarat 'kena tunggu tempoh matang baru dapat emas' adalah penipuan klasik.",
+        "- **Ketiga, kedaulatan mutlak di tangan anda** — emas fizikal tidak ada risiko pihak ketiga. Anda adalah gabenor bank pusat kepada aset anda sendiri!"
+      ]
+    },
+    {
+      "no": 4,
+      "tajuk": "Jangka Masa 2 Tahun Ke Atas",
+      "chip": "#3 Marshmallow",
+      "asas": "Asas #3",
+      "mula": 1140,
+      "tamat": 1560,
+      "objektif": "Menghayati kuasa Delayed Gratification melalui eksperimen Marshmallow Stanford.",
+      "alat": "",
+      "cues": [
+        "Ceritakan eksperimen marshmallow Walter Mischel (1972) pada kanak-kanak 4 tahun.",
+        "Terangkan konsep 'Delayed Gratification' sebagai pembeza mutlak antara orang kaya dan orang miskin.",
+        "Pautkan dengan tabung emas: tahan diri jangan 'kunyah' emas sebelum 2 tahun."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "Marshmallow Stanford — Walter Mischel, 1972" },
+        { "buku": "konsep", "poin": "Delayed vs Instant Gratification" }
+      ],
+      "skrip": [
+        "Masuk **Perkara Asas Nombor Tiga.** Tolong catat dalam ingatan:",
+        "> EMAS SESUAI UNTUK SIMPANAN JANGKA PANJANG, SEKURANG-KURANGNYA 2 TAHUN KE ATAS. Emas tak sesuai dibeli dengan duit yang nak digunakan pada waktu terdekat. Kalau nak pakai duit tu dalam tempoh lagi setahun ataupun kurang, simpan dalam ASB atau Tabung Haji lebih baik. Jangan beli emas!",
+        "Dia cuma tenung sebiji gula-gula di atas meja. Tapi 20 tahun kemudian, hidupnya bergelar jutawan. Ini adalah kisah ==Eksperimen Marshmallow Stanford== yang sangat lagenda oleh Dr. Walter Mischel pada tahun 1972.",
+        "Kanak-kanak berumur 4 hingga 6 tahun dibawa masuk ke sebuah bilik kosong. Di atas meja diletakkan sebiji marshmallow yang manis dan gebu. Penyelidik kata:",
+        "> Uncle nak keluar bilik selama 15 minit. Kalau kamu tak makan marshmallow ni sampai uncle balik, uncle akan bagi KAMU DUA BIJI MARSHMALLOW.",
+        "*Zaaas!* Pintu bilik ditutup.",
+        "Sebahagian besar budak tak tahan nafsu. Baru 2 minit, air liur meleleh, **terus ngap masuk mulut!** Tapi ada sebilangan kecil budak yang tahan — mereka pejam mata, gigit jari, pusing belakang, menyanyi sendiri untuk lawan nafsu godaan marshmallow itu.",
+        "Hasil kajian susulan 20 hingga 30 tahun kemudian: budak-budak yang mampu menahan diri selama 15 minit itu membesar menjadi individu yang mempunyai **markah akademik tertinggi, kerjaya paling berjaya, kurang masalah hutang, dan kekayaan kewangan yang berlipat ganda** berbanding budak yang terus telan marshmallow serta-merta!",
+        "Dalam psikologi, ini dipanggil ==Delayed Gratification.==",
+        "Kawan-kawan, **simpanan emas adalah ujian marshmallow untuk orang dewasa!** Ramai orang gagal dalam simpanan emas bukan sebab emas tak bagus, tapi sebab penyakit **Instant Gratification**:",
+        "- Baru beli emas 3 bulan, dah sibuk nak 'kunyah' emas tu sebab nak rasa untung cepat!",
+        "- Bila tengok harga emas turun naik sikit, terus panik nak jual.",
+        "Emas bukan instrumen 'makan segera'. Emas memerlukan disiplin Delayed Gratification sekurang-kurangnya 2 tahun ke atas untuk ia membiakkan 'marshmallow kedua' iaitu kenaikan nilai yang kukuh melepasi spread dan inflasi!",
+        "Tiga pengajaran pedas untuk kita:",
+        "- **Pertama, asingkan tabung ikut garis masa** — duit belanja dapur, roadtax, atau yuran sekolah anak yang nak dipakai bawah 1 tahun, simpan dalam Tabung Haji atau ASB. Jangan gatal tangan beli emas!",
+        "- **Kedua, latih otot Delayed Gratification** — setiap gram emas yang anda beli, anggap ia dikunci dalam bilik marshmallow selama minimum 2 tahun. Jangan sentuh.",
+        "- **Ketiga, masa adalah sahabat terbaik emas** — semakin lama emas disimpan melepasi 2 tahun, semakin kalis dan lumayan kuasa beli yang ia pulangkan kepada keluarga anda."
+      ]
+    },
+    {
+      "no": 5,
+      "tajuk": "Harga Naik Purata 10% Setahun",
+      "chip": "#4 Katak Rebus",
+      "asas": "Asas #4",
+      "mula": 1560,
+      "tamat": 1980,
+      "objektif": "Menyelamatkan diri daripada sindrom Katak Rebus melalui rekod 10% emas.",
+      "alat": "",
+      "cues": [
+        "Ceritakan kisah tragis katak dalam periuk air yang dipanaskan perlahan 1 darjah demi 1 darjah.",
+        "Terangkan konsep 'Gradual Adaptation' yang mematikan deria bahaya manusia.",
+        "Pautkan dengan kejatuhan nilai ringgit dan inflasi: duit tunai sedang direbus hidup-hidup."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "The Boiling Frog Syndrome" },
+        { "buku": "konsep", "poin": "Gradual Adaptation — kelesuan deria bahaya" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Empat**:",
+        "> HARGA EMAS CONFIRM NAIK DALAM JANGKA PANJANG DISEBABKAN (A) INFLASI DAN (B) KEJATUHAN NILAI RINGGIT. Kuasa beli duit kertas confirm akan merosot dari tahun ke tahun. Sejarah 20 tahun membuktikan harga emas naik secara purata 10% setahun!",
+        "Dia mati direbus hidup-hidup dalam periuk. Tapi sedikit pun dia tidak meronta. Ini adalah fenomena sains tingkah laku yang dipanggil ==The Boiling Frog Syndrome.==",
+        "Kalau anda ambil seekor katak hidup dan campakkan ia ke dalam periuk air yang sedang mendidih menggelegak: *Zap!* Katak itu akan serta-merta melompat keluar menyelamatkan nyawanya kerana sistem sarafnya terkejut dengan kepanasan melampau.",
+        "Tetapi kalau anda letakkan katak itu ke dalam periuk berisi air sejuk yang nyaman, kemudian nyalakan api dapur yang sangat kecil... air dipanaskan perlahan-lahan **1 darjah setiap 10 minit.**",
+        "Cuba anda teka apa katak tu buat? **Katak itu rasa selesa.** Ia terapung rileks macam berendam dalam jakuzi mewah!",
+        "Suhu naik 30 darjah... 40 darjah... 50 darjah... katak terus menyesuaikan suhu badannya secara perlahan-lahan. Sampai satu tahap pada suhu 70 darjah Celsius, bila katak tu baru tersedar air dah terlampau panas: ==otot-otot kakinya sudah lumpuh dan kehabisan tenaga!== Akhirnya katak mati terapung direbus hidup-hidup tanpa sempat melompat keluar!",
+        "Dalam sains, ini dipanggil **Gradual Adaptation** — kelesuan deria terhadap bahaya perlahan.",
+        "Kisah katak rebus ini menampar muka sesiapa yang rasa tenang menyimpan 100% kekayaan dalam duit kertas di bank: **duit simpanan kita sedang direbus hidup-hidup oleh api bernama INFLASI!**",
+        "Inflasi tak makan duit kita 50% sehari macam air menggelegak. Dia makan perlahan-lahan 3% hingga 5% setahun. Baki angka dalam bank nampak tak berubah — RM10,000 tetap tertulis RM10,000. **Tapi kuasa belinya makin mengecut**, barang dapur makin mahal, nilai ringgit makin layu. Kita rasa tenang berendam dalam jakuzi bank, sampai satu hari bersara, duit itu sudah tak ada kuasa beli apa-apa!",
+        "Tiga pengajaran pedas untuk kita:",
+        "- **Pertama, jangan jadi katak yang leka** — sedarlah bahawa air simpanan tunai di sekeliling anda sedang dipanaskan setiap saat oleh pencetakan duit kertas dunia.",
+        "- **Kedua, emas adalah tangga lonjakan keluar** — rekod sejarah 20 tahun membuktikan harga emas naik purata 10% setahun. Kenaikan 10% inilah benteng pertahanan yang menandingi kepanasan inflasi.",
+        "- **Ketiga, lompat sebelum otot kewangan lumpuh** — tukar sebahagian simpanan tunai yang tidur kepada gram emas fizikal sebelum kuasa beli gaji anda hilang sepenuhnya!"
+      ]
+    },
+    {
+      "no": 6,
+      "tajuk": "Beli Emas Duit Tak Habis (Kalis Bocor)",
+      "chip": "#5 IKEA Effect",
+      "asas": "Asas #5",
+      "mula": 1980,
+      "tamat": 2460,
+      "objektif": "Membina benteng ketirisan wang melalui psikologi The IKEA Effect.",
+      "alat": "",
+      "cues": [
+        "Ceritakan eksperimen Dan Ariely (2011) tentang orang melipat origami sendiri dan meletakkan nilai harga tinggi padanya.",
+        "Terangkan konsep 'The IKEA Effect': manusia menyayangi apa yang mereka sentuh dan bina dengan usaha.",
+        "Kaitkan dengan tabiat simpan emas: aset padat mematikan nafsu boros."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "Eksperimen Origami — Dan Ariely, 2011" },
+        { "buku": "konsep", "poin": "The IKEA Effect — nilai emosi aset yang disentuh" }
+      ],
+      "skrip": [
+        "Poin nombor lima ini adalah hujah paling disukai oleh penyimpan emas tegar. **Perkara Asas #5**:",
+        "> SIMPAN EMAS BERMAKSUD SIMPAN DUIT — DALAM BENTUK YANG LEBIH KUKUH. Siapa ada emas, tentu dia ada duit. BELI EMAS DUIT TAK HABIS! Kalau tak beli emas, selalunya duit tunai tu cepat habis bocor dan boros. Bila nak pakai duit mendesak, boleh jual atau pajak sahaja di Ar-Rahnu pada bila-bila masa.",
+        "Tahun **2011**, profesor psikologi tingkah laku Dan Ariely bersama rakan penyelidiknya jalankan satu ujian yang sangat menarik. Mereka bahagikan peserta kepada dua kumpulan:",
+        "- **Kumpulan pertama** diberi kertas warna dan diajar melipat origami katak dan burung bangau **buatan tangan mereka sendiri.**",
+        "- **Kumpulan kedua** hanya dipamerkan origami yang dilipat sempurna oleh **pakar pelipat profesional.**",
+        "Lepas tu, para penyelidik tanya kepada setiap peserta: *'Berapa harga yang anda sanggup bayar untuk beli origami ini bawa balik rumah?'*",
+        "Keputusan ujian itu sangat mengejutkan: peserta yang melipat origami sendiri meletakkan nilai harga ==5 KALI GANDA LEBIH TINGGI== terhadap lipatan mereka yang senget-benget berbanding lipatan sempurna pakar!",
+        "Dalam sains tingkah laku pengguna, fenomena ini diiktiraf sebagai **The IKEA Effect** — kecenderungan manusia meletakkan nilai emosi yang luar biasa tinggi terhadap sesuatu benda yang ada sentuhan usaha fizikalnya sendiri.",
+        "Kawan-kawan, inilah sebab kenapa ==BELI EMAS DUIT TAK HABIS!==",
+        "Duit tunai digital kita hari ini sifatnya terlalu abstrak dan **'licin'**: dapat gaji, duit masuk akaun dalam bentuk nombor piksel di skrin. Bila kita nak belanja, cuma scan DuitNow QR atau tap kad debit. Kita tak nampak wang keluar, tak rasa berat wang tu, tak ada sentuhan fizikal langsung! Sebab tu duit RM1,000 boleh bocor habis dalam masa beberapa hari tanpa kita sedar ke mana perginya!",
+        "Tetapi bila anda keluarkan duit gaji tu dan tukarkan kepada sekeping emas fizikal Public Gold: tiba-tiba **The IKEA Effect menguasai psikologi anda!**",
+        "Anda pegang kepingan emas tu, anda rasa ketumpatannya yang padat di tapak tangan, anda simpan elok-elok dalam peti simpanan... wujud satu **rasa sayang dan hormat yang sangat mendalam pada duit anda sendiri!**",
+        "Bila terlintas nafsu nak shopping benda mengarut, anda fikir sepuluh kali: *'Takkan aku nak gadaikan emas aku semata-mata nak beli benda remeh ni?'*",
+        "Duit anda selamat membeku! Duit tak habis. Dan kalau betul-betul ada kecemasan perubatan atau hal keluarga, emas itu boleh dipajak di Ar-Rahnu pada bila-bila masa untuk dapat tunai tanpa hilang emas.",
+        "Tiga pengajaran pedas untuk kita:",
+        "- **Pertama, tukar aset 'licin' kepada aset 'berat'** — hentikan membiarkan lebihan gaji terbiar dalam akaun bank yang ada aplikasi shopping online. Tukar ke bentuk logam padat.",
+        "- **Kedua, manfaatkan psikologi IKEA Effect** — jadikan rasa sayang pada gram emas sebagai benteng semula jadi mematikan nafsu boros.",
+        "- **Ketiga, memiliki emas bermaksud memiliki tunai beku** — emas adalah tunai kecemasan terbaik yang kalis bocor!"
+      ]
+    },
+    {
+      "no": 7,
+      "tajuk": "Waktu Terbaik Beli Emas: Ada Duit, Simpan!",
+      "chip": "#6 5 Monyet",
+      "asas": "Asas #6",
+      "mula": 2460,
+      "tamat": 2880,
+      "objektif": "Memecahkan dogma menunggu harga rendah melalui eksperimen 5 Ekor Monyet & Tangga.",
+      "alat": "",
+      "cues": [
+        "Ceritakan eksperimen G.R. Stephenson (1967) tentang 5 monyet, tangga, pisang, dan siraman air sejuk.",
+        "Terangkan konsep 'Conditioned Social Dogma' di mana generasi baru mewarisi ketakutan tanpa faham sebab.",
+        "Kaitkan dengan mitos menunggu harga rendah: mula terus dengan benchmark RM100 GAP."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "5 Ekor Monyet & Tangga — G.R. Stephenson, 1967" },
+        { "buku": "konsep", "poin": "Conditioned Social Dogma" }
+      ],
+      "skrip": [
+        "Kita masuk **Perkara Asas Nombor Enam.** Soalan yang berulang-ulang ditanya oleh ribuan orang:",
+        "> WAKTU TERBAIK BELI EMAS IALAH BILA KITA ADA DUIT UNTUK SIMPANAN JANGKA PANJANG (2 TAHUN KE ATAS). BUKAN TUNGGU HARGA RENDAH! Harga emas yang dianggap mahal hari ini akan dianggap murah beberapa tahun akan datang. Kalau nak menabung emas, mulakan dulu dengan bajet kecil sebagai benchmark.",
+        "Tahun **1967**, penyelidik G.R. Stephenson jalankan eksperimen yang sangat terkenal:",
+        "5 ekor monyet diletakkan dalam satu sangkar besar. Di tengah sangkar ada satu tangga tinggi, dan di puncak tangga diletakkan sesikat pisang ranum.",
+        "Setiap kali ada monyet cuba panjat tangga nak capai pisang: *Bammm!* Penyelidik akan tembak **kesemua 5 monyet** dengan semburan air ais yang sangat sejuk beku!",
+        "Lepas kena sembur beberapa kali, monyet-monyet tu faham: setiap kali ada kawan cuba panjat tangga, **mereka pakat belasah monyet tu** cukup-cukup supaya tak kena simbah air ais!",
+        "Kemudian penyelidik tukar seekor monyet lama dengan seekor monyet baru. Monyet baru masuk sangkar, nampak pisang di atas tangga, terus nak panjat. Apa jadi? 4 ekor monyet lama terus tarik dan belasah dia!",
+        "Satu demi satu monyet lama digantikan sehingga **KESEMUA 5 MONYET adalah monyet baru** yang tidak pernah disembur air sejuk langsung!",
+        "Dan keputusannya? Bila diletakkan pisang baru di atas tangga, ==tiada seekor pun monyet berani panjat!== Dan kalau ada monyet nak cuba, mereka akan belasah dia, **walaupun tiada seekor pun tahu KENAPA** mereka membelasah kawan mereka!",
+        "Dalam sosiologi dan psikologi, ini dipanggil **Conditioned Social Dogma** — dogma sosial yang diwarisi tanpa logik.",
+        "Kawan-kawan, inilah dogma lapuk yang meracuni fikiran ramai orang tentang simpanan emas hari ini. Bila kita nak mula simpan emas, ada orang dalam circle atau komen media sosial cakap: *'Eh jangan beli sekarang, tunggu dulu harga emas jatuh murah baru beli!'*",
+        "Bila kita tanya dia balik: *'Abang dah simpan emas berapa gram?'* Jawapannya: **seketul emas pun dia tak ada!** Dia cuma mengulang dogma orang lain macam monyet dalam sangkar yang menakut-nakutkan orang tanpa faham pasaran!",
+        "Orang yang menunggu harga lantai paling rendah takkan pernah beli emas seumur hidupnya. Masa emas RM150 segram kata mahal, masa RM250 kata tunggu turun, masa RM350 kata tunggu lagi, sekarang dah RM400 lebih segram, **terus ternganga putih mata!**",
+        "Tiga pengajaran pedas untuk kita:",
+        "- **Pertama, pecahkan dogma monyet lama** — berhenti dengar nasihat kewangan daripada orang yang poketnya sendiri bocor dan tidak ada emas fizikal.",
+        "- **Kedua, waktu terbaik adalah bila ada duit lebihan** — bila ada duit simpanan untuk 2 tahun ke atas, terus tukarkan ke dalam bentuk gram emas.",
+        "- **Ketiga, mulakan benchmark serendah RM100** — jangan tunggu kumpul beribu ringgit. Melalui akaun GAP Public Gold, RM100 dah boleh tukar jadi gram emas dan sistem rekodkan berat emas anda mengikut harga harian."
+      ]
+    },
+    {
+      "no": 8,
+      "tajuk": "Waktu Terbaik Jual Emas: 3 Alasan Sahaja",
+      "chip": "#7 Tikus Berenang",
+      "asas": "Asas #7",
+      "mula": 2880,
+      "tamat": 3240,
+      "objektif": "Menghayati nilai penyelamat melalui eksperimen Tikus Berenang Dr. Curt Richter.",
+      "alat": "",
+      "cues": [
+        "Ceritakan eksperimen tikus berenang Dr. Curt Richter (Johns Hopkins University, 1950-an).",
+        "Tikus tanpa harapan lemas dalam 15 minit; tikus yang diselamatkan seketika mampu bertahan berenang selama 60 JAM!",
+        "Tegaskan 3 syarat keramat menjual emas Tuan Zul sebagai benteng harapan terakhir keluarga."
+      ],
+      "rujukan": [
+        { "buku": "makmal", "poin": "The Hope Experiment — Dr. Curt Richter, Johns Hopkins" },
+        { "buku": "konsep", "poin": "The Hope Factor — daya tahan bergantung pada harapan" }
+      ],
+      "skrip": [
+        "Bila dah faham waktu bila nak beli, persoalan terakhir dan paling penting: **bila masa yang betul untuk kita jual emas kita?**",
+        "Tolong pegang 3 syarat keramat yang digariskan dalam **Perkara Asas Nombor Tujuh** — waktu terbaik jual emas cuma ada tiga keadaan sahaja:",
+        "- **(a) Bila ada peluang untuk tukar kepada aset yang boleh menjana aliran tunai (cashflow)** — contohnya beli hartanah di bawah harga pasaran atau besarkan bisnes yang terbukti untung.",
+        "- **(b) Bila sudah capai target simpanan** — contohnya cukup dana haji, dana kahwin, atau deposit rumah impian.",
+        "- **(c) Bila ada hal kecemasan hidup yang mendesak.**",
+        "Selain daripada tiga alasan ini, ==TAK PERLU JUAL PUN EMAS TU WALAUPUN HARGA DAH TINGGI!==",
+        "Tahun **1950-an di Universiti Johns Hopkins**, Dr. Curt Richter jalankan satu ujian daya tahan yang sangat mendalam:",
+        "Dia masukkan seekor tikus makmal ke dalam balang kaca tinggi berisi air. Tikus itu berenang-renang cuba mencari jalan keluar. Tapi dinding balang licin. **Selepas 15 minit berenang tanpa harapan, tikus itu berputus asa dan mula tenggelam lemas.**",
+        "Kemudian Richter ambil sekumpulan tikus yang lain. Bila tikus-tikus ini berenang dan hampir berputus asa pada minit ke-14: **Richter hulurkan tangannya, angkat tikus itu keluar, lap badannya dengan tuala, dan biarkan ia berehat beberapa minit.** Kemudian dia masukkan semula tikus itu ke dalam balang air yang sama.",
+        "Cuba anda teka berapa lama tikus pusingan kedua ini mampu berenang bertahan? Bukan 15 minit. Bukan 1 jam. Bukan 5 jam.",
+        "Tikus itu mampu berenang bertahan selama ==60 JAM — lebih dua hari setengah!==",
+        "Kenapa? Kerana tikus itu ada **HARAPAN (THE HOPE FACTOR)** bahawa tangan penyelamat akan datang mengangkatnya keluar!",
+        "Dalam sains psikologi, ini membuktikan bahawa daya tahan kelangsungan hidup manusia bergantung kepada kekuatan **'perisai harapan'** yang kita ada di belakang tabir.",
+        "Kawan-kawan, emas fizikal dalam simpanan keluarga anda adalah ==TANGAN PENYELAMAT== yang memberi kekuatan daya tahan 60 jam itu!",
+        "Bila kita tahu kita ada beberapa keping emas fizikal dalam simpanan rahsia, **kita tak gelisah bila berdepan ujian hidup.** Kita bekerja dengan tenang, kita tidur lena, kerana kita tahu keluarga kita ada benteng pertahanan kalis ribut!",
+        "Sebab itulah, jangan sesekali jual emas anda semata-mata nak beli barang kehendak remeh! Jangan buang perisai harapan anda melainkan untuk 3 perkara besar tadi: menukar ke aset aliran tunai, menyempurnakan impian agung, atau menyelamatkan keluarga ketika lemas kecemasan hidup!"
+      ]
+    },
+    {
+      "no": 9,
+      "tajuk": "Rumusan, Mic Drop & Call to Action",
+      "chip": "Tutup · Mic Drop",
+      "asas": null,
+      "mula": 3240,
+      "tamat": 3600,
+      "objektif": "Menyimpulkan perkongsian dengan Mic Drop menusuk kalbu, soalan refleksi jujur dan ajakan GAP RM100.",
+      "alat": "Kad dealer Public Gold PG00359605.",
+      "cues": [
+        "Ulangi 7 asas emas dan kaitannya dengan 7 eksperimen sains psikologi secara padat.",
+        "Lontarkan Mic Drop penutup: 'Pintu dah terbuka luas. Lompatlah keluar sekarang.'",
+        "Ajak penonton membuka akaun GAP percuma serendah RM100 bersama Dealer Sah PG00359605."
+      ],
+      "rujukan": [
+        { "buku": "konsep", "poin": "Mic Drop penutup & refleksi jujur" }
+      ],
+      "skrip": [
+        "Alhamdulillah sahabat sekalian, genap 60 minit kita bersama membongkar 7 Asas Simpanan Emas melalui kanta eksperimen psikologi dan sains tingkah laku manusia. Mari kita rumuskan kembali:",
+        "- **1.** Emas tiada dividen bulanan — jangan jadi tikus histeria dalam Kotak Skinner menekan tuil scammer.",
+        "- **2.** Beli emas mesti dapat emas fizikal — pegang 'Contact Comfort' hakiki macam anak monyet Harlow, bukan angka kawat di skrin.",
+        "- **3.** Jangka masa simpanan 2 tahun ke atas — latih otot 'Delayed Gratification' eksperimen Marshmallow Stanford.",
+        "- **4.** Harga naik purata 10% setahun — jangan mati direbus dalam periuk inflasi macam sang katak leka.",
+        "- **5.** Beli emas duit tak habis — manfaatkan 'The IKEA Effect' untuk mematikan nafsu boros wang tunai.",
+        "- **6.** Waktu terbaik beli ialah bila ada duit — pecahkan 'Conditioned Social Dogma' 5 ekor monyet dan tangga.",
+        "- **7.** Waktu terbaik jual cuma 3 keadaan — simpan tangan penyelamat 'The Hope Experiment' untuk kelangsungan hidup keluarga.",
+        "Kawan-kawan, dengar baik-baik Mic Drop penutup malam ini:",
+        "> Lompatlah keluar sebelum air di sekeliling anda mendidih. Penutup balang fikiran anda sudah terbuka luas malam ini. Lompatlah sekarang!",
+        "Kawan-kawan, mari jujur dari hati. Cuba jawab soalan ini di ruangan komen di bawah:",
+        "> Selama ini, anda rasa anda sedang membina kekayaan sebenar dengan minda terbuka, atau anda sebenarnya sedang terkurung dalam balang kutu dan periuk air suam inflasi tanpa anda sedari?",
+        "Bagi anda yang mahu memecahkan belenggu itu dan memulakan tabungan emas fizikal patuh syariah pertama anda malam ini, langkahnya sangat mudah dan selamat. Melalui akaun **Gold Accumulation Program (GAP) Public Gold**:",
+        "- Anda boleh mula menabung serendah **RM100 sahaja.**",
+        "- Pendaftaran **100% percuma** tanpa yuran bulanan atau komitmen wajib.",
+        "- Setiap ringgit ditukar kepada gram emas tulen 999.9 yang boleh dikeluarkan dalam bentuk gold bar fizikal serendah 1 gram sehingga 1 kilogram di mana-mana cawangan Public Gold seluruh Malaysia, Singapura, Brunei, dan Indonesia!",
+        "Bagaimana nak dapatkan bimbingan percuma?",
+        "- **1.** Klik link di bio profil saya sekarang, atau",
+        "- **2.** Tinggalkan komen ==SAYA NAK MULA== di bawah video ini sekarang.",
+        "Saya sendiri, **Taufik Musa, Authorized Dealer Public Gold Kod PG00359605**, akan bimbing anda langkah demi langkah dalam komuniti G100 Network bimbingan Tuan Mohd Zulkifli Shafie.",
+        "Terima kasih atas segala sokongan, tap-tap skrin, dan perkongsian anda semua sepanjang 1 jam ini. Semoga perkongsian ini bermanfaat. **Taufik, Dealer Public Gold (PG00359605) · simpanemasfizikal.com**",
+        "**Wabillahi taufiq wal hidayah, wassalamualaikum warahmatullahi wabarakatuh. Selamat malam semua!**"
+      ]
+    }
+  ]
+}
