@@ -1,0 +1,48 @@
+{
+  "id": "live-NN",
+  "ver": "ver-NN",
+  "tajuk": "Tajuk utama skrip",
+  "subtajuk": "Sub-tajuk atau sudut yang digabungkan",
+  "hos": "Taufik Musa",
+  "dealer": "Authorized Dealer Public Gold PG00359605",
+  "format": "Live Stream Interaktif — TikTok / Facebook / Instagram / YouTube",
+  "durasi": 3600,
+  "ringkasan": "Satu ayat tentang isi live ni.",
+  "rujukanTeras": [
+    { "tajuk": "Nama buku atau artikel", "penulis": "Penulis", "nota": "" }
+  ],
+  "props": [
+    "Gold bar 1 gram fizikal atas meja",
+    "Buku nota kecil + pen",
+    "Kad dealer Public Gold",
+    "Link pendaftaran GAP dah standby di bio",
+    "Air minum",
+    "Telefon backup + charger"
+  ],
+  "segmen": [
+    {
+      "no": 1,
+      "tajuk": "Pembukaan & hook",
+      "chip": "Buka",
+      "asas": null,
+      "mula": 0,
+      "tamat": 300,
+      "objektif": "Apa segmen ni nak capai.",
+      "alat": "Props khas untuk segmen ni, atau kosongkan.",
+      "cues": [
+        "Arahan kamera atau intonasi.",
+        "Soalan untuk dilempar ke ruang komen."
+      ],
+      "rujukan": [
+        { "buku": "canfield", "poin": "Prinsip 1 — Take 100% Responsibility" }
+      ],
+      "skrip": [
+        "Perenggan biasa. **Tebal** untuk ayat yang kena tekan suara.",
+        "==Sorot== untuk punchline segmen ni.",
+        "- Butiran senarai yang disebut satu-satu",
+        "> Petikan daripada buku rujukan",
+        "*(arahan pentas — tunjuk gold bar ke kamera)*"
+      ]
+    }
+  ]
+}
